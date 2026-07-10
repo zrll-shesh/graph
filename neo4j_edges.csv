@@ -1,0 +1,481 @@
+:START_ID,:END_ID,weight:int,first_year,last_year,:TYPE
+Anita Qoiriah,I Made Suartana,3,2023,2026,COLLABORATES_WITH
+I Made Suartana,Yuni Yamasari,3,2022,2026,COLLABORATES_WITH
+I Made Suartana,Ricky Eka Putra,7,2021,2026,COLLABORATES_WITH
+Anita Qoiriah,Yuni Yamasari,18,2020,2026,COLLABORATES_WITH
+Anita Qoiriah,Ricky Eka Putra,7,2020,2026,COLLABORATES_WITH
+Ricky Eka Putra,Yuni Yamasari,6,2020,2026,COLLABORATES_WITH
+Ekohariadi,Tri Rijanto,3,2021,2026,COLLABORATES_WITH
+Ekohariadi,Yeni Anistyasari,12,2018,2026,COLLABORATES_WITH
+Tri Rijanto,Yeni Anistyasari,3,2024,2026,COLLABORATES_WITH
+Lilik Anifah,Nurhayati,5,2022,2026,COLLABORATES_WITH
+Anita Safitri,Hafid Kholidi Hadi,6,2022,2026,COLLABORATES_WITH
+Anita Safitri,Muhammad Fajar Wahyudi Rahman,5,2024,2026,COLLABORATES_WITH
+Anita Safitri,Ika Diyah Candra Arifah,3,2022,2026,COLLABORATES_WITH
+Hafid Kholidi Hadi,Muhammad Fajar Wahyudi Rahman,5,2023,2026,COLLABORATES_WITH
+Hafid Kholidi Hadi,Ika Diyah Candra Arifah,4,2024,2026,COLLABORATES_WITH
+Ika Diyah Candra Arifah,Muhammad Fajar Wahyudi Rahman,2,2022,2026,COLLABORATES_WITH
+Dodik Arwin Dermawan,Faris Abdi El Hakim,1,2026,2026,COLLABORATES_WITH
+Dimas Novian Aditia Syahputra,Faris Abdi El Hakim,1,2026,2026,COLLABORATES_WITH
+Faris Abdi El Hakim,Moch Deny Pratama,1,2026,2026,COLLABORATES_WITH
+Faris Abdi El Hakim,Salamun Rohman Nudin,1,2026,2026,COLLABORATES_WITH
+Asmunin,Faris Abdi El Hakim,1,2026,2026,COLLABORATES_WITH
+Andi Iwan Nurhidayat,Faris Abdi El Hakim,1,2026,2026,COLLABORATES_WITH
+Dimas Novian Aditia Syahputra,Dodik Arwin Dermawan,5,2024,2026,COLLABORATES_WITH
+Dodik Arwin Dermawan,Moch Deny Pratama,1,2026,2026,COLLABORATES_WITH
+Dodik Arwin Dermawan,Salamun Rohman Nudin,3,2024,2026,COLLABORATES_WITH
+Asmunin,Dodik Arwin Dermawan,2,2024,2026,COLLABORATES_WITH
+Andi Iwan Nurhidayat,Dodik Arwin Dermawan,1,2026,2026,COLLABORATES_WITH
+Dimas Novian Aditia Syahputra,Moch Deny Pratama,1,2026,2026,COLLABORATES_WITH
+Dimas Novian Aditia Syahputra,Salamun Rohman Nudin,2,2026,2026,COLLABORATES_WITH
+Asmunin,Dimas Novian Aditia Syahputra,1,2026,2026,COLLABORATES_WITH
+Andi Iwan Nurhidayat,Dimas Novian Aditia Syahputra,1,2026,2026,COLLABORATES_WITH
+Moch Deny Pratama,Salamun Rohman Nudin,1,2026,2026,COLLABORATES_WITH
+Asmunin,Moch Deny Pratama,1,2026,2026,COLLABORATES_WITH
+Andi Iwan Nurhidayat,Moch Deny Pratama,1,2026,2026,COLLABORATES_WITH
+Asmunin,Salamun Rohman Nudin,2,2024,2026,COLLABORATES_WITH
+Andi Iwan Nurhidayat,Salamun Rohman Nudin,1,2026,2026,COLLABORATES_WITH
+Andi Iwan Nurhidayat,Asmunin,3,2018,2026,COLLABORATES_WITH
+Dimas Novian Aditia Syahputra,I Gde Agung Sri Sidhimantra,3,2024,2026,COLLABORATES_WITH
+I Gde Agung Sri Sidhimantra,Salamun Rohman Nudin,2,2024,2026,COLLABORATES_WITH
+Dodik Arwin Dermawan,I Gde Agung Sri Sidhimantra,5,2024,2026,COLLABORATES_WITH
+Fajar Arianto,Siti Masitoh,2,2022,2026,COLLABORATES_WITH
+Bachtiar Syaiful Bachri,Fajar Arianto,1,2026,2026,COLLABORATES_WITH
+Anita Qoiriah,Naim Rochmawati,11,2020,2025,COLLABORATES_WITH
+Naim Rochmawati,Yuni Yamasari,15,2018,2025,COLLABORATES_WITH
+Farhanna Mari,Paramitha Nerisafitra,1,2025,2025,COLLABORATES_WITH
+Muhammad Sonhaji Akbar,Rifqi Abdillah,2,2025,2025,COLLABORATES_WITH
+Monica Cinthya,Rifqi Abdillah,1,2025,2025,COLLABORATES_WITH
+Moch Deny Pratama,Rifqi Abdillah,2,2025,2025,COLLABORATES_WITH
+Anggraeni Widya Purwita,Rifqi Abdillah,1,2025,2025,COLLABORATES_WITH
+Farhanna Mari,Rifqi Abdillah,2,2025,2025,COLLABORATES_WITH
+Monica Cinthya,Muhammad Sonhaji Akbar,1,2025,2025,COLLABORATES_WITH
+Moch Deny Pratama,Muhammad Sonhaji Akbar,2,2025,2025,COLLABORATES_WITH
+Anggraeni Widya Purwita,Muhammad Sonhaji Akbar,1,2025,2025,COLLABORATES_WITH
+Farhanna Mari,Muhammad Sonhaji Akbar,1,2025,2025,COLLABORATES_WITH
+Moch Deny Pratama,Monica Cinthya,1,2025,2025,COLLABORATES_WITH
+Anggraeni Widya Purwita,Monica Cinthya,1,2025,2025,COLLABORATES_WITH
+Farhanna Mari,Monica Cinthya,1,2025,2025,COLLABORATES_WITH
+Anggraeni Widya Purwita,Moch Deny Pratama,1,2025,2025,COLLABORATES_WITH
+Farhanna Mari,Moch Deny Pratama,1,2025,2025,COLLABORATES_WITH
+Anggraeni Widya Purwita,Farhanna Mari,1,2025,2025,COLLABORATES_WITH
+Muhammad Fachmi,Rifqi Abdillah,1,2025,2025,COLLABORATES_WITH
+Ersha Aisyah Elfaiz,Muhammad Fachmi,1,2025,2025,COLLABORATES_WITH
+Muhammad Fachmi,Riza Akhsani Setyo Prayoga,1,2025,2025,COLLABORATES_WITH
+Farhanna Mari,Muhammad Fachmi,1,2025,2025,COLLABORATES_WITH
+Ersha Aisyah Elfaiz,Rifqi Abdillah,1,2025,2025,COLLABORATES_WITH
+Rifqi Abdillah,Riza Akhsani Setyo Prayoga,1,2025,2025,COLLABORATES_WITH
+Ersha Aisyah Elfaiz,Riza Akhsani Setyo Prayoga,1,2025,2025,COLLABORATES_WITH
+Ersha Aisyah Elfaiz,Farhanna Mari,1,2025,2025,COLLABORATES_WITH
+Farhanna Mari,Riza Akhsani Setyo Prayoga,1,2025,2025,COLLABORATES_WITH
+Aditya Prapanca,Widi Aribowo,8,2023,2025,COLLABORATES_WITH
+Naim Rochmawati,Parama Diptya Widayaka,2,2023,2025,COLLABORATES_WITH
+I Gusti Putu Asto Buditjahjanto,Parama Diptya Widayaka,1,2025,2025,COLLABORATES_WITH
+I Gusti Putu Asto Buditjahjanto,Naim Rochmawati,1,2025,2025,COLLABORATES_WITH
+Mohammad Wildan Habibi,Rifqi Abdillah,2,2025,2025,COLLABORATES_WITH
+Mohammad Wildan Habibi,Muhammad Sonhaji Akbar,1,2025,2025,COLLABORATES_WITH
+Moch Deny Pratama,Mohammad Wildan Habibi,1,2025,2025,COLLABORATES_WITH
+Mohammad Wildan Habibi,Parama Diptya Widayaka,1,2025,2025,COLLABORATES_WITH
+Parama Diptya Widayaka,Rifqi Abdillah,2,2023,2025,COLLABORATES_WITH
+Muhammad Sonhaji Akbar,Parama Diptya Widayaka,1,2025,2025,COLLABORATES_WITH
+Moch Deny Pratama,Parama Diptya Widayaka,1,2025,2025,COLLABORATES_WITH
+Mohammad Wildan Habibi,Ramadhan Cakra Wibawa,1,2025,2025,COLLABORATES_WITH
+Mohammad Wildan Habibi,Tri Rijanto,3,2024,2025,COLLABORATES_WITH
+I Gusti Putu Asto Buditjahjanto,Mohammad Wildan Habibi,3,2024,2025,COLLABORATES_WITH
+Lilik Anifah,Mohammad Wildan Habibi,1,2025,2025,COLLABORATES_WITH
+Harun Al Rosyid,Mohammad Wildan Habibi,1,2025,2025,COLLABORATES_WITH
+Ramadhan Cakra Wibawa,Rifqi Abdillah,1,2025,2025,COLLABORATES_WITH
+Ramadhan Cakra Wibawa,Tri Rijanto,1,2025,2025,COLLABORATES_WITH
+I Gusti Putu Asto Buditjahjanto,Ramadhan Cakra Wibawa,1,2025,2025,COLLABORATES_WITH
+Lilik Anifah,Ramadhan Cakra Wibawa,1,2025,2025,COLLABORATES_WITH
+Harun Al Rosyid,Ramadhan Cakra Wibawa,1,2025,2025,COLLABORATES_WITH
+Rifqi Abdillah,Tri Rijanto,1,2025,2025,COLLABORATES_WITH
+I Gusti Putu Asto Buditjahjanto,Rifqi Abdillah,1,2025,2025,COLLABORATES_WITH
+Lilik Anifah,Rifqi Abdillah,1,2025,2025,COLLABORATES_WITH
+Harun Al Rosyid,Rifqi Abdillah,1,2025,2025,COLLABORATES_WITH
+I Gusti Putu Asto Buditjahjanto,Tri Rijanto,2,2025,2025,COLLABORATES_WITH
+Lilik Anifah,Tri Rijanto,1,2025,2025,COLLABORATES_WITH
+Harun Al Rosyid,Tri Rijanto,1,2025,2025,COLLABORATES_WITH
+I Gusti Putu Asto Buditjahjanto,Lilik Anifah,3,2023,2025,COLLABORATES_WITH
+Harun Al Rosyid,I Gusti Putu Asto Buditjahjanto,1,2025,2025,COLLABORATES_WITH
+Harun Al Rosyid,Lilik Anifah,1,2025,2025,COLLABORATES_WITH
+I Made Suartana,Pradini Puspitaningayu,2,2024,2025,COLLABORATES_WITH
+Aries Dwi Indriyanti,I Made Suartana,1,2025,2025,COLLABORATES_WITH
+Aries Dwi Indriyanti,Pradini Puspitaningayu,1,2025,2025,COLLABORATES_WITH
+Cendra Devayana Putra,Monica Cinthya,1,2025,2025,COLLABORATES_WITH
+Cendra Devayana Putra,I Kadek Dwi Nuryana,1,2025,2025,COLLABORATES_WITH
+Cendra Devayana Putra,Wiyli Yustanti,1,2025,2025,COLLABORATES_WITH
+I Kadek Dwi Nuryana,Monica Cinthya,1,2025,2025,COLLABORATES_WITH
+Monica Cinthya,Wiyli Yustanti,1,2025,2025,COLLABORATES_WITH
+I Kadek Dwi Nuryana,Wiyli Yustanti,2,2023,2025,COLLABORATES_WITH
+Ersha Aisyah Elfaiz,Monica Cinthya,1,2025,2025,COLLABORATES_WITH
+Berlian Maulidya Izzati,Ersha Aisyah Elfaiz,1,2025,2025,COLLABORATES_WITH
+Anggraeni Widya Purwita,Ersha Aisyah Elfaiz,1,2025,2025,COLLABORATES_WITH
+Anggraeni Widya Purwita,Berlian Maulidya Izzati,2,2024,2025,COLLABORATES_WITH
+Ghea Sekar Palupi,Rahadian Bisma,1,2025,2025,COLLABORATES_WITH
+Aries Dwi Indriyanti,Rahadian Bisma,1,2025,2025,COLLABORATES_WITH
+Anggraeni Widya Purwita,Rahadian Bisma,2,2024,2025,COLLABORATES_WITH
+Aries Dwi Indriyanti,Ghea Sekar Palupi,1,2025,2025,COLLABORATES_WITH
+Anggraeni Widya Purwita,Ghea Sekar Palupi,1,2025,2025,COLLABORATES_WITH
+Anggraeni Widya Purwita,Aries Dwi Indriyanti,1,2025,2025,COLLABORATES_WITH
+Berlian Maulidya Izzati,Dwi Fatrianto Suyatno,1,2025,2025,COLLABORATES_WITH
+Bonda Sisephaputra,Dwi Fatrianto Suyatno,2,2024,2025,COLLABORATES_WITH
+Ardhini Warih Utami,Dwi Fatrianto Suyatno,1,2025,2025,COLLABORATES_WITH
+Berlian Maulidya Izzati,Bonda Sisephaputra,1,2025,2025,COLLABORATES_WITH
+Ardhini Warih Utami,Berlian Maulidya Izzati,1,2025,2025,COLLABORATES_WITH
+Ardhini Warih Utami,Bonda Sisephaputra,1,2025,2025,COLLABORATES_WITH
+Ekohariadi,Lilik Anifah,2,2022,2025,COLLABORATES_WITH
+Ekohariadi,Tri Wrahatnolo,3,2020,2025,COLLABORATES_WITH
+Sayyidul Aulia Alamsyah,Yeni Anistyasari,1,2025,2025,COLLABORATES_WITH
+Riza Akhsani Setyo Prayoga,Rizky Basatha,1,2025,2025,COLLABORATES_WITH
+Muhammad Sonhaji Akbar,Rizky Basatha,1,2025,2025,COLLABORATES_WITH
+Muhammad Sonhaji Akbar,Riza Akhsani Setyo Prayoga,1,2025,2025,COLLABORATES_WITH
+Elvira Wardah,Nisa Dwi Septiyanti,1,2025,2025,COLLABORATES_WITH
+Lilik Anifah,Lusia Rakhmawati,2,2024,2025,COLLABORATES_WITH
+Lusia Rakhmawati,Nurhayati,3,2024,2025,COLLABORATES_WITH
+Lilik Anifah,Puput Wanarti Rusimamto,9,2017,2025,COLLABORATES_WITH
+Nurhayati,Puput Wanarti Rusimamto,2,2021,2025,COLLABORATES_WITH
+I Gusti Putu Asto Buditjahjanto,Puput Wanarti Rusimamto,1,2025,2025,COLLABORATES_WITH
+Endryansyah,Puput Wanarti Rusimamto,7,2018,2025,COLLABORATES_WITH
+Endryansyah,Lilik Anifah,3,2021,2025,COLLABORATES_WITH
+Endryansyah,I Gusti Putu Asto Buditjahjanto,1,2025,2025,COLLABORATES_WITH
+Bambang Suprianto,Puput Wanarti Rusimamto,2,2025,2025,COLLABORATES_WITH
+Bambang Suprianto,Lilik Anifah,5,2021,2025,COLLABORATES_WITH
+Bambang Suprianto,Endryansyah,2,2025,2025,COLLABORATES_WITH
+Pradini Puspitaningayu,Yuni Yamasari,1,2025,2025,COLLABORATES_WITH
+Lusia Rakhmawati,Yuni Yamasari,3,2018,2025,COLLABORATES_WITH
+Lusia Rakhmawati,Pradini Puspitaningayu,6,2018,2025,COLLABORATES_WITH
+Parama Diptya Widayaka,Sayyidul Aulia Alamsyah,4,2023,2025,COLLABORATES_WITH
+Parama Diptya Widayaka,Pradini Puspitaningayu,4,2023,2025,COLLABORATES_WITH
+Pradini Puspitaningayu,Sayyidul Aulia Alamsyah,2,2023,2025,COLLABORATES_WITH
+Farid Baskoro,Miftahur Rohman,10,2020,2025,COLLABORATES_WITH
+Ibrohim,Rifqi Firmansyah,1,2025,2025,COLLABORATES_WITH
+Farid Baskoro,Ibrohim,1,2025,2025,COLLABORATES_WITH
+Arif Widodo,Ibrohim,1,2025,2025,COLLABORATES_WITH
+Farid Baskoro,Rifqi Firmansyah,1,2025,2025,COLLABORATES_WITH
+Arif Widodo,Rifqi Firmansyah,2,2018,2025,COLLABORATES_WITH
+Arif Widodo,Farid Baskoro,2,2020,2025,COLLABORATES_WITH
+I Gusti Putu Asto Buditjahjanto,Sayyidul Aulia Alamsyah,1,2025,2025,COLLABORATES_WITH
+Fadhilah Qalbi Annisa,Riskyana Dewi Intan P,4,2023,2025,COLLABORATES_WITH
+Ike Fitriyaningsih,Riskyana Dewi Intan P,1,2025,2025,COLLABORATES_WITH
+Elly Matul Imah,Riskyana Dewi Intan P,6,2022,2025,COLLABORATES_WITH
+Harmon Prayogi,Riskyana Dewi Intan P,1,2025,2025,COLLABORATES_WITH
+Fadhilah Qalbi Annisa,Ike Fitriyaningsih,1,2025,2025,COLLABORATES_WITH
+Elly Matul Imah,Fadhilah Qalbi Annisa,3,2023,2025,COLLABORATES_WITH
+Fadhilah Qalbi Annisa,Harmon Prayogi,1,2025,2025,COLLABORATES_WITH
+Elly Matul Imah,Ike Fitriyaningsih,1,2025,2025,COLLABORATES_WITH
+Harmon Prayogi,Ike Fitriyaningsih,1,2025,2025,COLLABORATES_WITH
+Elly Matul Imah,Harmon Prayogi,1,2025,2025,COLLABORATES_WITH
+Anita Safitri,Riska Dhenabayu,3,2023,2025,COLLABORATES_WITH
+Anita Safitri,Nanang Hoesen. H. A,5,2023,2025,COLLABORATES_WITH
+Anita Safitri,Hujjatullah Fazlurrahman,3,2022,2025,COLLABORATES_WITH
+Nanang Hoesen. H. A,Riska Dhenabayu,3,2023,2025,COLLABORATES_WITH
+Hujjatullah Fazlurrahman,Riska Dhenabayu,4,2023,2025,COLLABORATES_WITH
+Hujjatullah Fazlurrahman,Nanang Hoesen. H. A,3,2023,2025,COLLABORATES_WITH
+Dhiyan Septa Wihara,Ratih Amelia,3,2024,2025,COLLABORATES_WITH
+Muhammad Fachmi,Nadia Nur Thahirrah,1,2025,2025,COLLABORATES_WITH
+Muhammad Fachmi,Ratih Amelia,2,2024,2025,COLLABORATES_WITH
+Hafid Kholidi Hadi,Muhammad Fachmi,2,2024,2025,COLLABORATES_WITH
+Fresha Kharisma,Muhammad Fachmi,1,2025,2025,COLLABORATES_WITH
+Nadia Nur Thahirrah,Ratih Amelia,4,2024,2025,COLLABORATES_WITH
+Hafid Kholidi Hadi,Nadia Nur Thahirrah,2,2024,2025,COLLABORATES_WITH
+Fresha Kharisma,Nadia Nur Thahirrah,3,2024,2025,COLLABORATES_WITH
+Hafid Kholidi Hadi,Ratih Amelia,2,2024,2025,COLLABORATES_WITH
+Fresha Kharisma,Ratih Amelia,3,2024,2025,COLLABORATES_WITH
+Fresha Kharisma,Hafid Kholidi Hadi,3,2022,2025,COLLABORATES_WITH
+Achmad Kautsar,Dhiyan Septa Wihara,2,2024,2025,COLLABORATES_WITH
+Dhiyan Septa Wihara,Hujjatullah Fazlurrahman,1,2025,2025,COLLABORATES_WITH
+Achmad Kautsar,Hujjatullah Fazlurrahman,5,2018,2025,COLLABORATES_WITH
+Ika Diyah Candra Arifah,Renny Sari Dewi,3,2024,2025,COLLABORATES_WITH
+Hafid Kholidi Hadi,Renny Sari Dewi,2,2022,2025,COLLABORATES_WITH
+Renny Sari Dewi,Riska Dhenabayu,2,2025,2025,COLLABORATES_WITH
+Ika Diyah Candra Arifah,Riska Dhenabayu,1,2025,2025,COLLABORATES_WITH
+Hafid Kholidi Hadi,Riska Dhenabayu,1,2025,2025,COLLABORATES_WITH
+Muhammad Febrilian Dwi Syahputra,Riska Dhenabayu,1,2025,2025,COLLABORATES_WITH
+Achmad Fitro,Riska Dhenabayu,2,2024,2025,COLLABORATES_WITH
+Muhammad Febrilian Dwi Syahputra,Renny Sari Dewi,1,2025,2025,COLLABORATES_WITH
+Anita Safitri,Renny Sari Dewi,4,2022,2025,COLLABORATES_WITH
+Achmad Fitro,Renny Sari Dewi,1,2025,2025,COLLABORATES_WITH
+Anita Safitri,Muhammad Febrilian Dwi Syahputra,1,2025,2025,COLLABORATES_WITH
+Achmad Fitro,Muhammad Febrilian Dwi Syahputra,1,2025,2025,COLLABORATES_WITH
+Achmad Fitro,Anita Safitri,1,2025,2025,COLLABORATES_WITH
+Aditya Chandra Hermawan,Reza Rahmadian,6,2021,2025,COLLABORATES_WITH
+Bachtiar Syaiful Bachri,Mustaji,3,2020,2025,COLLABORATES_WITH
+Bachtiar Syaiful Bachri,Siti Masitoh,4,2018,2025,COLLABORATES_WITH
+Andi Mariono,Rusijono,2,2024,2025,COLLABORATES_WITH
+Fajar Arianto,Rusijono,2,2025,2026,COLLABORATES_WITH
+Andi Iwan Nurhidayat,Wiyli Yustanti,2,2024,2025,COLLABORATES_WITH
+Agus Prihanto,Anita Qoiriah,5,2018,2024,COLLABORATES_WITH
+Andi Iwan Nurhidayat,Anita Qoiriah,4,2021,2024,COLLABORATES_WITH
+Agus Prihanto,Yuni Yamasari,5,2020,2024,COLLABORATES_WITH
+Andi Iwan Nurhidayat,Yuni Yamasari,6,2021,2024,COLLABORATES_WITH
+Agus Prihanto,Andi Iwan Nurhidayat,1,2024,2024,COLLABORATES_WITH
+Andi Iwan Nurhidayat,Ricky Eka Putra,1,2024,2024,COLLABORATES_WITH
+Agus Prihanto,I Made Suartana,2,2022,2024,COLLABORATES_WITH
+Aditya Prapanca,I Made Suartana,3,2018,2024,COLLABORATES_WITH
+I Made Suartana,Naim Rochmawati,2,2022,2024,COLLABORATES_WITH
+Aditya Prapanca,Agus Prihanto,2,2022,2024,COLLABORATES_WITH
+Agus Prihanto,Naim Rochmawati,3,2022,2024,COLLABORATES_WITH
+Aditya Prapanca,Anita Qoiriah,1,2024,2024,COLLABORATES_WITH
+Aditya Prapanca,Naim Rochmawati,2,2022,2024,COLLABORATES_WITH
+Aditya Prapanca,Yuni Yamasari,3,2022,2024,COLLABORATES_WITH
+Ricky Eka Putra,Wiyli Yustanti,2,2021,2024,COLLABORATES_WITH
+Anita Qoiriah,Wiyli Yustanti,6,2018,2024,COLLABORATES_WITH
+Wiyli Yustanti,Yuni Yamasari,9,2020,2024,COLLABORATES_WITH
+I Made Suartana,Paramitha Nerisafitra,1,2024,2024,COLLABORATES_WITH
+Paramitha Nerisafitra,Ricky Eka Putra,1,2024,2024,COLLABORATES_WITH
+Aditya Prapanca,Aries Dwi Indriyanti,1,2024,2024,COLLABORATES_WITH
+Aries Dwi Indriyanti,Ervin Yohannes,1,2024,2024,COLLABORATES_WITH
+Aries Dwi Indriyanti,Yuni Yamasari,1,2024,2024,COLLABORATES_WITH
+Aries Dwi Indriyanti,I Kadek Dwi Nuryana,3,2020,2024,COLLABORATES_WITH
+Aditya Prapanca,Ervin Yohannes,2,2024,2024,COLLABORATES_WITH
+Aditya Prapanca,I Kadek Dwi Nuryana,1,2024,2024,COLLABORATES_WITH
+Ervin Yohannes,Yuni Yamasari,1,2024,2024,COLLABORATES_WITH
+Ervin Yohannes,I Kadek Dwi Nuryana,1,2024,2024,COLLABORATES_WITH
+I Kadek Dwi Nuryana,Yuni Yamasari,1,2024,2024,COLLABORATES_WITH
+Aditya Prapanca,Reza Rahmadian,4,2023,2024,COLLABORATES_WITH
+Reza Rahmadian,Widi Aribowo,12,2021,2024,COLLABORATES_WITH
+Mahendra Widyartono,Reza Rahmadian,14,2020,2024,COLLABORATES_WITH
+Aditya Prapanca,Mahendra Widyartono,4,2023,2024,COLLABORATES_WITH
+Mahendra Widyartono,Widi Aribowo,14,2021,2024,COLLABORATES_WITH
+I Gde Agung Sri Sidhimantra,I Gusti Putu Asto Buditjahjanto,1,2024,2024,COLLABORATES_WITH
+Dodik Arwin Dermawan,I Gusti Putu Asto Buditjahjanto,1,2024,2024,COLLABORATES_WITH
+Asmunin,I Gde Agung Sri Sidhimantra,1,2024,2024,COLLABORATES_WITH
+I Made Suartana,Subuh Isnur Haryudo,1,2024,2024,COLLABORATES_WITH
+Pradini Puspitaningayu,Subuh Isnur Haryudo,1,2024,2024,COLLABORATES_WITH
+Dwi Fatrianto Suyatno,Rahadian Bisma,1,2024,2024,COLLABORATES_WITH
+Bonda Sisephaputra,Rahadian Bisma,1,2024,2024,COLLABORATES_WITH
+Anggraeni Widya Purwita,Dwi Fatrianto Suyatno,1,2024,2024,COLLABORATES_WITH
+Anggraeni Widya Purwita,Bonda Sisephaputra,1,2024,2024,COLLABORATES_WITH
+Ardhini Warih Utami,Ghea Sekar Palupi,1,2024,2024,COLLABORATES_WITH
+Ghea Sekar Palupi,Wiyli Yustanti,1,2024,2024,COLLABORATES_WITH
+Ardhini Warih Utami,Wiyli Yustanti,1,2024,2024,COLLABORATES_WITH
+Andi Iwan Nurhidayat,Rindu Puspita Wibawa,1,2024,2024,COLLABORATES_WITH
+Rindu Puspita Wibawa,Yuni Yamasari,1,2024,2024,COLLABORATES_WITH
+Rindu Puspita Wibawa,Wiyli Yustanti,1,2024,2024,COLLABORATES_WITH
+Nurhayati,Pradini Puspitaningayu,3,2024,2024,COLLABORATES_WITH
+Pradini Puspitaningayu,Unit Three Kartini,2,2018,2024,COLLABORATES_WITH
+Pradini Puspitaningayu,Ulfa Siti Nuraini,1,2024,2024,COLLABORATES_WITH
+Ibnu Febry Kurniawan,Pradini Puspitaningayu,1,2024,2024,COLLABORATES_WITH
+Ibnu Febry Kurniawan,Ulfa Siti Nuraini,1,2024,2024,COLLABORATES_WITH
+Parama Diptya Widayaka,Puput Wanarti Rusimamto,1,2024,2024,COLLABORATES_WITH
+Lilik Anifah,Parama Diptya Widayaka,2,2023,2024,COLLABORATES_WITH
+Miftahur Rohman,Widi Aribowo,5,2021,2024,COLLABORATES_WITH
+Farid Baskoro,Widi Aribowo,4,2022,2024,COLLABORATES_WITH
+Hesti Khuzaimah Nurul Yusufiyah,Nur Kholis,1,2024,2024,COLLABORATES_WITH
+Parama Diptya Widayaka,Rifqi Firmansyah,1,2024,2024,COLLABORATES_WITH
+Fadhilah Qalbi Annisa,Ibnu Febry Kurniawan,1,2024,2024,COLLABORATES_WITH
+Hafid Kholidi Hadi,Nanang Hoesen. H. A,3,2023,2024,COLLABORATES_WITH
+Fresha Kharisma,Nanang Hoesen. H. A,3,2024,2024,COLLABORATES_WITH
+Fresha Kharisma,Ika Diyah Candra Arifah,5,2022,2024,COLLABORATES_WITH
+Ika Diyah Candra Arifah,Nanang Hoesen. H. A,2,2024,2024,COLLABORATES_WITH
+Achmad Fitro,Nanang Hoesen. H. A,1,2024,2024,COLLABORATES_WITH
+Achmad Fitro,Hujjatullah Fazlurrahman,1,2024,2024,COLLABORATES_WITH
+Anita Safitri,Fresha Kharisma,4,2022,2024,COLLABORATES_WITH
+Fresha Kharisma,Muhammad Fajar Wahyudi Rahman,1,2024,2024,COLLABORATES_WITH
+Muhammad Fajar Wahyudi Rahman,Nanang Hoesen. H. A,2,2024,2024,COLLABORATES_WITH
+Achmad Kautsar,Hafid Kholidi Hadi,6,2022,2024,COLLABORATES_WITH
+Achmad Kautsar,Muhammad Fajar Wahyudi Rahman,7,2022,2024,COLLABORATES_WITH
+Achmad Kautsar,Nanang Hoesen. H. A,3,2023,2024,COLLABORATES_WITH
+Fresha Kharisma,Renny Sari Dewi,3,2022,2024,COLLABORATES_WITH
+Achmad Kautsar,Renny Sari Dewi,3,2022,2024,COLLABORATES_WITH
+Nanang Hoesen. H. A,Renny Sari Dewi,1,2024,2024,COLLABORATES_WITH
+Achmad Kautsar,Ika Diyah Candra Arifah,4,2022,2024,COLLABORATES_WITH
+Achmad Kautsar,Fresha Kharisma,3,2022,2024,COLLABORATES_WITH
+Achmad Kautsar,Anita Safitri,6,2022,2024,COLLABORATES_WITH
+Achmad Kautsar,Ratih Amelia,3,2024,2024,COLLABORATES_WITH
+Ika Diyah Candra Arifah,Ratih Amelia,1,2024,2024,COLLABORATES_WITH
+Ika Diyah Candra Arifah,Nadia Nur Thahirrah,2,2024,2024,COLLABORATES_WITH
+Dhiyan Septa Wihara,Hafid Kholidi Hadi,2,2024,2024,COLLABORATES_WITH
+Dhiyan Septa Wihara,Muhammad Fachmi,1,2024,2024,COLLABORATES_WITH
+Anita Safitri,Nadia Nur Thahirrah,1,2024,2024,COLLABORATES_WITH
+Muhammad Fajar Wahyudi Rahman,Nadia Nur Thahirrah,1,2024,2024,COLLABORATES_WITH
+Achmad Kautsar,Nadia Nur Thahirrah,1,2024,2024,COLLABORATES_WITH
+Anita Safitri,Ratih Amelia,1,2024,2024,COLLABORATES_WITH
+Muhammad Fajar Wahyudi Rahman,Ratih Amelia,1,2024,2024,COLLABORATES_WITH
+Dhiyan Septa Wihara,Fresha Kharisma,1,2024,2024,COLLABORATES_WITH
+Dhiyan Septa Wihara,Nadia Nur Thahirrah,1,2024,2024,COLLABORATES_WITH
+Hujjatullah Fazlurrahman,Ratih Amelia,1,2024,2024,COLLABORATES_WITH
+Anita Safitri,Dhiyan Septa Wihara,1,2024,2024,COLLABORATES_WITH
+Aditya Chandra Hermawan,Widi Aribowo,7,2021,2024,COLLABORATES_WITH
+Aditya Chandra Hermawan,Mahendra Widyartono,6,2021,2024,COLLABORATES_WITH
+Fajar Arianto,Mustaji,4,2022,2024,COLLABORATES_WITH
+Andi Mariono,Mustaji,5,2018,2024,COLLABORATES_WITH
+I Made Suartana,Rahadian Bisma,2,2023,2023,COLLABORATES_WITH
+Anita Qoiriah,Rahadian Bisma,2,2018,2023,COLLABORATES_WITH
+Rahadian Bisma,Ricky Eka Putra,2,2023,2023,COLLABORATES_WITH
+Ari Kurniawan,Paramitha Nerisafitra,1,2023,2023,COLLABORATES_WITH
+Paramitha Nerisafitra,Yuni Yamasari,1,2023,2023,COLLABORATES_WITH
+Andi Iwan Nurhidayat,Paramitha Nerisafitra,1,2023,2023,COLLABORATES_WITH
+Ari Kurniawan,Yuni Yamasari,1,2023,2023,COLLABORATES_WITH
+Andi Iwan Nurhidayat,Ari Kurniawan,1,2023,2023,COLLABORATES_WITH
+Aditya Prapanca,Bambang Suprianto,3,2023,2023,COLLABORATES_WITH
+Bambang Suprianto,Unit Three Kartini,6,2020,2023,COLLABORATES_WITH
+Bambang Suprianto,Widi Aribowo,14,2020,2023,COLLABORATES_WITH
+Aditya Prapanca,Unit Three Kartini,1,2023,2023,COLLABORATES_WITH
+Unit Three Kartini,Widi Aribowo,7,2020,2023,COLLABORATES_WITH
+Bambang Suprianto,Reza Rahmadian,3,2021,2023,COLLABORATES_WITH
+Bambang Suprianto,Mahendra Widyartono,4,2021,2023,COLLABORATES_WITH
+Naim Rochmawati,Pradini Puspitaningayu,1,2023,2023,COLLABORATES_WITH
+Rifqi Abdillah,Sayyidul Aulia Alamsyah,1,2023,2023,COLLABORATES_WITH
+Pradini Puspitaningayu,Rifqi Abdillah,1,2023,2023,COLLABORATES_WITH
+Arif Widodo,Rifqi Abdillah,1,2023,2023,COLLABORATES_WITH
+Arif Widodo,Sayyidul Aulia Alamsyah,1,2023,2023,COLLABORATES_WITH
+Arif Widodo,Pradini Puspitaningayu,6,2018,2023,COLLABORATES_WITH
+Arif Widodo,Parama Diptya Widayaka,1,2023,2023,COLLABORATES_WITH
+Aries Dwi Indriyanti,Wiyli Yustanti,1,2023,2023,COLLABORATES_WITH
+Ekohariadi,I Gusti Putu Asto Buditjahjanto,1,2023,2023,COLLABORATES_WITH
+I Gusti Putu Asto Buditjahjanto,Yeni Anistyasari,1,2023,2023,COLLABORATES_WITH
+Tri Wrahatnolo,Yeni Anistyasari,1,2023,2023,COLLABORATES_WITH
+Bambang Suprianto,Ekohariadi,1,2023,2023,COLLABORATES_WITH
+Miftahur Rohman,Yuni Yamasari,1,2023,2023,COLLABORATES_WITH
+Miftahur Rohman,Wiyli Yustanti,1,2023,2023,COLLABORATES_WITH
+Farid Baskoro,Yuni Yamasari,1,2023,2023,COLLABORATES_WITH
+Widi Aribowo,Yuni Yamasari,1,2023,2023,COLLABORATES_WITH
+Farid Baskoro,Wiyli Yustanti,1,2023,2023,COLLABORATES_WITH
+Widi Aribowo,Wiyli Yustanti,1,2023,2023,COLLABORATES_WITH
+Hasanuddin Al-Habib,Rindu Puspita Wibawa,2,2023,2023,COLLABORATES_WITH
+Hasanuddin Al-Habib,Nanang Hoesen. H. A,2,2023,2023,COLLABORATES_WITH
+Nanang Hoesen. H. A,Rindu Puspita Wibawa,2,2023,2023,COLLABORATES_WITH
+Lusia Rakhmawati,Rindu Puspita Wibawa,1,2023,2023,COLLABORATES_WITH
+Asmunin,Rindu Puspita Wibawa,1,2023,2023,COLLABORATES_WITH
+Hasanuddin Al-Habib,Lusia Rakhmawati,1,2023,2023,COLLABORATES_WITH
+Asmunin,Lusia Rakhmawati,1,2023,2023,COLLABORATES_WITH
+Lusia Rakhmawati,Nanang Hoesen. H. A,1,2023,2023,COLLABORATES_WITH
+Asmunin,Hasanuddin Al-Habib,1,2023,2023,COLLABORATES_WITH
+Asmunin,Nanang Hoesen. H. A,1,2023,2023,COLLABORATES_WITH
+I Gusti Putu Asto Buditjahjanto,Reza Rahmadian,1,2023,2023,COLLABORATES_WITH
+Reza Rahmadian,Subuh Isnur Haryudo,1,2023,2023,COLLABORATES_WITH
+I Gusti Putu Asto Buditjahjanto,Mahendra Widyartono,2,2021,2023,COLLABORATES_WITH
+I Gusti Putu Asto Buditjahjanto,Subuh Isnur Haryudo,1,2023,2023,COLLABORATES_WITH
+I Gusti Putu Asto Buditjahjanto,Widi Aribowo,2,2021,2023,COLLABORATES_WITH
+Mahendra Widyartono,Subuh Isnur Haryudo,1,2023,2023,COLLABORATES_WITH
+Subuh Isnur Haryudo,Widi Aribowo,2,2021,2023,COLLABORATES_WITH
+Miftahur Rohman,Unit Three Kartini,1,2023,2023,COLLABORATES_WITH
+Miftahur Rohman,Subuh Isnur Haryudo,1,2023,2023,COLLABORATES_WITH
+Farid Baskoro,Unit Three Kartini,1,2023,2023,COLLABORATES_WITH
+Farid Baskoro,Subuh Isnur Haryudo,2,2022,2023,COLLABORATES_WITH
+Subuh Isnur Haryudo,Unit Three Kartini,1,2023,2023,COLLABORATES_WITH
+Miftahur Rohman,Nurhayati,1,2023,2023,COLLABORATES_WITH
+Sayyidul Aulia Alamsyah,Unit Three Kartini,2,2023,2023,COLLABORATES_WITH
+Nurhayati,Sayyidul Aulia Alamsyah,1,2023,2023,COLLABORATES_WITH
+Bambang Suprianto,Sayyidul Aulia Alamsyah,1,2023,2023,COLLABORATES_WITH
+Nurhayati,Unit Three Kartini,2,2022,2023,COLLABORATES_WITH
+Parama Diptya Widayaka,Unit Three Kartini,1,2023,2023,COLLABORATES_WITH
+Bambang Suprianto,Nurhayati,2,2022,2023,COLLABORATES_WITH
+Nurhayati,Parama Diptya Widayaka,1,2023,2023,COLLABORATES_WITH
+Bambang Suprianto,Parama Diptya Widayaka,1,2023,2023,COLLABORATES_WITH
+Endryansyah,Rifqi Firmansyah,1,2023,2023,COLLABORATES_WITH
+Bambang Suprianto,Farid Baskoro,3,2021,2023,COLLABORATES_WITH
+Farid Baskoro,Lilik Anifah,4,2020,2023,COLLABORATES_WITH
+Lusia Rakhmawati,Wiyli Yustanti,4,2020,2023,COLLABORATES_WITH
+Elly Matul Imah,Lusia Rakhmawati,1,2023,2023,COLLABORATES_WITH
+Lilik Anifah,Sayyidul Aulia Alamsyah,1,2023,2023,COLLABORATES_WITH
+Elly Matul Imah,Hasanuddin Al-Habib,1,2023,2023,COLLABORATES_WITH
+Hasanuddin Al-Habib,Riskyana Dewi Intan P,1,2023,2023,COLLABORATES_WITH
+Fadhilah Qalbi Annisa,Hasanuddin Al-Habib,1,2023,2023,COLLABORATES_WITH
+Achmad Kautsar,Riska Dhenabayu,1,2023,2023,COLLABORATES_WITH
+Hafid Kholidi Hadi,Hujjatullah Fazlurrahman,1,2023,2023,COLLABORATES_WITH
+Hujjatullah Fazlurrahman,Muhammad Fajar Wahyudi Rahman,1,2023,2023,COLLABORATES_WITH
+I Gde Agung Sri Sidhimantra,Nurhayati,1,2023,2023,COLLABORATES_WITH
+Bachtiar Syaiful Bachri,Bambang Sujatmiko,1,2023,2023,COLLABORATES_WITH
+Andi Iwan Nurhidayat,Naim Rochmawati,1,2022,2022,COLLABORATES_WITH
+I Made Suartana,Wiyli Yustanti,1,2022,2022,COLLABORATES_WITH
+Agus Prihanto,Wiyli Yustanti,2,2018,2022,COLLABORATES_WITH
+Aditya Prapanca,Wiyli Yustanti,1,2022,2022,COLLABORATES_WITH
+Naim Rochmawati,Wiyli Yustanti,6,2020,2022,COLLABORATES_WITH
+I Made Suartana,Nurhayati,1,2022,2022,COLLABORATES_WITH
+Ekohariadi,Subuh Isnur Haryudo,5,2019,2022,COLLABORATES_WITH
+Lilik Anifah,Subuh Isnur Haryudo,2,2022,2022,COLLABORATES_WITH
+Puput Wanarti Rusimamto,Subuh Isnur Haryudo,1,2022,2022,COLLABORATES_WITH
+Lilik Anifah,Unit Three Kartini,1,2022,2022,COLLABORATES_WITH
+Aditya Chandra Hermawan,Bambang Suprianto,2,2021,2022,COLLABORATES_WITH
+Lusia Rakhmawati,Naim Rochmawati,5,2018,2022,COLLABORATES_WITH
+Lusia Rakhmawati,Miftahur Rohman,1,2022,2022,COLLABORATES_WITH
+Reza Rahmadian,Unit Three Kartini,2,2021,2022,COLLABORATES_WITH
+Mahendra Widyartono,Unit Three Kartini,2,2021,2022,COLLABORATES_WITH
+Aditya Chandra Hermawan,Unit Three Kartini,2,2021,2022,COLLABORATES_WITH
+Joko,Parama Diptya Widayaka,1,2022,2022,COLLABORATES_WITH
+Atik Wintarti,Elly Matul Imah,6,2018,2022,COLLABORATES_WITH
+Atik Wintarti,Riskyana Dewi Intan P,2,2022,2022,COLLABORATES_WITH
+Atik Wintarti,Yuliani Puji Astuti,1,2022,2022,COLLABORATES_WITH
+Hujjatullah Fazlurrahman,Ika Diyah Candra Arifah,1,2022,2022,COLLABORATES_WITH
+Fresha Kharisma,Hujjatullah Fazlurrahman,1,2022,2022,COLLABORATES_WITH
+Bachtiar Syaiful Bachri,Yatim Riyanto,1,2022,2022,COLLABORATES_WITH
+Anita Qoiriah,Asmunin,3,2020,2021,COLLABORATES_WITH
+Asmunin,Yuni Yamasari,3,2020,2021,COLLABORATES_WITH
+Anita Qoiriah,Atik Wintarti,1,2021,2021,COLLABORATES_WITH
+Atik Wintarti,Naim Rochmawati,1,2021,2021,COLLABORATES_WITH
+Atik Wintarti,Yuni Yamasari,1,2021,2021,COLLABORATES_WITH
+Atik Wintarti,Wiyli Yustanti,1,2021,2021,COLLABORATES_WITH
+Asmunin,Naim Rochmawati,1,2021,2021,COLLABORATES_WITH
+Naim Rochmawati,Ricky Eka Putra,2,2018,2021,COLLABORATES_WITH
+Asmunin,Wiyli Yustanti,1,2021,2021,COLLABORATES_WITH
+Asmunin,Ricky Eka Putra,2,2020,2021,COLLABORATES_WITH
+Puput Wanarti Rusimamto,Yeni Anistyasari,1,2021,2021,COLLABORATES_WITH
+Lilik Anifah,Yeni Anistyasari,1,2021,2021,COLLABORATES_WITH
+Endryansyah,Yeni Anistyasari,1,2021,2021,COLLABORATES_WITH
+Ari Kurniawan,Yeni Anistyasari,2,2018,2021,COLLABORATES_WITH
+Bambang Suprianto,Tri Wrahatnolo,1,2021,2021,COLLABORATES_WITH
+Bambang Suprianto,Subuh Isnur Haryudo,1,2021,2021,COLLABORATES_WITH
+Aditya Chandra Hermawan,Subuh Isnur Haryudo,1,2021,2021,COLLABORATES_WITH
+Puput Wanarti Rusimamto,Tri Rijanto,1,2021,2021,COLLABORATES_WITH
+Nurhayati,Tri Rijanto,1,2021,2021,COLLABORATES_WITH
+Bambang Suprianto,Joko,1,2021,2021,COLLABORATES_WITH
+Joko,Widi Aribowo,1,2021,2021,COLLABORATES_WITH
+Bambang Suprianto,Miftahur Rohman,2,2021,2021,COLLABORATES_WITH
+Lilik Anifah,Miftahur Rohman,1,2021,2021,COLLABORATES_WITH
+I Gusti Putu Asto Buditjahjanto,Miftahur Rohman,1,2021,2021,COLLABORATES_WITH
+Bambang Suprianto,I Gusti Putu Asto Buditjahjanto,1,2021,2021,COLLABORATES_WITH
+Mahendra Widyartono,Miftahur Rohman,1,2021,2021,COLLABORATES_WITH
+Joko,Tri Rijanto,1,2021,2021,COLLABORATES_WITH
+Anita Qoiriah,Puput Wanarti Rusimamto,1,2020,2020,COLLABORATES_WITH
+Naim Rochmawati,Puput Wanarti Rusimamto,2,2018,2020,COLLABORATES_WITH
+Puput Wanarti Rusimamto,Yuni Yamasari,2,2018,2020,COLLABORATES_WITH
+Puput Wanarti Rusimamto,Wiyli Yustanti,1,2020,2020,COLLABORATES_WITH
+Agus Prihanto,Asmunin,1,2020,2020,COLLABORATES_WITH
+Agus Prihanto,Ricky Eka Putra,1,2020,2020,COLLABORATES_WITH
+Aries Dwi Indriyanti,Rindu Puspita Wibawa,1,2020,2020,COLLABORATES_WITH
+Aries Dwi Indriyanti,Bambang Sujatmiko,2,2019,2020,COLLABORATES_WITH
+Agus Prihanto,Aries Dwi Indriyanti,1,2020,2020,COLLABORATES_WITH
+Bambang Sujatmiko,Rindu Puspita Wibawa,1,2020,2020,COLLABORATES_WITH
+Agus Prihanto,Rindu Puspita Wibawa,1,2020,2020,COLLABORATES_WITH
+Agus Prihanto,Bambang Sujatmiko,1,2020,2020,COLLABORATES_WITH
+Naim Rochmawati,Yeni Anistyasari,3,2018,2020,COLLABORATES_WITH
+Yeni Anistyasari,Yuni Yamasari,1,2020,2020,COLLABORATES_WITH
+Lusia Rakhmawati,Yeni Anistyasari,1,2020,2020,COLLABORATES_WITH
+Wiyli Yustanti,Yeni Anistyasari,3,2017,2020,COLLABORATES_WITH
+Arif Widodo,Nurhayati,1,2020,2020,COLLABORATES_WITH
+Endryansyah,Nurhayati,1,2020,2020,COLLABORATES_WITH
+Bambang Suprianto,Tri Rijanto,1,2020,2020,COLLABORATES_WITH
+Lilik Anifah,Reza Rahmadian,1,2020,2020,COLLABORATES_WITH
+Arif Widodo,Joko,1,2020,2020,COLLABORATES_WITH
+Atik Wintarti,Rosita,1,2019,2019,COLLABORATES_WITH
+Agus Prihanto,Rahadian Bisma,1,2018,2018,COLLABORATES_WITH
+Rahadian Bisma,Wiyli Yustanti,1,2018,2018,COLLABORATES_WITH
+Ibnu Febry Kurniawan,Naim Rochmawati,1,2018,2018,COLLABORATES_WITH
+Ibnu Febry Kurniawan,Yeni Anistyasari,1,2018,2018,COLLABORATES_WITH
+Dodik Arwin Dermawan,Naim Rochmawati,1,2018,2018,COLLABORATES_WITH
+Ekohariadi,Yuni Yamasari,1,2018,2018,COLLABORATES_WITH
+Ari Kurniawan,Ekohariadi,1,2018,2018,COLLABORATES_WITH
+Lilik Anifah,Tri Wrahatnolo,1,2018,2018,COLLABORATES_WITH
+Tri Wrahatnolo,Wiyli Yustanti,1,2018,2018,COLLABORATES_WITH
+Lilik Anifah,Wiyli Yustanti,1,2018,2018,COLLABORATES_WITH
+Rifqi Firmansyah,Subuh Isnur Haryudo,1,2018,2018,COLLABORATES_WITH
+Lilik Anifah,Pradini Puspitaningayu,2,2018,2018,COLLABORATES_WITH
+Nur Kholis,Pradini Puspitaningayu,1,2018,2018,COLLABORATES_WITH
+Lilik Anifah,Nur Kholis,1,2018,2018,COLLABORATES_WITH
+Pradini Puspitaningayu,Rifqi Firmansyah,1,2018,2018,COLLABORATES_WITH
+Lilik Anifah,Rifqi Firmansyah,1,2018,2018,COLLABORATES_WITH
+Arif Widodo,Lilik Anifah,1,2018,2018,COLLABORATES_WITH
+Arif Widodo,Unit Three Kartini,1,2018,2018,COLLABORATES_WITH
+Lilik Anifah,Yuni Yamasari,1,2018,2018,COLLABORATES_WITH
+Nur Kholis,Reza Rahmadian,1,2018,2018,COLLABORATES_WITH
+Ibnu Febry Kurniawan,Rahadian Bisma,1,2018,2018,COLLABORATES_WITH
+Elly Matul Imah,Yeni Anistyasari,1,2017,2017,COLLABORATES_WITH
+Elly Matul Imah,Wiyli Yustanti,1,2017,2017,COLLABORATES_WITH
+Arif Widodo,Elly Matul Imah,1,2017,2017,COLLABORATES_WITH
+Anita Qoiriah,Yeni Anistyasari,1,2022,2022,COLLABORATES_WITH
+Ekohariadi,Puput Wanarti Rusimamto,2,2019,2021,COLLABORATES_WITH
+Rusijono,Yatim Riyanto,1,2020,2020,COLLABORATES_WITH
+Ekohariadi,Endryansyah,1,2019,2019,COLLABORATES_WITH

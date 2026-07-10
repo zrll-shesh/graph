@@ -1,0 +1,8 @@
+{
+  "target": "prodi (label independen)",
+  "train_accuracy": 0.8777777777777778,
+  "test_accuracy": 0.6153846153846154,
+  "test_macro_f1": 0.5196521427290658,
+  "train_test_gap": 0.26239316239316235,
+  "baseline_majority_acc": 0.1282051282051282
+}

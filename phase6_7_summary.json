@@ -1,0 +1,77 @@
+{
+  "top_brokers": [
+    {
+      "nama_norm": "Wiyli Yustanti",
+      "constraint": 0.08981406383275499,
+      "effective_size": 20.481481481481477
+    },
+    {
+      "nama_norm": "Yuni Yamasari",
+      "constraint": 0.1018612074590448,
+      "effective_size": 17.8
+    },
+    {
+      "nama_norm": "Lilik Anifah",
+      "constraint": 0.10687694083944266,
+      "effective_size": 18.62962962962963
+    },
+    {
+      "nama_norm": "I Gusti Putu Asto Buditjahjanto",
+      "constraint": 0.11373816025541528,
+      "effective_size": 14.61904761904762
+    },
+    {
+      "nama_norm": "Pradini Puspitaningayu",
+      "constraint": 0.11409374977368303,
+      "effective_size": 12.176470588235292
+    },
+    {
+      "nama_norm": "Naim Rochmawati",
+      "constraint": 0.1184660929885142,
+      "effective_size": 11.555555555555555
+    },
+    {
+      "nama_norm": "Yeni Anistyasari",
+      "constraint": 0.12437749365303666,
+      "effective_size": 10.75
+    },
+    {
+      "nama_norm": "Parama Diptya Widayaka",
+      "constraint": 0.1293884357026744,
+      "effective_size": 10.125
+    },
+    {
+      "nama_norm": "Nurhayati",
+      "constraint": 0.13195304969076407,
+      "effective_size": 9.000000000000002
+    },
+    {
+      "nama_norm": "Bambang Suprianto",
+      "constraint": 0.13380926861144907,
+      "effective_size": 12.599999999999998
+    }
+  ],
+  "temporal_stats": [
+    {
+      "period": "Periode Awal",
+      "n_edges": 186,
+      "active_nodes": 63,
+      "density": 0.02252906976744186,
+      "avg_degree": 2.883720930232558
+    },
+    {
+      "period": "Periode Tengah",
+      "n_edges": 172,
+      "active_nodes": 79,
+      "density": 0.020833333333333332,
+      "avg_degree": 2.6666666666666665
+    },
+    {
+      "period": "Periode Terkini",
+      "n_edges": 122,
+      "active_nodes": 68,
+      "density": 0.014777131782945737,
+      "avg_degree": 1.8914728682170543
+    }
+  ]
+}

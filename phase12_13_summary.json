@@ -1,0 +1,61 @@
+{
+  "entropy_weights": {
+    "total_paper": 0.23604009474132087,
+    "degree": 0.1970133357702731,
+    "effective_size": 0.24701600347278677,
+    "broker_score": 0.13970249517504948,
+    "n_communities": 0.1802280708405698
+  },
+  "top10": [
+    {
+      "index": "Lilik Anifah",
+      "composite_score": 0.87558530864737,
+      "rank": 1
+    },
+    {
+      "index": "Wiyli Yustanti",
+      "composite_score": 0.8518964109394727,
+      "rank": 2
+    },
+    {
+      "index": "Yuni Yamasari",
+      "composite_score": 0.8290319791614951,
+      "rank": 3
+    },
+    {
+      "index": "Bambang Suprianto",
+      "composite_score": 0.7739893317446938,
+      "rank": 4
+    },
+    {
+      "index": "I Gusti Putu Asto Buditjahjanto",
+      "composite_score": 0.7259175128714516,
+      "rank": 5
+    },
+    {
+      "index": "Yeni Anistyasari",
+      "composite_score": 0.6911230364379345,
+      "rank": 6
+    },
+    {
+      "index": "Subuh Isnur Haryudo",
+      "composite_score": 0.6779927801337722,
+      "rank": 7
+    },
+    {
+      "index": "Puput Wanarti Rusimamto",
+      "composite_score": 0.6754627891832332,
+      "rank": 8
+    },
+    {
+      "index": "Naim Rochmawati",
+      "composite_score": 0.6209976270232135,
+      "rank": 9
+    },
+    {
+      "index": "Tri Rijanto",
+      "composite_score": 0.6180083843605976,
+      "rank": 10
+    }
+  ]
+}

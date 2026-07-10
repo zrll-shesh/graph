@@ -1,0 +1,130 @@
+nama_norm:ID,prodi,total_paper:int,composite_score:float,cluster_consensus:int,broker_score:float,:LABEL
+Aditya Prapanca,S1 Teknik Informatika,89,0.5710866983761833,1,0.8551861597195551,Dosen
+Anita Qoiriah,S1 Teknik Informatika,112,0.489756478558391,1,0.832777213989125,Dosen
+Yuni Yamasari,S2 Informatika,123,0.8290319791614951,1,0.8981387925409552,Dosen
+Agus Prihanto,S1 Teknik Informatika,7,0.4169847371637525,1,0.820360183321291,Dosen
+Ricky Eka Putra,S2 Informatika,106,0.423353621184991,1,0.7892969715702945,Dosen
+I Made Suartana,S1 Teknik Informatika,75,0.4747618287152897,1,0.8494248646894835,Dosen
+Naim Rochmawati,S1 Teknik Informatika,70,0.6209976270232135,1,0.8815339070114858,Dosen
+Paramitha Nerisafitra,S1 Teknik Informatika,56,0.3158630610320784,1,0.7554236905544598,Dosen
+Ronggo Alit,Pendidikan Profesi Guru,89,0.0823826213015497,1,0.0,Dosen
+Ervin Yohannes,S2 Informatika,22,0.21531856354502976,1,0.6100200851346456,Dosen
+Farhanna Mari,S1 Teknik Informatika,32,0.36060100445216237,1,0.7660081937797536,Dosen
+Rifqi Abdillah,S1 Teknik Informatika,22,0.5533273951611196,1,0.8647150009372855,Dosen
+Wiyli Yustanti,S2 Informatika,95,0.8518964109394727,1,0.910185936167245,Dosen
+I Kadek Dwi Nuryana,S1 Pendidikan Teknologi Informasi,0,0.2661740421703823,1,0.7293568861087928,Dosen
+Dwi Fatrianto Suyatno,S1 Sistem Informasi,65,0.2421942276882964,1,0.5796691460055096,Dosen
+Aries Dwi Indriyanti,S1 Sistem Informasi,116,0.5221898633650578,1,0.8386341842769103,Dosen
+Ardhini Warih Utami,S1 Sistem Informasi,59,0.26408461325592686,1,0.6641821673525377,Dosen
+Rahadian Bisma,S1 Sistem Informasi,46,0.39945028930822857,1,0.8321242931577042,Dosen
+Ghea Sekar Palupi,S1 Sistem Informasi,34,0.23856727884469958,1,0.7115619135993649,Dosen
+Bonda Sisephaputra,S1 Informatika (Kampus Kabupaten Magetan),36,0.21535045220801616,1,0.5796691460055096,Dosen
+Berlian Maulidya Izzati,S1 Sistem Informasi,30,0.21826575839602275,1,0.603417006802721,Dosen
+Anggraeni Widya Purwita,S1 Sistem Informasi,12,0.385541923363669,1,0.8228197722918511,Dosen
+Monica Cinthya,S1 Sistem Informasi,10,0.3212684513364399,1,0.7857452476960484,Dosen
+Cendra Devayana Putra,S1 Sistem Informasi,26,0.16850325144304396,1,0.5241299080217364,Dosen
+Erik Rahman,S1 Sistem Informasi,23,0.021289890898153297,1,0.0,Dosen
+Ekohariadi,S2 Pendidikan Teknologi Informasi,53,0.4089698469123164,1,0.8133796549290055,Dosen
+Bambang Sujatmiko,S1 Pendidikan Teknologi Informasi,132,0.31610948663909877,1,0.6811464497041421,Dosen
+Tri Rijanto,S3 Penelitian dan Evaluasi Pendidikan,252,0.6180083843605976,1,0.8252553113375853,Dosen
+Yeni Anistyasari,S2 Pendidikan Teknologi Informasi,173,0.6911230364379345,1,0.8756225063469634,Dosen
+I Gusti Lanang Putra Eka Prismana,S1 Pendidikan Teknologi Informasi,89,0.0823826213015497,1,0.0,Dosen
+Rindu Puspita Wibawa,S1 Pendidikan Teknologi Informasi,40,0.36074324224017495,1,0.8179601597891704,Dosen
+Martini Dwi Endah Susanti,S1 Pendidikan Teknologi Informasi,51,0.04720801894807904,1,0.0,Dosen
+Ramadhan Cakra Wibawa,S1 Pendidikan Teknologi Informasi,51,0.26514214578702877,1,0.6646578012778043,Dosen
+Harun Al Rosyid,S1 Pendidikan Teknologi Informasi,15,0.2318188382942671,1,0.6646578012778043,Dosen
+Rizky Basatha,S1 Pendidikan Teknologi Informasi,76,0.18092780992901264,1,0.3510802469135801,Dosen
+Riza Akhsani Setyo Prayoga,S1 Pendidikan Teknologi Informasi,40,0.28127693320133706,1,0.6789651045603426,Dosen
+Muhammad Sonhaji Akbar,S1 Pendidikan Teknologi Informasi,10,0.31418623832626785,1,0.7745260518549633,Dosen
+Ersha Aisyah Elfaiz,S1 Pendidikan Teknologi Informasi,4,0.270158645791631,1,0.7311942554799697,Dosen
+Nisa Dwi Septiyanti,S1 Pendidikan Teknologi Informasi,36,0.08271856537313163,0,0.0,Dosen
+Mohammad Wildan Habibi,S1 Pendidikan Teknologi Informasi,5,0.29517286583383745,1,0.7681110246385174,Dosen
+Elvira Wardah,S1 Pendidikan Teknologi Informasi,1,0.050320905310724445,0,0.0,Dosen
+Bambang Suprianto,S2 Teknik Elektro,176,0.7739893317446938,1,0.866190731388551,Dosen
+I Gusti Putu Asto Buditjahjanto,S2 Informatika,119,0.7259175128714516,1,0.8862618397445847,Dosen
+Tri Wrahatnolo,S1 Pendidikan Teknologi Informasi,14,0.24841392554801248,1,0.732057122643381,Dosen
+Joko,S3 Pendidikan Vokasi,43,0.2632843925593954,1,0.7554606426692965,Dosen
+Unit Three Kartini,S2 Teknik Elektro,92,0.5389846721913502,1,0.8374707189242325,Dosen
+Lilik Anifah,S2 Teknik Elektro,180,0.87558530864737,1,0.8931230591605573,Dosen
+Lusia Rakhmawati,Program Profesi Insinyur,97,0.5049654183027884,1,0.8651754723634515,Dosen
+Nurhayati,S2 Teknik Elektro,105,0.5612788652676559,1,0.868046950309236,Dosen
+Raden Roro Hapsari Peni Agustin T,S1 Teknik Elektro,33,0.030546365201698206,1,0.0,Dosen
+Pradini Puspitaningayu,S1 Teknik Elektro,65,0.6172322196255863,1,0.885906250226317,Dosen
+Puput Wanarti Rusimamto,S2 Pendidikan Teknik Elektro,186,0.6754627891832332,1,0.8555547794760483,Dosen
+Subuh Isnur Haryudo,S2 Pendidikan Teknologi Informasi,165,0.6779927801337722,1,0.8486211590196192,Dosen
+Nur Kholis,S2 Pendidikan Teknik Elektro,110,0.33764499719972557,1,0.7191397747067843,Dosen
+Endryansyah,S1 Teknik Elektro,61,0.33896635419631405,1,0.7938081687566162,Dosen
+Ibrohim,S1 Teknik Elektro,1,0.14477337483711425,1,0.5202944852566065,Dosen
+Farid Baskoro,S2 Pendidikan Teknik Elektro,73,0.4058223126933468,1,0.8251010930870811,Dosen
+Rifqi Firmansyah,S1 Teknik Elektro,48,0.33744341468417,1,0.7837097887014884,Dosen
+Arif Widodo,S1 Teknik Elektro,40,0.4314332787574451,1,0.8358219169409099,Dosen
+Miftahur Rohman,S1 Teknik Elektro,17,0.39231753088165044,1,0.8375473095128296,Dosen
+Parama Diptya Widayaka,S1 Teknik Elektro,35,0.5250387755406014,1,0.8706115642973256,Dosen
+Mahendra Widyartono,D4 Teknik Listrik,43,0.31424140627599223,1,0.750483862939093,Dosen
+Widi Aribowo,D4 Teknik Listrik,144,0.5274250973453818,1,0.8247676378819754,Dosen
+Reza Rahmadian,D4 Teknik Listrik,42,0.3459985586371706,1,0.7884104450061613,Dosen
+Aditya Chandra Hermawan,D4 Teknik Listrik,3,0.2225454318037833,1,0.6766089916072111,Dosen
+Sayyidul Aulia Alamsyah,S1 Teknik Elektro,13,0.35145370000108433,1,0.818855824198779,Dosen
+Yandhika Surya Akbar Gumilang,S1 Teknik Elektro,25,0.02314118575886228,1,0.0,Dosen
+Hesti Khuzaimah Nurul Yusufiyah,S1 Teknik Elektro,12,0.09054103884637914,1,0.0,Dosen
+Wahyu Sasongko Putro,Program Profesi Insinyur,31,0.028695070340989226,1,0.0,Dosen
+Namira Roudlotul Jannah,S1 Teknik Elektro,5,0.004628237151772455,1,0.0,Dosen
+Elly Matul Imah,S1 Kecerdasan Artifisial,84,0.449154808326359,1,0.7914841042409915,Dosen
+Riskyana Dewi Intan P,S1 Kecerdasan Artifisial,17,0.21870315739462526,1,0.6056962947215925,Dosen
+Fadhilah Qalbi Annisa,S1 Kecerdasan Artifisial,9,0.21820884338707913,1,0.6245297933988411,Dosen
+Harmon Prayogi,S1 Kecerdasan Artifisial,15,0.15076774872017684,1,0.42737847222222225,Dosen
+Ike Fitriyaningsih,S1 Kecerdasan Artifisial,14,0.14984210128982234,1,0.42737847222222225,Dosen
+Atik Wintarti,S1 Sains Data,68,0.3826383197482319,1,0.8396834171394714,Dosen
+Ibnu Febry Kurniawan,S1 Sains Data,22,0.3042761206705779,1,0.780210434962989,Dosen
+Yuliani Puji Astuti,S1 Sains Data,83,0.12622399459979272,1,0.0,Dosen
+Hasanuddin Al-Habib,S1 Sains Data,7,0.2549936797579151,1,0.7651019162006776,Dosen
+Ulfa Siti Nuraini,S1 Sains Data,18,0.16163197838593893,1,0.3794454056132256,Dosen
+Dinda Galuh Guminta,S1 Sains Data,3,0.0027769422910634734,1,0.0,Dosen
+Kartika Chandra Dewi,S1 Sains Data,2,0.0018512948607089822,1,0.0,Dosen
+Yuni Rosita Dewi,S1 Sains Data,21,0.019438596037444314,1,0.0,Dosen
+Heri Purnawan,S1 Sains Data,24,0.022215538328507787,1,0.0,Dosen
+Moh. Khoridatul Huda,S1 Sains Data,39,0.03610024978382515,1,0.0,Dosen
+Belgis Ainatul Iza,S1 Sains Data,4,0.0037025897214179645,1,0.0,Dosen
+Siska Puspitaningsih,S1 Sains Data,14,0.012959064024962875,1,0.0,Dosen
+Nurul Laili,S1 Sains Data,3,0.0027769422910634734,1,0.0,Dosen
+Hujjatullah Fazlurrahman,S1 Bisnis Digital,66,0.39031871440144694,0,0.7420433458735566,Dosen
+Achmad Kautsar,S1 Bisnis Digital,94,0.4215414107185841,0,0.733825854302967,Dosen
+Hafid Kholidi Hadi,S1 Bisnis Digital,53,0.4058003841801969,0,0.7504006472939623,Dosen
+Ika Diyah Candra Arifah,S1 Bisnis Digital,55,0.36914018827228023,0,0.7275460187841815,Dosen
+Riska Dhenabayu,S1 Bisnis Digital,8,0.3081987891251208,0,0.7090273592441692,Dosen
+Fresha Kharisma,S1 Bisnis Digital,23,0.36103186930074593,0,0.7415872117981019,Dosen
+Renny Sari Dewi,S1 Bisnis Digital,82,0.35103977309629925,0,0.7201095684885557,Dosen
+Anita Safitri,S1 Bisnis Digital,26,0.40324220129947974,0,0.7574960905597042,Dosen
+Nanang Hoesen. H. A,S1 Bisnis Digital,44,0.485437705358084,0,0.8203805706315315,Dosen
+Muhammad Fajar Wahyudi Rahman,S1 Bisnis Digital,36,0.2871786046820127,0,0.7036869183086546,Dosen
+Ratih Amelia,S2 Bisnis Digital,17,0.28929636826815913,0,0.7111914144076252,Dosen
+Nadia Nur Thahirrah,S1 Bisnis Digital,13,0.2744093026667472,0,0.7068160580387911,Dosen
+Dhiyan Septa Wihara,S2 Bisnis Digital,54,0.3003910370228907,0,0.7025625092327791,Dosen
+Muhammad Fachmi,S2 Bisnis Digital,46,0.38504559899937585,0,0.7884544414920213,Dosen
+Achmad Fitro,S1 Bisnis Digital,42,0.26645009464726843,0,0.6488801360509513,Dosen
+Muhammad Febrilian Dwi Syahputra,S1 Bisnis Digital,10,0.1945834443533462,0,0.547296233308138,Dosen
+Dana Azizah Rahmat,S1 Bisnis Digital,7,0.006479532012481437,1,0.0,Dosen
+Danang Ary Dewangga,S1 Bisnis Digital,1,0.0009256474303544911,1,0.0,Dosen
+Diki Putra Setianto,S1 Bisnis Digital,0,0.0,1,0.0,Dosen
+Rakha Asyrofi,S1 Agribisnis Digital,7,0.006479532012481437,1,0.0,Dosen
+Dodik Arwin Dermawan,D4 Manajemen Informatika,140,0.418320169389913,1,0.7388240130581365,Dosen
+Asmunin,D4 Manajemen Informatika,58,0.5889501360494496,1,0.854789616523294,Dosen
+Andi Iwan Nurhidayat,D4 Manajemen Informatika,3,0.4697738194805902,1,0.8394727165216924,Dosen
+Ari Kurniawan,D4 Manajemen Informatika,10,0.21704354366437875,1,0.7160691308539945,Dosen
+Salamun Rohman Nudin,D4 Manajemen Informatika,76,0.3035640796496394,1,0.6493238481571242,Dosen
+I Gde Agung Sri Sidhimantra,D4 Manajemen Informatika,12,0.2718691743078186,1,0.7341490457233487,Dosen
+Rosita,D4 Manajemen Informatika,7,0.055874789892851384,1,0.0,Dosen
+Faris Abdi El Hakim,D4 Manajemen Informatika,8,0.18923255789118626,1,0.6251189319640029,Dosen
+Binti Kholifah,D4 Manajemen Informatika,10,0.00925647430354491,1,0.0,Dosen
+Dimas Novian Aditia Syahputra,D4 Manajemen Informatika,9,0.24154570181588847,1,0.6493238481571242,Dosen
+Moch Deny Pratama,D4 Manajemen Informatika,9,0.4520312494723944,1,0.8311264203546922,Dosen
+M Adamu Islam Mashuri,D4 Manajemen Informatika,6,0.005553884582126947,1,0.0,Dosen
+Fitria,S2 Industri Kreatif,19,0.01758730117673533,1,0.0,Dosen
+Moch. Badrus Sholeh,D4 Manajemen Informatika,6,0.005553884582126947,1,0.0,Dosen
+Mustaji,S3 Teknologi Pendidikan,255,0.4013379408058573,0,0.5552777777777779,Dosen
+Rusijono,S2 Pendidikan Teknologi Informasi,128,0.30891786366981977,0,0.6666666666666667,Dosen
+Siti Masitoh,S3 Pendidikan Inklusi,105,0.19216106432121452,0,0.249375,Dosen
+Yatim Riyanto,S2 Pendidikan Teknologi Informasi,219,0.3482132231167524,0,0.5,Dosen
+Bachtiar Syaiful Bachri,S2 Pendidikan Teknologi Informasi,191,0.3953617978572323,0,0.6605555555555555,Dosen
+Andi Mariono,S2 Teknologi Pendidikan,100,0.23806117890456796,0,0.5,Dosen
+Fajar Arianto,S3 Teknologi Pendidikan,140,0.3090211270628366,0,0.5474305555555556,Dosen

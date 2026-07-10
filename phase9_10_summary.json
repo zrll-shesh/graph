@@ -1,0 +1,17 @@
+{
+  "heuristic_auc": 0.9267361111111111,
+  "rf_auc_train": 0.9980478395061727,
+  "rf_auc_test": 0.9557638888888889,
+  "xgb_auc_train": 0.9999382716049382,
+  "xgb_auc_test": 0.924722222222222,
+  "best_model": "RandomForest",
+  "shap_importance": {
+    "node2vec_dist": 0.2539984502495166,
+    "adamic_adar": 0.07352860603026025,
+    "topic_cosine_sim": 0.0517845791684142,
+    "jaccard": 0.04763607344057784,
+    "common_neighbors": 0.04181742275142654,
+    "pref_attachment": 0.025881683423944587
+  },
+  "note": "AUC dihitung pd held-out edge yg tidak dipakai melatih Node2Vec (anti-leakage)"
+}

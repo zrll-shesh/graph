@@ -1,0 +1,481 @@
+source,target,weight,first_year,last_year
+Anita Qoiriah,I Made Suartana,3,2023,2026
+I Made Suartana,Yuni Yamasari,3,2022,2026
+I Made Suartana,Ricky Eka Putra,7,2021,2026
+Anita Qoiriah,Yuni Yamasari,18,2020,2026
+Anita Qoiriah,Ricky Eka Putra,7,2020,2026
+Ricky Eka Putra,Yuni Yamasari,6,2020,2026
+Ekohariadi,Tri Rijanto,3,2021,2026
+Ekohariadi,Yeni Anistyasari,12,2018,2026
+Tri Rijanto,Yeni Anistyasari,3,2024,2026
+Lilik Anifah,Nurhayati,5,2022,2026
+Anita Safitri,Hafid Kholidi Hadi,6,2022,2026
+Anita Safitri,Muhammad Fajar Wahyudi Rahman,5,2024,2026
+Anita Safitri,Ika Diyah Candra Arifah,3,2022,2026
+Hafid Kholidi Hadi,Muhammad Fajar Wahyudi Rahman,5,2023,2026
+Hafid Kholidi Hadi,Ika Diyah Candra Arifah,4,2024,2026
+Ika Diyah Candra Arifah,Muhammad Fajar Wahyudi Rahman,2,2022,2026
+Dodik Arwin Dermawan,Faris Abdi El Hakim,1,2026,2026
+Dimas Novian Aditia Syahputra,Faris Abdi El Hakim,1,2026,2026
+Faris Abdi El Hakim,Moch Deny Pratama,1,2026,2026
+Faris Abdi El Hakim,Salamun Rohman Nudin,1,2026,2026
+Asmunin,Faris Abdi El Hakim,1,2026,2026
+Andi Iwan Nurhidayat,Faris Abdi El Hakim,1,2026,2026
+Dimas Novian Aditia Syahputra,Dodik Arwin Dermawan,5,2024,2026
+Dodik Arwin Dermawan,Moch Deny Pratama,1,2026,2026
+Dodik Arwin Dermawan,Salamun Rohman Nudin,3,2024,2026
+Asmunin,Dodik Arwin Dermawan,2,2024,2026
+Andi Iwan Nurhidayat,Dodik Arwin Dermawan,1,2026,2026
+Dimas Novian Aditia Syahputra,Moch Deny Pratama,1,2026,2026
+Dimas Novian Aditia Syahputra,Salamun Rohman Nudin,2,2026,2026
+Asmunin,Dimas Novian Aditia Syahputra,1,2026,2026
+Andi Iwan Nurhidayat,Dimas Novian Aditia Syahputra,1,2026,2026
+Moch Deny Pratama,Salamun Rohman Nudin,1,2026,2026
+Asmunin,Moch Deny Pratama,1,2026,2026
+Andi Iwan Nurhidayat,Moch Deny Pratama,1,2026,2026
+Asmunin,Salamun Rohman Nudin,2,2024,2026
+Andi Iwan Nurhidayat,Salamun Rohman Nudin,1,2026,2026
+Andi Iwan Nurhidayat,Asmunin,3,2018,2026
+Dimas Novian Aditia Syahputra,I Gde Agung Sri Sidhimantra,3,2024,2026
+I Gde Agung Sri Sidhimantra,Salamun Rohman Nudin,2,2024,2026
+Dodik Arwin Dermawan,I Gde Agung Sri Sidhimantra,5,2024,2026
+Fajar Arianto,Siti Masitoh,2,2022,2026
+Bachtiar Syaiful Bachri,Fajar Arianto,1,2026,2026
+Anita Qoiriah,Naim Rochmawati,11,2020,2025
+Naim Rochmawati,Yuni Yamasari,15,2018,2025
+Farhanna Mari,Paramitha Nerisafitra,1,2025,2025
+Muhammad Sonhaji Akbar,Rifqi Abdillah,2,2025,2025
+Monica Cinthya,Rifqi Abdillah,1,2025,2025
+Moch Deny Pratama,Rifqi Abdillah,2,2025,2025
+Anggraeni Widya Purwita,Rifqi Abdillah,1,2025,2025
+Farhanna Mari,Rifqi Abdillah,2,2025,2025
+Monica Cinthya,Muhammad Sonhaji Akbar,1,2025,2025
+Moch Deny Pratama,Muhammad Sonhaji Akbar,2,2025,2025
+Anggraeni Widya Purwita,Muhammad Sonhaji Akbar,1,2025,2025
+Farhanna Mari,Muhammad Sonhaji Akbar,1,2025,2025
+Moch Deny Pratama,Monica Cinthya,1,2025,2025
+Anggraeni Widya Purwita,Monica Cinthya,1,2025,2025
+Farhanna Mari,Monica Cinthya,1,2025,2025
+Anggraeni Widya Purwita,Moch Deny Pratama,1,2025,2025
+Farhanna Mari,Moch Deny Pratama,1,2025,2025
+Anggraeni Widya Purwita,Farhanna Mari,1,2025,2025
+Muhammad Fachmi,Rifqi Abdillah,1,2025,2025
+Ersha Aisyah Elfaiz,Muhammad Fachmi,1,2025,2025
+Muhammad Fachmi,Riza Akhsani Setyo Prayoga,1,2025,2025
+Farhanna Mari,Muhammad Fachmi,1,2025,2025
+Ersha Aisyah Elfaiz,Rifqi Abdillah,1,2025,2025
+Rifqi Abdillah,Riza Akhsani Setyo Prayoga,1,2025,2025
+Ersha Aisyah Elfaiz,Riza Akhsani Setyo Prayoga,1,2025,2025
+Ersha Aisyah Elfaiz,Farhanna Mari,1,2025,2025
+Farhanna Mari,Riza Akhsani Setyo Prayoga,1,2025,2025
+Aditya Prapanca,Widi Aribowo,8,2023,2025
+Naim Rochmawati,Parama Diptya Widayaka,2,2023,2025
+I Gusti Putu Asto Buditjahjanto,Parama Diptya Widayaka,1,2025,2025
+I Gusti Putu Asto Buditjahjanto,Naim Rochmawati,1,2025,2025
+Mohammad Wildan Habibi,Rifqi Abdillah,2,2025,2025
+Mohammad Wildan Habibi,Muhammad Sonhaji Akbar,1,2025,2025
+Moch Deny Pratama,Mohammad Wildan Habibi,1,2025,2025
+Mohammad Wildan Habibi,Parama Diptya Widayaka,1,2025,2025
+Parama Diptya Widayaka,Rifqi Abdillah,2,2023,2025
+Muhammad Sonhaji Akbar,Parama Diptya Widayaka,1,2025,2025
+Moch Deny Pratama,Parama Diptya Widayaka,1,2025,2025
+Mohammad Wildan Habibi,Ramadhan Cakra Wibawa,1,2025,2025
+Mohammad Wildan Habibi,Tri Rijanto,3,2024,2025
+I Gusti Putu Asto Buditjahjanto,Mohammad Wildan Habibi,3,2024,2025
+Lilik Anifah,Mohammad Wildan Habibi,1,2025,2025
+Harun Al Rosyid,Mohammad Wildan Habibi,1,2025,2025
+Ramadhan Cakra Wibawa,Rifqi Abdillah,1,2025,2025
+Ramadhan Cakra Wibawa,Tri Rijanto,1,2025,2025
+I Gusti Putu Asto Buditjahjanto,Ramadhan Cakra Wibawa,1,2025,2025
+Lilik Anifah,Ramadhan Cakra Wibawa,1,2025,2025
+Harun Al Rosyid,Ramadhan Cakra Wibawa,1,2025,2025
+Rifqi Abdillah,Tri Rijanto,1,2025,2025
+I Gusti Putu Asto Buditjahjanto,Rifqi Abdillah,1,2025,2025
+Lilik Anifah,Rifqi Abdillah,1,2025,2025
+Harun Al Rosyid,Rifqi Abdillah,1,2025,2025
+I Gusti Putu Asto Buditjahjanto,Tri Rijanto,2,2025,2025
+Lilik Anifah,Tri Rijanto,1,2025,2025
+Harun Al Rosyid,Tri Rijanto,1,2025,2025
+I Gusti Putu Asto Buditjahjanto,Lilik Anifah,3,2023,2025
+Harun Al Rosyid,I Gusti Putu Asto Buditjahjanto,1,2025,2025
+Harun Al Rosyid,Lilik Anifah,1,2025,2025
+I Made Suartana,Pradini Puspitaningayu,2,2024,2025
+Aries Dwi Indriyanti,I Made Suartana,1,2025,2025
+Aries Dwi Indriyanti,Pradini Puspitaningayu,1,2025,2025
+Cendra Devayana Putra,Monica Cinthya,1,2025,2025
+Cendra Devayana Putra,I Kadek Dwi Nuryana,1,2025,2025
+Cendra Devayana Putra,Wiyli Yustanti,1,2025,2025
+I Kadek Dwi Nuryana,Monica Cinthya,1,2025,2025
+Monica Cinthya,Wiyli Yustanti,1,2025,2025
+I Kadek Dwi Nuryana,Wiyli Yustanti,2,2023,2025
+Ersha Aisyah Elfaiz,Monica Cinthya,1,2025,2025
+Berlian Maulidya Izzati,Ersha Aisyah Elfaiz,1,2025,2025
+Anggraeni Widya Purwita,Ersha Aisyah Elfaiz,1,2025,2025
+Anggraeni Widya Purwita,Berlian Maulidya Izzati,2,2024,2025
+Ghea Sekar Palupi,Rahadian Bisma,1,2025,2025
+Aries Dwi Indriyanti,Rahadian Bisma,1,2025,2025
+Anggraeni Widya Purwita,Rahadian Bisma,2,2024,2025
+Aries Dwi Indriyanti,Ghea Sekar Palupi,1,2025,2025
+Anggraeni Widya Purwita,Ghea Sekar Palupi,1,2025,2025
+Anggraeni Widya Purwita,Aries Dwi Indriyanti,1,2025,2025
+Berlian Maulidya Izzati,Dwi Fatrianto Suyatno,1,2025,2025
+Bonda Sisephaputra,Dwi Fatrianto Suyatno,2,2024,2025
+Ardhini Warih Utami,Dwi Fatrianto Suyatno,1,2025,2025
+Berlian Maulidya Izzati,Bonda Sisephaputra,1,2025,2025
+Ardhini Warih Utami,Berlian Maulidya Izzati,1,2025,2025
+Ardhini Warih Utami,Bonda Sisephaputra,1,2025,2025
+Ekohariadi,Lilik Anifah,2,2022,2025
+Ekohariadi,Tri Wrahatnolo,3,2020,2025
+Sayyidul Aulia Alamsyah,Yeni Anistyasari,1,2025,2025
+Riza Akhsani Setyo Prayoga,Rizky Basatha,1,2025,2025
+Muhammad Sonhaji Akbar,Rizky Basatha,1,2025,2025
+Muhammad Sonhaji Akbar,Riza Akhsani Setyo Prayoga,1,2025,2025
+Elvira Wardah,Nisa Dwi Septiyanti,1,2025,2025
+Lilik Anifah,Lusia Rakhmawati,2,2024,2025
+Lusia Rakhmawati,Nurhayati,3,2024,2025
+Lilik Anifah,Puput Wanarti Rusimamto,9,2017,2025
+Nurhayati,Puput Wanarti Rusimamto,2,2021,2025
+I Gusti Putu Asto Buditjahjanto,Puput Wanarti Rusimamto,1,2025,2025
+Endryansyah,Puput Wanarti Rusimamto,7,2018,2025
+Endryansyah,Lilik Anifah,3,2021,2025
+Endryansyah,I Gusti Putu Asto Buditjahjanto,1,2025,2025
+Bambang Suprianto,Puput Wanarti Rusimamto,2,2025,2025
+Bambang Suprianto,Lilik Anifah,5,2021,2025
+Bambang Suprianto,Endryansyah,2,2025,2025
+Pradini Puspitaningayu,Yuni Yamasari,1,2025,2025
+Lusia Rakhmawati,Yuni Yamasari,3,2018,2025
+Lusia Rakhmawati,Pradini Puspitaningayu,6,2018,2025
+Parama Diptya Widayaka,Sayyidul Aulia Alamsyah,4,2023,2025
+Parama Diptya Widayaka,Pradini Puspitaningayu,4,2023,2025
+Pradini Puspitaningayu,Sayyidul Aulia Alamsyah,2,2023,2025
+Farid Baskoro,Miftahur Rohman,10,2020,2025
+Ibrohim,Rifqi Firmansyah,1,2025,2025
+Farid Baskoro,Ibrohim,1,2025,2025
+Arif Widodo,Ibrohim,1,2025,2025
+Farid Baskoro,Rifqi Firmansyah,1,2025,2025
+Arif Widodo,Rifqi Firmansyah,2,2018,2025
+Arif Widodo,Farid Baskoro,2,2020,2025
+I Gusti Putu Asto Buditjahjanto,Sayyidul Aulia Alamsyah,1,2025,2025
+Fadhilah Qalbi Annisa,Riskyana Dewi Intan P,4,2023,2025
+Ike Fitriyaningsih,Riskyana Dewi Intan P,1,2025,2025
+Elly Matul Imah,Riskyana Dewi Intan P,6,2022,2025
+Harmon Prayogi,Riskyana Dewi Intan P,1,2025,2025
+Fadhilah Qalbi Annisa,Ike Fitriyaningsih,1,2025,2025
+Elly Matul Imah,Fadhilah Qalbi Annisa,3,2023,2025
+Fadhilah Qalbi Annisa,Harmon Prayogi,1,2025,2025
+Elly Matul Imah,Ike Fitriyaningsih,1,2025,2025
+Harmon Prayogi,Ike Fitriyaningsih,1,2025,2025
+Elly Matul Imah,Harmon Prayogi,1,2025,2025
+Anita Safitri,Riska Dhenabayu,3,2023,2025
+Anita Safitri,Nanang Hoesen. H. A,5,2023,2025
+Anita Safitri,Hujjatullah Fazlurrahman,3,2022,2025
+Nanang Hoesen. H. A,Riska Dhenabayu,3,2023,2025
+Hujjatullah Fazlurrahman,Riska Dhenabayu,4,2023,2025
+Hujjatullah Fazlurrahman,Nanang Hoesen. H. A,3,2023,2025
+Dhiyan Septa Wihara,Ratih Amelia,3,2024,2025
+Muhammad Fachmi,Nadia Nur Thahirrah,1,2025,2025
+Muhammad Fachmi,Ratih Amelia,2,2024,2025
+Hafid Kholidi Hadi,Muhammad Fachmi,2,2024,2025
+Fresha Kharisma,Muhammad Fachmi,1,2025,2025
+Nadia Nur Thahirrah,Ratih Amelia,4,2024,2025
+Hafid Kholidi Hadi,Nadia Nur Thahirrah,2,2024,2025
+Fresha Kharisma,Nadia Nur Thahirrah,3,2024,2025
+Hafid Kholidi Hadi,Ratih Amelia,2,2024,2025
+Fresha Kharisma,Ratih Amelia,3,2024,2025
+Fresha Kharisma,Hafid Kholidi Hadi,3,2022,2025
+Achmad Kautsar,Dhiyan Septa Wihara,2,2024,2025
+Dhiyan Septa Wihara,Hujjatullah Fazlurrahman,1,2025,2025
+Achmad Kautsar,Hujjatullah Fazlurrahman,5,2018,2025
+Ika Diyah Candra Arifah,Renny Sari Dewi,3,2024,2025
+Hafid Kholidi Hadi,Renny Sari Dewi,2,2022,2025
+Renny Sari Dewi,Riska Dhenabayu,2,2025,2025
+Ika Diyah Candra Arifah,Riska Dhenabayu,1,2025,2025
+Hafid Kholidi Hadi,Riska Dhenabayu,1,2025,2025
+Muhammad Febrilian Dwi Syahputra,Riska Dhenabayu,1,2025,2025
+Achmad Fitro,Riska Dhenabayu,2,2024,2025
+Muhammad Febrilian Dwi Syahputra,Renny Sari Dewi,1,2025,2025
+Anita Safitri,Renny Sari Dewi,4,2022,2025
+Achmad Fitro,Renny Sari Dewi,1,2025,2025
+Anita Safitri,Muhammad Febrilian Dwi Syahputra,1,2025,2025
+Achmad Fitro,Muhammad Febrilian Dwi Syahputra,1,2025,2025
+Achmad Fitro,Anita Safitri,1,2025,2025
+Aditya Chandra Hermawan,Reza Rahmadian,6,2021,2025
+Bachtiar Syaiful Bachri,Mustaji,3,2020,2025
+Bachtiar Syaiful Bachri,Siti Masitoh,4,2018,2025
+Andi Mariono,Rusijono,2,2024,2025
+Fajar Arianto,Rusijono,2,2025,2026
+Andi Iwan Nurhidayat,Wiyli Yustanti,2,2024,2025
+Agus Prihanto,Anita Qoiriah,5,2018,2024
+Andi Iwan Nurhidayat,Anita Qoiriah,4,2021,2024
+Agus Prihanto,Yuni Yamasari,5,2020,2024
+Andi Iwan Nurhidayat,Yuni Yamasari,6,2021,2024
+Agus Prihanto,Andi Iwan Nurhidayat,1,2024,2024
+Andi Iwan Nurhidayat,Ricky Eka Putra,1,2024,2024
+Agus Prihanto,I Made Suartana,2,2022,2024
+Aditya Prapanca,I Made Suartana,3,2018,2024
+I Made Suartana,Naim Rochmawati,2,2022,2024
+Aditya Prapanca,Agus Prihanto,2,2022,2024
+Agus Prihanto,Naim Rochmawati,3,2022,2024
+Aditya Prapanca,Anita Qoiriah,1,2024,2024
+Aditya Prapanca,Naim Rochmawati,2,2022,2024
+Aditya Prapanca,Yuni Yamasari,3,2022,2024
+Ricky Eka Putra,Wiyli Yustanti,2,2021,2024
+Anita Qoiriah,Wiyli Yustanti,6,2018,2024
+Wiyli Yustanti,Yuni Yamasari,9,2020,2024
+I Made Suartana,Paramitha Nerisafitra,1,2024,2024
+Paramitha Nerisafitra,Ricky Eka Putra,1,2024,2024
+Aditya Prapanca,Aries Dwi Indriyanti,1,2024,2024
+Aries Dwi Indriyanti,Ervin Yohannes,1,2024,2024
+Aries Dwi Indriyanti,Yuni Yamasari,1,2024,2024
+Aries Dwi Indriyanti,I Kadek Dwi Nuryana,3,2020,2024
+Aditya Prapanca,Ervin Yohannes,2,2024,2024
+Aditya Prapanca,I Kadek Dwi Nuryana,1,2024,2024
+Ervin Yohannes,Yuni Yamasari,1,2024,2024
+Ervin Yohannes,I Kadek Dwi Nuryana,1,2024,2024
+I Kadek Dwi Nuryana,Yuni Yamasari,1,2024,2024
+Aditya Prapanca,Reza Rahmadian,4,2023,2024
+Reza Rahmadian,Widi Aribowo,12,2021,2024
+Mahendra Widyartono,Reza Rahmadian,14,2020,2024
+Aditya Prapanca,Mahendra Widyartono,4,2023,2024
+Mahendra Widyartono,Widi Aribowo,14,2021,2024
+I Gde Agung Sri Sidhimantra,I Gusti Putu Asto Buditjahjanto,1,2024,2024
+Dodik Arwin Dermawan,I Gusti Putu Asto Buditjahjanto,1,2024,2024
+Asmunin,I Gde Agung Sri Sidhimantra,1,2024,2024
+I Made Suartana,Subuh Isnur Haryudo,1,2024,2024
+Pradini Puspitaningayu,Subuh Isnur Haryudo,1,2024,2024
+Dwi Fatrianto Suyatno,Rahadian Bisma,1,2024,2024
+Bonda Sisephaputra,Rahadian Bisma,1,2024,2024
+Anggraeni Widya Purwita,Dwi Fatrianto Suyatno,1,2024,2024
+Anggraeni Widya Purwita,Bonda Sisephaputra,1,2024,2024
+Ardhini Warih Utami,Ghea Sekar Palupi,1,2024,2024
+Ghea Sekar Palupi,Wiyli Yustanti,1,2024,2024
+Ardhini Warih Utami,Wiyli Yustanti,1,2024,2024
+Andi Iwan Nurhidayat,Rindu Puspita Wibawa,1,2024,2024
+Rindu Puspita Wibawa,Yuni Yamasari,1,2024,2024
+Rindu Puspita Wibawa,Wiyli Yustanti,1,2024,2024
+Nurhayati,Pradini Puspitaningayu,3,2024,2024
+Pradini Puspitaningayu,Unit Three Kartini,2,2018,2024
+Pradini Puspitaningayu,Ulfa Siti Nuraini,1,2024,2024
+Ibnu Febry Kurniawan,Pradini Puspitaningayu,1,2024,2024
+Ibnu Febry Kurniawan,Ulfa Siti Nuraini,1,2024,2024
+Parama Diptya Widayaka,Puput Wanarti Rusimamto,1,2024,2024
+Lilik Anifah,Parama Diptya Widayaka,2,2023,2024
+Miftahur Rohman,Widi Aribowo,5,2021,2024
+Farid Baskoro,Widi Aribowo,4,2022,2024
+Hesti Khuzaimah Nurul Yusufiyah,Nur Kholis,1,2024,2024
+Parama Diptya Widayaka,Rifqi Firmansyah,1,2024,2024
+Fadhilah Qalbi Annisa,Ibnu Febry Kurniawan,1,2024,2024
+Hafid Kholidi Hadi,Nanang Hoesen. H. A,3,2023,2024
+Fresha Kharisma,Nanang Hoesen. H. A,3,2024,2024
+Fresha Kharisma,Ika Diyah Candra Arifah,5,2022,2024
+Ika Diyah Candra Arifah,Nanang Hoesen. H. A,2,2024,2024
+Achmad Fitro,Nanang Hoesen. H. A,1,2024,2024
+Achmad Fitro,Hujjatullah Fazlurrahman,1,2024,2024
+Anita Safitri,Fresha Kharisma,4,2022,2024
+Fresha Kharisma,Muhammad Fajar Wahyudi Rahman,1,2024,2024
+Muhammad Fajar Wahyudi Rahman,Nanang Hoesen. H. A,2,2024,2024
+Achmad Kautsar,Hafid Kholidi Hadi,6,2022,2024
+Achmad Kautsar,Muhammad Fajar Wahyudi Rahman,7,2022,2024
+Achmad Kautsar,Nanang Hoesen. H. A,3,2023,2024
+Fresha Kharisma,Renny Sari Dewi,3,2022,2024
+Achmad Kautsar,Renny Sari Dewi,3,2022,2024
+Nanang Hoesen. H. A,Renny Sari Dewi,1,2024,2024
+Achmad Kautsar,Ika Diyah Candra Arifah,4,2022,2024
+Achmad Kautsar,Fresha Kharisma,3,2022,2024
+Achmad Kautsar,Anita Safitri,6,2022,2024
+Achmad Kautsar,Ratih Amelia,3,2024,2024
+Ika Diyah Candra Arifah,Ratih Amelia,1,2024,2024
+Ika Diyah Candra Arifah,Nadia Nur Thahirrah,2,2024,2024
+Dhiyan Septa Wihara,Hafid Kholidi Hadi,2,2024,2024
+Dhiyan Septa Wihara,Muhammad Fachmi,1,2024,2024
+Anita Safitri,Nadia Nur Thahirrah,1,2024,2024
+Muhammad Fajar Wahyudi Rahman,Nadia Nur Thahirrah,1,2024,2024
+Achmad Kautsar,Nadia Nur Thahirrah,1,2024,2024
+Anita Safitri,Ratih Amelia,1,2024,2024
+Muhammad Fajar Wahyudi Rahman,Ratih Amelia,1,2024,2024
+Dhiyan Septa Wihara,Fresha Kharisma,1,2024,2024
+Dhiyan Septa Wihara,Nadia Nur Thahirrah,1,2024,2024
+Hujjatullah Fazlurrahman,Ratih Amelia,1,2024,2024
+Anita Safitri,Dhiyan Septa Wihara,1,2024,2024
+Aditya Chandra Hermawan,Widi Aribowo,7,2021,2024
+Aditya Chandra Hermawan,Mahendra Widyartono,6,2021,2024
+Fajar Arianto,Mustaji,4,2022,2024
+Andi Mariono,Mustaji,5,2018,2024
+I Made Suartana,Rahadian Bisma,2,2023,2023
+Anita Qoiriah,Rahadian Bisma,2,2018,2023
+Rahadian Bisma,Ricky Eka Putra,2,2023,2023
+Ari Kurniawan,Paramitha Nerisafitra,1,2023,2023
+Paramitha Nerisafitra,Yuni Yamasari,1,2023,2023
+Andi Iwan Nurhidayat,Paramitha Nerisafitra,1,2023,2023
+Ari Kurniawan,Yuni Yamasari,1,2023,2023
+Andi Iwan Nurhidayat,Ari Kurniawan,1,2023,2023
+Aditya Prapanca,Bambang Suprianto,3,2023,2023
+Bambang Suprianto,Unit Three Kartini,6,2020,2023
+Bambang Suprianto,Widi Aribowo,14,2020,2023
+Aditya Prapanca,Unit Three Kartini,1,2023,2023
+Unit Three Kartini,Widi Aribowo,7,2020,2023
+Bambang Suprianto,Reza Rahmadian,3,2021,2023
+Bambang Suprianto,Mahendra Widyartono,4,2021,2023
+Naim Rochmawati,Pradini Puspitaningayu,1,2023,2023
+Rifqi Abdillah,Sayyidul Aulia Alamsyah,1,2023,2023
+Pradini Puspitaningayu,Rifqi Abdillah,1,2023,2023
+Arif Widodo,Rifqi Abdillah,1,2023,2023
+Arif Widodo,Sayyidul Aulia Alamsyah,1,2023,2023
+Arif Widodo,Pradini Puspitaningayu,6,2018,2023
+Arif Widodo,Parama Diptya Widayaka,1,2023,2023
+Aries Dwi Indriyanti,Wiyli Yustanti,1,2023,2023
+Ekohariadi,I Gusti Putu Asto Buditjahjanto,1,2023,2023
+I Gusti Putu Asto Buditjahjanto,Yeni Anistyasari,1,2023,2023
+Tri Wrahatnolo,Yeni Anistyasari,1,2023,2023
+Bambang Suprianto,Ekohariadi,1,2023,2023
+Miftahur Rohman,Yuni Yamasari,1,2023,2023
+Miftahur Rohman,Wiyli Yustanti,1,2023,2023
+Farid Baskoro,Yuni Yamasari,1,2023,2023
+Widi Aribowo,Yuni Yamasari,1,2023,2023
+Farid Baskoro,Wiyli Yustanti,1,2023,2023
+Widi Aribowo,Wiyli Yustanti,1,2023,2023
+Hasanuddin Al-Habib,Rindu Puspita Wibawa,2,2023,2023
+Hasanuddin Al-Habib,Nanang Hoesen. H. A,2,2023,2023
+Nanang Hoesen. H. A,Rindu Puspita Wibawa,2,2023,2023
+Lusia Rakhmawati,Rindu Puspita Wibawa,1,2023,2023
+Asmunin,Rindu Puspita Wibawa,1,2023,2023
+Hasanuddin Al-Habib,Lusia Rakhmawati,1,2023,2023
+Asmunin,Lusia Rakhmawati,1,2023,2023
+Lusia Rakhmawati,Nanang Hoesen. H. A,1,2023,2023
+Asmunin,Hasanuddin Al-Habib,1,2023,2023
+Asmunin,Nanang Hoesen. H. A,1,2023,2023
+I Gusti Putu Asto Buditjahjanto,Reza Rahmadian,1,2023,2023
+Reza Rahmadian,Subuh Isnur Haryudo,1,2023,2023
+I Gusti Putu Asto Buditjahjanto,Mahendra Widyartono,2,2021,2023
+I Gusti Putu Asto Buditjahjanto,Subuh Isnur Haryudo,1,2023,2023
+I Gusti Putu Asto Buditjahjanto,Widi Aribowo,2,2021,2023
+Mahendra Widyartono,Subuh Isnur Haryudo,1,2023,2023
+Subuh Isnur Haryudo,Widi Aribowo,2,2021,2023
+Miftahur Rohman,Unit Three Kartini,1,2023,2023
+Miftahur Rohman,Subuh Isnur Haryudo,1,2023,2023
+Farid Baskoro,Unit Three Kartini,1,2023,2023
+Farid Baskoro,Subuh Isnur Haryudo,2,2022,2023
+Subuh Isnur Haryudo,Unit Three Kartini,1,2023,2023
+Miftahur Rohman,Nurhayati,1,2023,2023
+Sayyidul Aulia Alamsyah,Unit Three Kartini,2,2023,2023
+Nurhayati,Sayyidul Aulia Alamsyah,1,2023,2023
+Bambang Suprianto,Sayyidul Aulia Alamsyah,1,2023,2023
+Nurhayati,Unit Three Kartini,2,2022,2023
+Parama Diptya Widayaka,Unit Three Kartini,1,2023,2023
+Bambang Suprianto,Nurhayati,2,2022,2023
+Nurhayati,Parama Diptya Widayaka,1,2023,2023
+Bambang Suprianto,Parama Diptya Widayaka,1,2023,2023
+Endryansyah,Rifqi Firmansyah,1,2023,2023
+Bambang Suprianto,Farid Baskoro,3,2021,2023
+Farid Baskoro,Lilik Anifah,4,2020,2023
+Lusia Rakhmawati,Wiyli Yustanti,4,2020,2023
+Elly Matul Imah,Lusia Rakhmawati,1,2023,2023
+Lilik Anifah,Sayyidul Aulia Alamsyah,1,2023,2023
+Elly Matul Imah,Hasanuddin Al-Habib,1,2023,2023
+Hasanuddin Al-Habib,Riskyana Dewi Intan P,1,2023,2023
+Fadhilah Qalbi Annisa,Hasanuddin Al-Habib,1,2023,2023
+Achmad Kautsar,Riska Dhenabayu,1,2023,2023
+Hafid Kholidi Hadi,Hujjatullah Fazlurrahman,1,2023,2023
+Hujjatullah Fazlurrahman,Muhammad Fajar Wahyudi Rahman,1,2023,2023
+I Gde Agung Sri Sidhimantra,Nurhayati,1,2023,2023
+Bachtiar Syaiful Bachri,Bambang Sujatmiko,1,2023,2023
+Andi Iwan Nurhidayat,Naim Rochmawati,1,2022,2022
+I Made Suartana,Wiyli Yustanti,1,2022,2022
+Agus Prihanto,Wiyli Yustanti,2,2018,2022
+Aditya Prapanca,Wiyli Yustanti,1,2022,2022
+Naim Rochmawati,Wiyli Yustanti,6,2020,2022
+I Made Suartana,Nurhayati,1,2022,2022
+Ekohariadi,Subuh Isnur Haryudo,5,2019,2022
+Lilik Anifah,Subuh Isnur Haryudo,2,2022,2022
+Puput Wanarti Rusimamto,Subuh Isnur Haryudo,1,2022,2022
+Lilik Anifah,Unit Three Kartini,1,2022,2022
+Aditya Chandra Hermawan,Bambang Suprianto,2,2021,2022
+Lusia Rakhmawati,Naim Rochmawati,5,2018,2022
+Lusia Rakhmawati,Miftahur Rohman,1,2022,2022
+Reza Rahmadian,Unit Three Kartini,2,2021,2022
+Mahendra Widyartono,Unit Three Kartini,2,2021,2022
+Aditya Chandra Hermawan,Unit Three Kartini,2,2021,2022
+Joko,Parama Diptya Widayaka,1,2022,2022
+Atik Wintarti,Elly Matul Imah,6,2018,2022
+Atik Wintarti,Riskyana Dewi Intan P,2,2022,2022
+Atik Wintarti,Yuliani Puji Astuti,1,2022,2022
+Hujjatullah Fazlurrahman,Ika Diyah Candra Arifah,1,2022,2022
+Fresha Kharisma,Hujjatullah Fazlurrahman,1,2022,2022
+Bachtiar Syaiful Bachri,Yatim Riyanto,1,2022,2022
+Anita Qoiriah,Asmunin,3,2020,2021
+Asmunin,Yuni Yamasari,3,2020,2021
+Anita Qoiriah,Atik Wintarti,1,2021,2021
+Atik Wintarti,Naim Rochmawati,1,2021,2021
+Atik Wintarti,Yuni Yamasari,1,2021,2021
+Atik Wintarti,Wiyli Yustanti,1,2021,2021
+Asmunin,Naim Rochmawati,1,2021,2021
+Naim Rochmawati,Ricky Eka Putra,2,2018,2021
+Asmunin,Wiyli Yustanti,1,2021,2021
+Asmunin,Ricky Eka Putra,2,2020,2021
+Puput Wanarti Rusimamto,Yeni Anistyasari,1,2021,2021
+Lilik Anifah,Yeni Anistyasari,1,2021,2021
+Endryansyah,Yeni Anistyasari,1,2021,2021
+Ari Kurniawan,Yeni Anistyasari,2,2018,2021
+Bambang Suprianto,Tri Wrahatnolo,1,2021,2021
+Bambang Suprianto,Subuh Isnur Haryudo,1,2021,2021
+Aditya Chandra Hermawan,Subuh Isnur Haryudo,1,2021,2021
+Puput Wanarti Rusimamto,Tri Rijanto,1,2021,2021
+Nurhayati,Tri Rijanto,1,2021,2021
+Bambang Suprianto,Joko,1,2021,2021
+Joko,Widi Aribowo,1,2021,2021
+Bambang Suprianto,Miftahur Rohman,2,2021,2021
+Lilik Anifah,Miftahur Rohman,1,2021,2021
+I Gusti Putu Asto Buditjahjanto,Miftahur Rohman,1,2021,2021
+Bambang Suprianto,I Gusti Putu Asto Buditjahjanto,1,2021,2021
+Mahendra Widyartono,Miftahur Rohman,1,2021,2021
+Joko,Tri Rijanto,1,2021,2021
+Anita Qoiriah,Puput Wanarti Rusimamto,1,2020,2020
+Naim Rochmawati,Puput Wanarti Rusimamto,2,2018,2020
+Puput Wanarti Rusimamto,Yuni Yamasari,2,2018,2020
+Puput Wanarti Rusimamto,Wiyli Yustanti,1,2020,2020
+Agus Prihanto,Asmunin,1,2020,2020
+Agus Prihanto,Ricky Eka Putra,1,2020,2020
+Aries Dwi Indriyanti,Rindu Puspita Wibawa,1,2020,2020
+Aries Dwi Indriyanti,Bambang Sujatmiko,2,2019,2020
+Agus Prihanto,Aries Dwi Indriyanti,1,2020,2020
+Bambang Sujatmiko,Rindu Puspita Wibawa,1,2020,2020
+Agus Prihanto,Rindu Puspita Wibawa,1,2020,2020
+Agus Prihanto,Bambang Sujatmiko,1,2020,2020
+Naim Rochmawati,Yeni Anistyasari,3,2018,2020
+Yeni Anistyasari,Yuni Yamasari,1,2020,2020
+Lusia Rakhmawati,Yeni Anistyasari,1,2020,2020
+Wiyli Yustanti,Yeni Anistyasari,3,2017,2020
+Arif Widodo,Nurhayati,1,2020,2020
+Endryansyah,Nurhayati,1,2020,2020
+Bambang Suprianto,Tri Rijanto,1,2020,2020
+Lilik Anifah,Reza Rahmadian,1,2020,2020
+Arif Widodo,Joko,1,2020,2020
+Atik Wintarti,Rosita,1,2019,2019
+Agus Prihanto,Rahadian Bisma,1,2018,2018
+Rahadian Bisma,Wiyli Yustanti,1,2018,2018
+Ibnu Febry Kurniawan,Naim Rochmawati,1,2018,2018
+Ibnu Febry Kurniawan,Yeni Anistyasari,1,2018,2018
+Dodik Arwin Dermawan,Naim Rochmawati,1,2018,2018
+Ekohariadi,Yuni Yamasari,1,2018,2018
+Ari Kurniawan,Ekohariadi,1,2018,2018
+Lilik Anifah,Tri Wrahatnolo,1,2018,2018
+Tri Wrahatnolo,Wiyli Yustanti,1,2018,2018
+Lilik Anifah,Wiyli Yustanti,1,2018,2018
+Rifqi Firmansyah,Subuh Isnur Haryudo,1,2018,2018
+Lilik Anifah,Pradini Puspitaningayu,2,2018,2018
+Nur Kholis,Pradini Puspitaningayu,1,2018,2018
+Lilik Anifah,Nur Kholis,1,2018,2018
+Pradini Puspitaningayu,Rifqi Firmansyah,1,2018,2018
+Lilik Anifah,Rifqi Firmansyah,1,2018,2018
+Arif Widodo,Lilik Anifah,1,2018,2018
+Arif Widodo,Unit Three Kartini,1,2018,2018
+Lilik Anifah,Yuni Yamasari,1,2018,2018
+Nur Kholis,Reza Rahmadian,1,2018,2018
+Ibnu Febry Kurniawan,Rahadian Bisma,1,2018,2018
+Elly Matul Imah,Yeni Anistyasari,1,2017,2017
+Elly Matul Imah,Wiyli Yustanti,1,2017,2017
+Arif Widodo,Elly Matul Imah,1,2017,2017
+Anita Qoiriah,Yeni Anistyasari,1,2022,2022
+Ekohariadi,Puput Wanarti Rusimamto,2,2019,2021
+Rusijono,Yatim Riyanto,1,2020,2020
+Ekohariadi,Endryansyah,1,2019,2019

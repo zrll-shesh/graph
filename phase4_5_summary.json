@@ -1,0 +1,57 @@
+{
+  "k_kmeans": 2,
+  "k_spectral": 2,
+  "k_consensus": 2,
+  "metrics": {
+    "KMeans": {
+      "silhouette": 0.76608806848526,
+      "davies_bouldin": 0.35181103802644487,
+      "calinski_harabasz": 567.424564014433,
+      "n_clusters": 2
+    },
+    "Spectral": {
+      "silhouette": 0.76608806848526,
+      "davies_bouldin": 0.35181103802644487,
+      "calinski_harabasz": 567.424564014433,
+      "n_clusters": 2
+    },
+    "HDBSCAN": {
+      "silhouette": 0.7620324492454529,
+      "davies_bouldin": 0.24594125246398676,
+      "calinski_harabasz": 350.1628487432079,
+      "n_clusters": 3
+    }
+  },
+  "consensus_metrics": {
+    "silhouette": 0.76608806848526,
+    "davies_bouldin": 0.35181103802644487,
+    "calinski_harabasz": 567.424564014433,
+    "n_clusters": 2
+  },
+  "stability_bootstrap": {
+    "mean_ARI": 1.0,
+    "std_ARI": 0.0
+  },
+  "agreement_ARI": {
+    "kmeans_vs_spectral": 1.0,
+    "kmeans_vs_hdbscan": 0.9601737467465364
+  },
+  "silhouette_grid_kmeans": {
+    "2": 0.76608806848526,
+    "3": 0.4965043067932129,
+    "4": 0.5009252429008484,
+    "5": 0.46395671367645264,
+    "6": 0.5030161738395691,
+    "7": 0.531331479549408,
+    "8": 0.5318450927734375
+  },
+  "silhouette_grid_spectral": {
+    "2": 0.76608806848526,
+    "3": 0.3878984749317169,
+    "4": 0.43898507952690125,
+    "5": 0.4957568049430847,
+    "6": 0.503194272518158,
+    "7": 0.533218264579773,
+    "8": 0.47692030668258667
+  }
+}
