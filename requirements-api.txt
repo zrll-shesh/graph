@@ -1,0 +1,7 @@
+fastapi==0.141.1
+uvicorn
+joblib
+numpy
+scikit-learn==1.8.0
+bertopic==0.17.4
+sentence-transformers

@@ -1,0 +1,1619 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d1" for="node" attr.name="n_papers" attr.type="long" />
+  <key id="d0" for="node" attr.name="prodi" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Aditya Prapanca, S.T., M.Kom.">
+      <data key="d0">S1 Teknik Informatika</data>
+      <data key="d1">89</data>
+    </node>
+    <node id="Anita Qoiriah, S.Kom., M.Kom.">
+      <data key="d0">S1 Teknik Informatika</data>
+      <data key="d1">112</data>
+    </node>
+    <node id="Dr. Yuni Yamasari, S.Kom., M.Kom.">
+      <data key="d0">S2 Informatika</data>
+      <data key="d1">37</data>
+    </node>
+    <node id="Agus Prihanto, S.T., M.Kom.">
+      <data key="d0">S1 Teknik Informatika</data>
+      <data key="d1">87</data>
+    </node>
+    <node id="Dr. Ir. Ricky Eka Putra, S.Kom., M.Kom.">
+      <data key="d0">S2 Informatika</data>
+      <data key="d1">21</data>
+    </node>
+    <node id="I Made Suartana, S.Kom., M.Kom.">
+      <data key="d0">S1 Teknik Informatika</data>
+      <data key="d1">75</data>
+    </node>
+    <node id="Naim Rochmawati, S.Kom., M.T.">
+      <data key="d0">S1 Teknik Informatika</data>
+      <data key="d1">70</data>
+    </node>
+    <node id="Paramitha Nerisafitra, S.ST., M.Kom.">
+      <data key="d0">S1 Teknik Informatika</data>
+      <data key="d1">56</data>
+    </node>
+    <node id="Ronggo Alit, M.M., M.T.">
+      <data key="d0">Pendidikan Profesi Guru</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Ervin Yohannes, S.Kom., M.Kom., M.Sc., Ph.D.">
+      <data key="d0">S2 Informatika</data>
+      <data key="d1">8</data>
+    </node>
+    <node id="Farhanna Mari, S.Kom., M.Kom.">
+      <data key="d0">S1 Teknik Informatika</data>
+      <data key="d1">32</data>
+    </node>
+    <node id="Rifqi Abdillah, M.Kom.">
+      <data key="d0">S1 Teknik Informatika</data>
+      <data key="d1">8</data>
+    </node>
+    <node id="Dr.  Wiyli Yustanti, S.Si., M.Kom.">
+      <data key="d0">S2 Informatika</data>
+      <data key="d1">23</data>
+    </node>
+    <node id="Dr. I Kadek Dwi Nuryana, S.T., M.Kom.">
+      <data key="d0">S1 Pendidikan Teknologi Informasi</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Dwi Fatrianto Suyatno, S.Kom., M.Kom.">
+      <data key="d0">S1 Sistem Informasi</data>
+      <data key="d1">65</data>
+    </node>
+    <node id="Dr. Aries Dwi Indriyanti, S.Kom., M.Kom.">
+      <data key="d0">S1 Sistem Informasi</data>
+      <data key="d1">19</data>
+    </node>
+    <node id="Ardhini Warih Utami, S.Kom., M.Kom.">
+      <data key="d0">S1 Sistem Informasi</data>
+      <data key="d1">59</data>
+    </node>
+    <node id="Rahadian Bisma, S.Kom., M.Kom.">
+      <data key="d0">S1 Sistem Informasi</data>
+      <data key="d1">46</data>
+    </node>
+    <node id="Ghea Sekar Palupi, S.Kom., M.I.M.">
+      <data key="d0">S1 Sistem Informasi</data>
+      <data key="d1">34</data>
+    </node>
+    <node id="Bonda Sisephaputra, M. Kom.">
+      <data key="d0">S1 Informatika (Kampus Kabupaten Magetan)</data>
+      <data key="d1">36</data>
+    </node>
+    <node id="Berlian Maulidya Izzati, S.Kom. M.Kom.">
+      <data key="d0">S1 Sistem Informasi</data>
+      <data key="d1">30</data>
+    </node>
+    <node id="Anggraeni Widya Purwita, M.Kom.">
+      <data key="d0">S1 Sistem Informasi</data>
+      <data key="d1">12</data>
+    </node>
+    <node id="Monica Cinthya, M.Kom.">
+      <data key="d0">S1 Sistem Informasi</data>
+      <data key="d1">10</data>
+    </node>
+    <node id="Cendra Devayana Putra, S.Kom., M.IM.">
+      <data key="d0">S1 Sistem Informasi</data>
+      <data key="d1">26</data>
+    </node>
+    <node id="Erik Rahman, S.Kom., M.M.S.I.">
+      <data key="d0">S1 Sistem Informasi</data>
+      <data key="d1">23</data>
+    </node>
+    <node id="Prof. Dr. Ekohariadi, M.Pd.">
+      <data key="d0">S2 Pendidikan Teknologi Informasi</data>
+      <data key="d1">53</data>
+    </node>
+    <node id="Drs. Bambang Sujatmiko, M.T.">
+      <data key="d0">S1 Pendidikan Teknologi Informasi</data>
+      <data key="d1">132</data>
+    </node>
+    <node id="Dr. Tri Rijanto, M.Pd., M.T.">
+      <data key="d0">S3 Penelitian dan Evaluasi Pendidikan</data>
+      <data key="d1">252</data>
+    </node>
+    <node id="Dr. Yeni Anistyasari, S.Pd., M.Kom.">
+      <data key="d0">S2 Pendidikan Teknologi Informasi</data>
+      <data key="d1">173</data>
+    </node>
+    <node id="I Gusti Lanang Putra Eka Prismana, S.Kom., M.Kom.">
+      <data key="d0">S1 Pendidikan Teknologi Informasi</data>
+      <data key="d1">89</data>
+    </node>
+    <node id="Rindu Puspita Wibawa, S.Kom., M.Kom.">
+      <data key="d0">S1 Pendidikan Teknologi Informasi</data>
+      <data key="d1">40</data>
+    </node>
+    <node id="Martini Dwi Endah Susanti, S.Kom., M.Kom.">
+      <data key="d0">S1 Pendidikan Teknologi Informasi</data>
+      <data key="d1">51</data>
+    </node>
+    <node id="Ramadhan Cakra Wibawa, S.Pd., M.Kom.">
+      <data key="d0">S1 Pendidikan Teknologi Informasi</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Harun Al Rosyid, S.T., M.T.">
+      <data key="d0">S1 Pendidikan Teknologi Informasi</data>
+      <data key="d1">15</data>
+    </node>
+    <node id="Ir. Rizky Basatha,  S.Pd.,  M.MT.">
+      <data key="d0">S1 Pendidikan Teknologi Informasi</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Riza Akhsani Setyo Prayoga, S.Kom., M.MT.">
+      <data key="d0">S1 Pendidikan Teknologi Informasi</data>
+      <data key="d1">40</data>
+    </node>
+    <node id="Muhammad Sonhaji Akbar, S.Pd., M.Kom.">
+      <data key="d0">S1 Pendidikan Teknologi Informasi</data>
+      <data key="d1">10</data>
+    </node>
+    <node id="Ersha Aisyah Elfaiz, S.Si., M.T.I.">
+      <data key="d0">S1 Pendidikan Teknologi Informasi</data>
+      <data key="d1">8</data>
+    </node>
+    <node id="Nisa Dwi Septiyanti, S.Kom., M.Pd., M.Sc.">
+      <data key="d0">S1 Pendidikan Teknologi Informasi</data>
+      <data key="d1">36</data>
+    </node>
+    <node id="Mohammad Wildan Habibi, S.Pd., M.Pd.">
+      <data key="d0">S1 Pendidikan Teknologi Informasi</data>
+      <data key="d1">5</data>
+    </node>
+    <node id="Elvira Wardah, S.Pd., M.Ed.">
+      <data key="d0">S1 Pendidikan Teknologi Informasi</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Prof. Dr. Bambang Suprianto, M.T.">
+      <data key="d0">S2 Teknik Elektro</data>
+      <data key="d1">29</data>
+    </node>
+    <node id="Prof. Dr. I Gusti Putu Asto Buditjahjanto, S.T., M.T.">
+      <data key="d0">S2 Informatika</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Prof. Dr. Tri Wrahatnolo, M.Pd.  M.T.">
+      <data key="d0">S1 Pendidikan Teknologi Informasi</data>
+      <data key="d1">14</data>
+    </node>
+    <node id="Prof. Dr. Joko, M.Pd., M.T.">
+      <data key="d0">S3 Pendidikan Vokasi</data>
+      <data key="d1">43</data>
+    </node>
+    <node id="Unit Three Kartini, S.T., M.T., Ph.D.">
+      <data key="d0">S2 Teknik Elektro</data>
+      <data key="d1">25</data>
+    </node>
+    <node id="Prof. Dr. Lilik Anifah, S.T., M.T.">
+      <data key="d0">S2 Teknik Elektro</data>
+      <data key="d1">180</data>
+    </node>
+    <node id="Dr. Ir. Lusia Rakhmawati, S.T., M.T.">
+      <data key="d0">Program Profesi Insinyur</data>
+      <data key="d1">28</data>
+    </node>
+    <node id="Prof. Dr. Nurhayati, S.T., M.T.">
+      <data key="d0">S2 Teknik Elektro</data>
+      <data key="d1">105</data>
+    </node>
+    <node id="Dr. Raden Roro Hapsari Peni  Agustin T, S.Si., M.T.">
+      <data key="d0">S1 Teknik Elektro</data>
+      <data key="d1">33</data>
+    </node>
+    <node id="Pradini Puspitaningayu, S.T., M.T., Ph.D.">
+      <data key="d0">S1 Teknik Elektro</data>
+      <data key="d1">46</data>
+    </node>
+    <node id="Prof. Dr. Puput Wanarti Rusimamto, S.T., M.T.">
+      <data key="d0">S2 Pendidikan Teknik Elektro</data>
+      <data key="d1">18</data>
+    </node>
+    <node id="Dr. Subuh Isnur Haryudo, S.T., M.T.">
+      <data key="d0">S2 Pendidikan Teknologi Informasi</data>
+      <data key="d1">19</data>
+    </node>
+    <node id="Dr. Ir. Nur Kholis, S.T., M.T.">
+      <data key="d0">S2 Pendidikan Teknik Elektro</data>
+      <data key="d1">110</data>
+    </node>
+    <node id="Dr.  Endryansyah, S.T., M.T.">
+      <data key="d0">S1 Teknik Elektro</data>
+      <data key="d1">10</data>
+    </node>
+    <node id="Ibrohim, S.T., M.T.">
+      <data key="d0">S1 Teknik Elektro</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Dr. Farid Baskoro, S.T., M.T.">
+      <data key="d0">S2 Pendidikan Teknik Elektro</data>
+      <data key="d1">73</data>
+    </node>
+    <node id="Rifqi Firmansyah, S.T., M.T., Ph.D.">
+      <data key="d0">S1 Teknik Elektro</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Arif Widodo, S.T., M.Sc.">
+      <data key="d0">S1 Teknik Elektro</data>
+      <data key="d1">40</data>
+    </node>
+    <node id="Miftahur Rohman, S.T., M.T.">
+      <data key="d0">S1 Teknik Elektro</data>
+      <data key="d1">17</data>
+    </node>
+    <node id="Parama Diptya Widayaka, S.ST., M.T.">
+      <data key="d0">S1 Teknik Elektro</data>
+      <data key="d1">12</data>
+    </node>
+    <node id="Mahendra Widyartono, S.T., M.T.">
+      <data key="d0">D4 Teknik Listrik</data>
+      <data key="d1">43</data>
+    </node>
+    <node id="Dr. Widi Aribowo, S.T., M.T.">
+      <data key="d0">D4 Teknik Listrik</data>
+      <data key="d1">144</data>
+    </node>
+    <node id="Reza Rahmadian, S.ST., M.EngSc.">
+      <data key="d0">D4 Teknik Listrik</data>
+      <data key="d1">19</data>
+    </node>
+    <node id="Aditya Chandra Hermawan, S.ST., M.T.">
+      <data key="d0">D4 Teknik Listrik</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Sayyidul Aulia Alamsyah, S.T., M.T.">
+      <data key="d0">S1 Teknik Elektro</data>
+      <data key="d1">13</data>
+    </node>
+    <node id="Yandhika Surya Akbar Gumilang, S.T., M.T.">
+      <data key="d0">S1 Teknik Elektro</data>
+      <data key="d1">25</data>
+    </node>
+    <node id="Hesti Khuzaimah Nurul Yusufiyah, S.Si., M.Eng.">
+      <data key="d0">S1 Teknik Elektro</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Ir. Wahyu Sasongko Putro, B.Eng., M.Sc., IPM., ASEAN Eng., APEC Eng.">
+      <data key="d0">Program Profesi Insinyur</data>
+      <data key="d1">20</data>
+    </node>
+    <node id="Namira Roudlotul Jannah, S.T., M.T.">
+      <data key="d0">S1 Teknik Elektro</data>
+      <data key="d1">5</data>
+    </node>
+    <node id="Dr. Elly Matul Imah, M.Kom.">
+      <data key="d0">S1 Kecerdasan Artifisial</data>
+      <data key="d1">39</data>
+    </node>
+    <node id="Riskyana Dewi Intan P, M.Kom.">
+      <data key="d0">S1 Kecerdasan Artifisial</data>
+      <data key="d1">17</data>
+    </node>
+    <node id="Fadhilah Qalbi Annisa, S.T., M.Sc.">
+      <data key="d0">S1 Kecerdasan Artifisial</data>
+      <data key="d1">9</data>
+    </node>
+    <node id="Harmon Prayogi, M.Sc.">
+      <data key="d0">S1 Kecerdasan Artifisial</data>
+      <data key="d1">15</data>
+    </node>
+    <node id="Ike Fitriyaningsih, M.Si">
+      <data key="d0">S1 Kecerdasan Artifisial</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="Dr. Atik Wintarti, M.Kom.">
+      <data key="d0">S1 Sains Data</data>
+      <data key="d1">68</data>
+    </node>
+    <node id="Ibnu Febry Kurniawan, S.Kom., M.Sc., Ph.D.">
+      <data key="d0">S1 Sains Data</data>
+      <data key="d1">19</data>
+    </node>
+    <node id="Yuliani Puji Astuti, S.Si., M.Si.">
+      <data key="d0">S1 Sains Data</data>
+      <data key="d1">83</data>
+    </node>
+    <node id="Hasanuddin Al-Habib, M.Si.">
+      <data key="d0">S1 Sains Data</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Ulfa Siti Nuraini, S.Stat., M.Stat.">
+      <data key="d0">S1 Sains Data</data>
+      <data key="d1">18</data>
+    </node>
+    <node id="Dinda Galuh Guminta, M.Stat.">
+      <data key="d0">S1 Sains Data</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Kartika Chandra Dewi, S.Si., M.Si.">
+      <data key="d0">S1 Sains Data</data>
+      <data key="d1">5</data>
+    </node>
+    <node id="Yuni Rosita Dewi, M.Si.">
+      <data key="d0">S1 Sains Data</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Dr. Heri Purnawan, S.Si., M.Si.">
+      <data key="d0">S1 Sains Data</data>
+      <data key="d1">24</data>
+    </node>
+    <node id="Moh. Khoridatul Huda, S.Pd., M.Si., Ph.D.">
+      <data key="d0">S1 Sains Data</data>
+      <data key="d1">39</data>
+    </node>
+    <node id="Belgis Ainatul Iza, S.Si, M.Mat.">
+      <data key="d0">S1 Sains Data</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Siska Puspitaningsih, S.Kom., M.Kom.">
+      <data key="d0">S1 Sains Data</data>
+      <data key="d1">14</data>
+    </node>
+    <node id="Nurul Laili, S.Pd., M.Sc.">
+      <data key="d0">S1 Sains Data</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Hujjatullah Fazlurrahman, S.E., MBA.">
+      <data key="d0">S1 Bisnis Digital</data>
+      <data key="d1">15</data>
+    </node>
+    <node id="Achmad Kautsar, S.E., M.M.">
+      <data key="d0">S1 Bisnis Digital</data>
+      <data key="d1">94</data>
+    </node>
+    <node id="Hafid Kholidi Hadi, S.E., M.SM.">
+      <data key="d0">S1 Bisnis Digital</data>
+      <data key="d1">53</data>
+    </node>
+    <node id="Ika Diyah Candra Arifah, S.E., M.Com.">
+      <data key="d0">S1 Bisnis Digital</data>
+      <data key="d1">55</data>
+    </node>
+    <node id="Riska Dhenabayu, S.Kom., M.M.">
+      <data key="d0">S1 Bisnis Digital</data>
+      <data key="d1">33</data>
+    </node>
+    <node id="Fresha Kharisma,  S.E., M.SM.">
+      <data key="d0">S1 Bisnis Digital</data>
+      <data key="d1">9</data>
+    </node>
+    <node id="Renny Sari Dewi, S. Kom., M. Kom.">
+      <data key="d0">S1 Bisnis Digital</data>
+      <data key="d1">26</data>
+    </node>
+    <node id="Anita Safitri, M. Kom.">
+      <data key="d0">S1 Bisnis Digital</data>
+      <data key="d1">16</data>
+    </node>
+    <node id="Dr. Nanang Hoesen. H. A., S.T., M.T.I.">
+      <data key="d0">S1 Bisnis Digital</data>
+      <data key="d1">44</data>
+    </node>
+    <node id="Muhammad Fajar Wahyudi Rahman, S.E., M.M.">
+      <data key="d0">S1 Bisnis Digital</data>
+      <data key="d1">18</data>
+    </node>
+    <node id="Dr.  Ratih Amelia, S.E., M.M.">
+      <data key="d0">S2 Bisnis Digital</data>
+      <data key="d1">10</data>
+    </node>
+    <node id="Nadia Nur Thahirrah, S.E., M.SM.">
+      <data key="d0">S1 Bisnis Digital</data>
+      <data key="d1">5</data>
+    </node>
+    <node id="Dr. Dhiyan Septa Wihara, S.P., M.M.">
+      <data key="d0">S2 Bisnis Digital</data>
+      <data key="d1">54</data>
+    </node>
+    <node id="Dr Muhammad Fachmi, S.E., M.M.">
+      <data key="d0">S2 Bisnis Digital</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Achmad Fitro, S.Kom., M.Kom.">
+      <data key="d0">S1 Bisnis Digital</data>
+      <data key="d1">42</data>
+    </node>
+    <node id="Muhammad Febrilian Dwi Syahputra, S.Kom., M.Kom.">
+      <data key="d0">S1 Bisnis Digital</data>
+      <data key="d1">10</data>
+    </node>
+    <node id="Dana Azizah Rahmat, S.T., M.T., MBA.">
+      <data key="d0">S1 Bisnis Digital</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="Danang Ary Dewangga, S.Kom., M.SM.">
+      <data key="d0">S1 Bisnis Digital</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Diki Putra Setianto, S.M., M.Sc.">
+      <data key="d0">S1 Bisnis Digital</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Rakha Asyrofi, S.ST., M.Kom.">
+      <data key="d0">S1 Agribisnis Digital</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="Dodik Arwin Dermawan, S.ST., S.T., M.T.">
+      <data key="d0">D4 Manajemen Informatika</data>
+      <data key="d1">140</data>
+    </node>
+    <node id="Asmunin, S.Kom., M.Kom.">
+      <data key="d0">D4 Manajemen Informatika</data>
+      <data key="d1">58</data>
+    </node>
+    <node id="Andi Iwan Nurhidayat, S.Kom., M.T.">
+      <data key="d0">D4 Manajemen Informatika</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Ari Kurniawan, S.Kom., M.T.">
+      <data key="d0">D4 Manajemen Informatika</data>
+      <data key="d1">10</data>
+    </node>
+    <node id="Salamun Rohman Nudin, S.Kom., M.Kom.">
+      <data key="d0">D4 Manajemen Informatika</data>
+      <data key="d1">76</data>
+    </node>
+    <node id="I Gde Agung Sri Sidhimantra, S.Kom., M.Kom.">
+      <data key="d0">D4 Manajemen Informatika</data>
+      <data key="d1">12</data>
+    </node>
+    <node id="Rosita, S.Pd., M.Pd.">
+      <data key="d0">D4 Manajemen Informatika</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="Faris Abdi El Hakim, S.Kom., M.Tr.Kom.">
+      <data key="d0">D4 Manajemen Informatika</data>
+      <data key="d1">8</data>
+    </node>
+    <node id="Binti Kholifah, S.Kom., M.Tr.Kom.">
+      <data key="d0">D4 Manajemen Informatika</data>
+      <data key="d1">10</data>
+    </node>
+    <node id="Dimas Novian Aditia Syahputra, S.Tr.T., M.Tr.T.">
+      <data key="d0">D4 Manajemen Informatika</data>
+      <data key="d1">9</data>
+    </node>
+    <node id="Moch Deny Pratama, S.Tr.Kom., M.Kom.">
+      <data key="d0">D4 Manajemen Informatika</data>
+      <data key="d1">9</data>
+    </node>
+    <node id="M Adamu Islam Mashuri, S.Tr.T., M.Tr.Kom.">
+      <data key="d0">D4 Manajemen Informatika</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="Dr. Fitria, S.Pd., M.Pd.">
+      <data key="d0">S2 Industri Kreatif</data>
+      <data key="d1">19</data>
+    </node>
+    <node id="Moch. Badrus Sholeh, S.Kom., M.Kom.">
+      <data key="d0">D4 Manajemen Informatika</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="Prof. Dr. Mustaji, M.Pd.">
+      <data key="d0">S3 Teknologi Pendidikan</data>
+      <data key="d1">255</data>
+    </node>
+    <node id="Prof.Dr. Rusijono, M.Pd.">
+      <data key="d0">S2 Pendidikan Teknologi Informasi</data>
+      <data key="d1">128</data>
+    </node>
+    <node id="Prof. Dr. Siti Masitoh, M.Pd.">
+      <data key="d0">S3 Pendidikan Inklusi</data>
+      <data key="d1">105</data>
+    </node>
+    <node id="Prof.Dr.Yatim Riyanto,M.Pd.">
+      <data key="d0">S2 Pendidikan Teknologi Informasi</data>
+      <data key="d1">219</data>
+    </node>
+    <node id="Dr. Bachtiar Syaiful Bachri, M.Pd">
+      <data key="d0">S2 Pendidikan Teknologi Informasi</data>
+      <data key="d1">191</data>
+    </node>
+    <node id="Dr. H. Andi Mariono, M.Pd.">
+      <data key="d0">S2 Teknologi Pendidikan</data>
+      <data key="d1">8</data>
+    </node>
+    <node id="Dr. Fajar Arianto, S.Pd., M.Pd.">
+      <data key="d0">S3 Teknologi Pendidikan</data>
+      <data key="d1">13</data>
+    </node>
+    <edge source="Aditya Prapanca, S.T., M.Kom." target="Dr. Widi Aribowo, S.T., M.T.">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="Aditya Prapanca, S.T., M.Kom." target="Agus Prihanto, S.T., M.Kom.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Aditya Prapanca, S.T., M.Kom." target="Anita Qoiriah, S.Kom., M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Aditya Prapanca, S.T., M.Kom." target="Dr. Yuni Yamasari, S.Kom., M.Kom.">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Aditya Prapanca, S.T., M.Kom." target="Naim Rochmawati, S.Kom., M.T.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Aditya Prapanca, S.T., M.Kom." target="Dr. Aries Dwi Indriyanti, S.Kom., M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Aditya Prapanca, S.T., M.Kom." target="Ervin Yohannes, S.Kom., M.Kom., M.Sc., Ph.D.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Aditya Prapanca, S.T., M.Kom." target="Reza Rahmadian, S.ST., M.EngSc.">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Aditya Prapanca, S.T., M.Kom." target="Prof. Dr. Bambang Suprianto, M.T.">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Aditya Prapanca, S.T., M.Kom." target="Unit Three Kartini, S.T., M.T., Ph.D.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Aditya Prapanca, S.T., M.Kom." target="Dr.  Wiyli Yustanti, S.Si., M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Anita Qoiriah, S.Kom., M.Kom." target="Dr. Ir. Ricky Eka Putra, S.Kom., M.Kom.">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Anita Qoiriah, S.Kom., M.Kom." target="Dr. Yuni Yamasari, S.Kom., M.Kom.">
+      <data key="d2">18</data>
+    </edge>
+    <edge source="Anita Qoiriah, S.Kom., M.Kom." target="Naim Rochmawati, S.Kom., M.T.">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="Anita Qoiriah, S.Kom., M.Kom." target="Agus Prihanto, S.T., M.Kom.">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Anita Qoiriah, S.Kom., M.Kom." target="Dr.  Wiyli Yustanti, S.Si., M.Kom.">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Anita Qoiriah, S.Kom., M.Kom." target="Rahadian Bisma, S.Kom., M.Kom.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Anita Qoiriah, S.Kom., M.Kom." target="Asmunin, S.Kom., M.Kom.">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Anita Qoiriah, S.Kom., M.Kom." target="Dr. Atik Wintarti, M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Anita Qoiriah, S.Kom., M.Kom." target="Prof. Dr. Puput Wanarti Rusimamto, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Anita Qoiriah, S.Kom., M.Kom." target="Dr. Yeni Anistyasari, S.Pd., M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Yuni Yamasari, S.Kom., M.Kom." target="Dr. Ir. Ricky Eka Putra, S.Kom., M.Kom.">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Dr. Yuni Yamasari, S.Kom., M.Kom." target="Naim Rochmawati, S.Kom., M.T.">
+      <data key="d2">15</data>
+    </edge>
+    <edge source="Dr. Yuni Yamasari, S.Kom., M.Kom." target="Dr. Ir. Lusia Rakhmawati, S.T., M.T.">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Dr. Yuni Yamasari, S.Kom., M.Kom." target="Pradini Puspitaningayu, S.T., M.T., Ph.D.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Yuni Yamasari, S.Kom., M.Kom." target="Agus Prihanto, S.T., M.Kom.">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Dr. Yuni Yamasari, S.Kom., M.Kom." target="Dr.  Wiyli Yustanti, S.Si., M.Kom.">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="Dr. Yuni Yamasari, S.Kom., M.Kom." target="Dr. Aries Dwi Indriyanti, S.Kom., M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Yuni Yamasari, S.Kom., M.Kom." target="Ervin Yohannes, S.Kom., M.Kom., M.Sc., Ph.D.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Yuni Yamasari, S.Kom., M.Kom." target="Rindu Puspita Wibawa, S.Kom., M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Yuni Yamasari, S.Kom., M.Kom." target="Ari Kurniawan, S.Kom., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Yuni Yamasari, S.Kom., M.Kom." target="Paramitha Nerisafitra, S.ST., M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Yuni Yamasari, S.Kom., M.Kom." target="Dr. Farid Baskoro, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Yuni Yamasari, S.Kom., M.Kom." target="Dr. Widi Aribowo, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Yuni Yamasari, S.Kom., M.Kom." target="Miftahur Rohman, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Yuni Yamasari, S.Kom., M.Kom." target="Asmunin, S.Kom., M.Kom.">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Dr. Yuni Yamasari, S.Kom., M.Kom." target="Dr. Atik Wintarti, M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Yuni Yamasari, S.Kom., M.Kom." target="Prof. Dr. Puput Wanarti Rusimamto, S.T., M.T.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Dr. Yuni Yamasari, S.Kom., M.Kom." target="Dr. Yeni Anistyasari, S.Pd., M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Yuni Yamasari, S.Kom., M.Kom." target="Prof. Dr. Ekohariadi, M.Pd.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Yuni Yamasari, S.Kom., M.Kom." target="Prof. Dr. Lilik Anifah, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Agus Prihanto, S.T., M.Kom." target="Naim Rochmawati, S.Kom., M.T.">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Agus Prihanto, S.T., M.Kom." target="Dr.  Wiyli Yustanti, S.Si., M.Kom.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Agus Prihanto, S.T., M.Kom." target="Asmunin, S.Kom., M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Agus Prihanto, S.T., M.Kom." target="Dr. Ir. Ricky Eka Putra, S.Kom., M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Agus Prihanto, S.T., M.Kom." target="Dr. Aries Dwi Indriyanti, S.Kom., M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Agus Prihanto, S.T., M.Kom." target="Drs. Bambang Sujatmiko, M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Agus Prihanto, S.T., M.Kom." target="Rindu Puspita Wibawa, S.Kom., M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Agus Prihanto, S.T., M.Kom." target="Rahadian Bisma, S.Kom., M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Ir. Ricky Eka Putra, S.Kom., M.Kom." target="Dr.  Wiyli Yustanti, S.Si., M.Kom.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Dr. Ir. Ricky Eka Putra, S.Kom., M.Kom." target="Paramitha Nerisafitra, S.ST., M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Ir. Ricky Eka Putra, S.Kom., M.Kom." target="Rahadian Bisma, S.Kom., M.Kom.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Dr. Ir. Ricky Eka Putra, S.Kom., M.Kom." target="Asmunin, S.Kom., M.Kom.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Dr. Ir. Ricky Eka Putra, S.Kom., M.Kom." target="Naim Rochmawati, S.Kom., M.T.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Naim Rochmawati, S.Kom., M.T." target="Parama Diptya Widayaka, S.ST., M.T.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Naim Rochmawati, S.Kom., M.T." target="Pradini Puspitaningayu, S.T., M.T., Ph.D.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Naim Rochmawati, S.Kom., M.T." target="Dr.  Wiyli Yustanti, S.Si., M.Kom.">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Naim Rochmawati, S.Kom., M.T." target="Dr. Atik Wintarti, M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Naim Rochmawati, S.Kom., M.T." target="Asmunin, S.Kom., M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Naim Rochmawati, S.Kom., M.T." target="Prof. Dr. Puput Wanarti Rusimamto, S.T., M.T.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Naim Rochmawati, S.Kom., M.T." target="Dr. Ir. Lusia Rakhmawati, S.T., M.T.">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Naim Rochmawati, S.Kom., M.T." target="Dr. Yeni Anistyasari, S.Pd., M.Kom.">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Naim Rochmawati, S.Kom., M.T." target="Ibnu Febry Kurniawan, S.Kom., M.Sc., Ph.D.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Naim Rochmawati, S.Kom., M.T." target="Dodik Arwin Dermawan, S.ST., S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Paramitha Nerisafitra, S.ST., M.Kom." target="Farhanna Mari, S.Kom., M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Paramitha Nerisafitra, S.ST., M.Kom." target="Ari Kurniawan, S.Kom., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Ervin Yohannes, S.Kom., M.Kom., M.Sc., Ph.D." target="Dr. Aries Dwi Indriyanti, S.Kom., M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Farhanna Mari, S.Kom., M.Kom." target="Anggraeni Widya Purwita, M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Farhanna Mari, S.Kom., M.Kom." target="Moch Deny Pratama, S.Tr.Kom., M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Farhanna Mari, S.Kom., M.Kom." target="Monica Cinthya, M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Farhanna Mari, S.Kom., M.Kom." target="Rifqi Abdillah, M.Kom.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Farhanna Mari, S.Kom., M.Kom." target="Ersha Aisyah Elfaiz, S.Si., M.T.I.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Farhanna Mari, S.Kom., M.Kom." target="Riza Akhsani Setyo Prayoga, S.Kom., M.MT.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Rifqi Abdillah, M.Kom." target="Anggraeni Widya Purwita, M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Rifqi Abdillah, M.Kom." target="Moch Deny Pratama, S.Tr.Kom., M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Rifqi Abdillah, M.Kom." target="Monica Cinthya, M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Rifqi Abdillah, M.Kom." target="Ersha Aisyah Elfaiz, S.Si., M.T.I.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Rifqi Abdillah, M.Kom." target="Riza Akhsani Setyo Prayoga, S.Kom., M.MT.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Rifqi Abdillah, M.Kom." target="Mohammad Wildan Habibi, S.Pd., M.Pd.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Rifqi Abdillah, M.Kom." target="Parama Diptya Widayaka, S.ST., M.T.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Rifqi Abdillah, M.Kom." target="Dr. Tri Rijanto, M.Pd., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Rifqi Abdillah, M.Kom." target="Harun Al Rosyid, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Rifqi Abdillah, M.Kom." target="Prof. Dr. Lilik Anifah, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Rifqi Abdillah, M.Kom." target="Ramadhan Cakra Wibawa, S.Pd., M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Rifqi Abdillah, M.Kom." target="Arif Widodo, S.T., M.Sc.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Rifqi Abdillah, M.Kom." target="Pradini Puspitaningayu, S.T., M.T., Ph.D.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Rifqi Abdillah, M.Kom." target="Sayyidul Aulia Alamsyah, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr.  Wiyli Yustanti, S.Si., M.Kom." target="Cendra Devayana Putra, S.Kom., M.IM.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr.  Wiyli Yustanti, S.Si., M.Kom." target="Monica Cinthya, M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr.  Wiyli Yustanti, S.Si., M.Kom." target="Ardhini Warih Utami, S.Kom., M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr.  Wiyli Yustanti, S.Si., M.Kom." target="Ghea Sekar Palupi, S.Kom., M.I.M.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr.  Wiyli Yustanti, S.Si., M.Kom." target="Rindu Puspita Wibawa, S.Kom., M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr.  Wiyli Yustanti, S.Si., M.Kom." target="Dr. Aries Dwi Indriyanti, S.Kom., M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr.  Wiyli Yustanti, S.Si., M.Kom." target="Dr. Farid Baskoro, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr.  Wiyli Yustanti, S.Si., M.Kom." target="Dr. Widi Aribowo, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr.  Wiyli Yustanti, S.Si., M.Kom." target="Miftahur Rohman, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr.  Wiyli Yustanti, S.Si., M.Kom." target="Dr. Ir. Lusia Rakhmawati, S.T., M.T.">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Dr.  Wiyli Yustanti, S.Si., M.Kom." target="Dr. Atik Wintarti, M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr.  Wiyli Yustanti, S.Si., M.Kom." target="Asmunin, S.Kom., M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr.  Wiyli Yustanti, S.Si., M.Kom." target="Prof. Dr. Puput Wanarti Rusimamto, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr.  Wiyli Yustanti, S.Si., M.Kom." target="Dr. Yeni Anistyasari, S.Pd., M.Kom.">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Dr.  Wiyli Yustanti, S.Si., M.Kom." target="Rahadian Bisma, S.Kom., M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr.  Wiyli Yustanti, S.Si., M.Kom." target="Prof. Dr. Lilik Anifah, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr.  Wiyli Yustanti, S.Si., M.Kom." target="Prof. Dr. Tri Wrahatnolo, M.Pd.  M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr.  Wiyli Yustanti, S.Si., M.Kom." target="Dr. Elly Matul Imah, M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Aries Dwi Indriyanti, S.Kom., M.Kom." target="Pradini Puspitaningayu, S.T., M.T., Ph.D.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Aries Dwi Indriyanti, S.Kom., M.Kom." target="Anggraeni Widya Purwita, M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Aries Dwi Indriyanti, S.Kom., M.Kom." target="Ghea Sekar Palupi, S.Kom., M.I.M.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Aries Dwi Indriyanti, S.Kom., M.Kom." target="Rahadian Bisma, S.Kom., M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Aries Dwi Indriyanti, S.Kom., M.Kom." target="Drs. Bambang Sujatmiko, M.T.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Dr. Aries Dwi Indriyanti, S.Kom., M.Kom." target="Rindu Puspita Wibawa, S.Kom., M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Ardhini Warih Utami, S.Kom., M.Kom." target="Berlian Maulidya Izzati, S.Kom. M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Ardhini Warih Utami, S.Kom., M.Kom." target="Bonda Sisephaputra, M. Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Ardhini Warih Utami, S.Kom., M.Kom." target="Ghea Sekar Palupi, S.Kom., M.I.M.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Rahadian Bisma, S.Kom., M.Kom." target="Anggraeni Widya Purwita, M.Kom.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Rahadian Bisma, S.Kom., M.Kom." target="Ghea Sekar Palupi, S.Kom., M.I.M.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Rahadian Bisma, S.Kom., M.Kom." target="Bonda Sisephaputra, M. Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Rahadian Bisma, S.Kom., M.Kom." target="Ibnu Febry Kurniawan, S.Kom., M.Sc., Ph.D.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Ghea Sekar Palupi, S.Kom., M.I.M." target="Anggraeni Widya Purwita, M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Bonda Sisephaputra, M. Kom." target="Berlian Maulidya Izzati, S.Kom. M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Bonda Sisephaputra, M. Kom." target="Anggraeni Widya Purwita, M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Berlian Maulidya Izzati, S.Kom. M.Kom." target="Anggraeni Widya Purwita, M.Kom.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Berlian Maulidya Izzati, S.Kom. M.Kom." target="Ersha Aisyah Elfaiz, S.Si., M.T.I.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Anggraeni Widya Purwita, M.Kom." target="Moch Deny Pratama, S.Tr.Kom., M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Anggraeni Widya Purwita, M.Kom." target="Monica Cinthya, M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Anggraeni Widya Purwita, M.Kom." target="Ersha Aisyah Elfaiz, S.Si., M.T.I.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Monica Cinthya, M.Kom." target="Moch Deny Pratama, S.Tr.Kom., M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Monica Cinthya, M.Kom." target="Cendra Devayana Putra, S.Kom., M.IM.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Monica Cinthya, M.Kom." target="Ersha Aisyah Elfaiz, S.Si., M.T.I.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Prof. Dr. Ekohariadi, M.Pd." target="Dr. Tri Rijanto, M.Pd., M.T.">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Prof. Dr. Ekohariadi, M.Pd." target="Dr. Yeni Anistyasari, S.Pd., M.Kom.">
+      <data key="d2">12</data>
+    </edge>
+    <edge source="Prof. Dr. Ekohariadi, M.Pd." target="Prof. Dr. Lilik Anifah, S.T., M.T.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Prof. Dr. Ekohariadi, M.Pd." target="Prof. Dr. Tri Wrahatnolo, M.Pd.  M.T.">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Prof. Dr. Ekohariadi, M.Pd." target="Prof. Dr. Bambang Suprianto, M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Prof. Dr. Ekohariadi, M.Pd." target="Dr. Subuh Isnur Haryudo, S.T., M.T.">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Prof. Dr. Ekohariadi, M.Pd." target="Ari Kurniawan, S.Kom., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Prof. Dr. Ekohariadi, M.Pd." target="Prof. Dr. Puput Wanarti Rusimamto, S.T., M.T.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Prof. Dr. Ekohariadi, M.Pd." target="Dr.  Endryansyah, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Drs. Bambang Sujatmiko, M.T." target="Dr. Bachtiar Syaiful Bachri, M.Pd">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Drs. Bambang Sujatmiko, M.T." target="Rindu Puspita Wibawa, S.Kom., M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Tri Rijanto, M.Pd., M.T." target="Dr. Yeni Anistyasari, S.Pd., M.Kom.">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Dr. Tri Rijanto, M.Pd., M.T." target="Harun Al Rosyid, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Tri Rijanto, M.Pd., M.T." target="Mohammad Wildan Habibi, S.Pd., M.Pd.">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Dr. Tri Rijanto, M.Pd., M.T." target="Prof. Dr. Lilik Anifah, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Tri Rijanto, M.Pd., M.T." target="Ramadhan Cakra Wibawa, S.Pd., M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Tri Rijanto, M.Pd., M.T." target="Prof. Dr. Nurhayati, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Tri Rijanto, M.Pd., M.T." target="Prof. Dr. Puput Wanarti Rusimamto, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Tri Rijanto, M.Pd., M.T." target="Prof. Dr. Joko, M.Pd., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Tri Rijanto, M.Pd., M.T." target="Prof. Dr. Bambang Suprianto, M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Yeni Anistyasari, S.Pd., M.Kom." target="Sayyidul Aulia Alamsyah, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Yeni Anistyasari, S.Pd., M.Kom." target="Prof. Dr. Tri Wrahatnolo, M.Pd.  M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Yeni Anistyasari, S.Pd., M.Kom." target="Dr.  Endryansyah, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Yeni Anistyasari, S.Pd., M.Kom." target="Prof. Dr. Lilik Anifah, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Yeni Anistyasari, S.Pd., M.Kom." target="Prof. Dr. Puput Wanarti Rusimamto, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Yeni Anistyasari, S.Pd., M.Kom." target="Ari Kurniawan, S.Kom., M.T.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Dr. Yeni Anistyasari, S.Pd., M.Kom." target="Dr. Ir. Lusia Rakhmawati, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Yeni Anistyasari, S.Pd., M.Kom." target="Ibnu Febry Kurniawan, S.Kom., M.Sc., Ph.D.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Yeni Anistyasari, S.Pd., M.Kom." target="Dr. Elly Matul Imah, M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Rindu Puspita Wibawa, S.Kom., M.Kom." target="Dr. Nanang Hoesen. H. A., S.T., M.T.I.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Rindu Puspita Wibawa, S.Kom., M.Kom." target="Asmunin, S.Kom., M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Rindu Puspita Wibawa, S.Kom., M.Kom." target="Dr. Ir. Lusia Rakhmawati, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Rindu Puspita Wibawa, S.Kom., M.Kom." target="Hasanuddin Al-Habib, M.Si.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Ramadhan Cakra Wibawa, S.Pd., M.Kom." target="Harun Al Rosyid, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Ramadhan Cakra Wibawa, S.Pd., M.Kom." target="Mohammad Wildan Habibi, S.Pd., M.Pd.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Ramadhan Cakra Wibawa, S.Pd., M.Kom." target="Prof. Dr. Lilik Anifah, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Harun Al Rosyid, S.T., M.T." target="Mohammad Wildan Habibi, S.Pd., M.Pd.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Harun Al Rosyid, S.T., M.T." target="Prof. Dr. Lilik Anifah, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Ir. Rizky Basatha,  S.Pd.,  M.MT." target="Riza Akhsani Setyo Prayoga, S.Kom., M.MT.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Riza Akhsani Setyo Prayoga, S.Kom., M.MT." target="Ersha Aisyah Elfaiz, S.Si., M.T.I.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Nisa Dwi Septiyanti, S.Kom., M.Pd., M.Sc." target="Elvira Wardah, S.Pd., M.Ed.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mohammad Wildan Habibi, S.Pd., M.Pd." target="Parama Diptya Widayaka, S.ST., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mohammad Wildan Habibi, S.Pd., M.Pd." target="Prof. Dr. Lilik Anifah, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Prof. Dr. Bambang Suprianto, M.T." target="Dr.  Endryansyah, S.T., M.T.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Prof. Dr. Bambang Suprianto, M.T." target="Prof. Dr. Lilik Anifah, S.T., M.T.">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Prof. Dr. Bambang Suprianto, M.T." target="Prof. Dr. Puput Wanarti Rusimamto, S.T., M.T.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Prof. Dr. Bambang Suprianto, M.T." target="Dr. Widi Aribowo, S.T., M.T.">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="Prof. Dr. Bambang Suprianto, M.T." target="Unit Three Kartini, S.T., M.T., Ph.D.">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Prof. Dr. Bambang Suprianto, M.T." target="Reza Rahmadian, S.ST., M.EngSc.">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Prof. Dr. Bambang Suprianto, M.T." target="Parama Diptya Widayaka, S.ST., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Prof. Dr. Bambang Suprianto, M.T." target="Prof. Dr. Nurhayati, S.T., M.T.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Prof. Dr. Bambang Suprianto, M.T." target="Sayyidul Aulia Alamsyah, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Prof. Dr. Bambang Suprianto, M.T." target="Dr. Farid Baskoro, S.T., M.T.">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Prof. Dr. Bambang Suprianto, M.T." target="Prof. Dr. Tri Wrahatnolo, M.Pd.  M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Prof. Dr. Bambang Suprianto, M.T." target="Dr. Subuh Isnur Haryudo, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Prof. Dr. Bambang Suprianto, M.T." target="Prof. Dr. Joko, M.Pd., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Prof. Dr. Bambang Suprianto, M.T." target="Miftahur Rohman, S.T., M.T.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Prof. Dr. Tri Wrahatnolo, M.Pd.  M.T." target="Prof. Dr. Lilik Anifah, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Prof. Dr. Joko, M.Pd., M.T." target="Parama Diptya Widayaka, S.ST., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Prof. Dr. Joko, M.Pd., M.T." target="Dr. Widi Aribowo, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Prof. Dr. Joko, M.Pd., M.T." target="Arif Widodo, S.T., M.Sc.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Unit Three Kartini, S.T., M.T., Ph.D." target="Pradini Puspitaningayu, S.T., M.T., Ph.D.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Unit Three Kartini, S.T., M.T., Ph.D." target="Dr. Widi Aribowo, S.T., M.T.">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Unit Three Kartini, S.T., M.T., Ph.D." target="Dr. Farid Baskoro, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Unit Three Kartini, S.T., M.T., Ph.D." target="Dr. Subuh Isnur Haryudo, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Unit Three Kartini, S.T., M.T., Ph.D." target="Miftahur Rohman, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Unit Three Kartini, S.T., M.T., Ph.D." target="Parama Diptya Widayaka, S.ST., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Unit Three Kartini, S.T., M.T., Ph.D." target="Prof. Dr. Nurhayati, S.T., M.T.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Unit Three Kartini, S.T., M.T., Ph.D." target="Sayyidul Aulia Alamsyah, S.T., M.T.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Unit Three Kartini, S.T., M.T., Ph.D." target="Prof. Dr. Lilik Anifah, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Unit Three Kartini, S.T., M.T., Ph.D." target="Reza Rahmadian, S.ST., M.EngSc.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Unit Three Kartini, S.T., M.T., Ph.D." target="Arif Widodo, S.T., M.Sc.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Prof. Dr. Lilik Anifah, S.T., M.T." target="Prof. Dr. Nurhayati, S.T., M.T.">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Prof. Dr. Lilik Anifah, S.T., M.T." target="Dr. Ir. Lusia Rakhmawati, S.T., M.T.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Prof. Dr. Lilik Anifah, S.T., M.T." target="Prof. Dr. Puput Wanarti Rusimamto, S.T., M.T.">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="Prof. Dr. Lilik Anifah, S.T., M.T." target="Dr.  Endryansyah, S.T., M.T.">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Prof. Dr. Lilik Anifah, S.T., M.T." target="Parama Diptya Widayaka, S.ST., M.T.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Prof. Dr. Lilik Anifah, S.T., M.T." target="Dr. Farid Baskoro, S.T., M.T.">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Prof. Dr. Lilik Anifah, S.T., M.T." target="Sayyidul Aulia Alamsyah, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Prof. Dr. Lilik Anifah, S.T., M.T." target="Dr. Subuh Isnur Haryudo, S.T., M.T.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Prof. Dr. Lilik Anifah, S.T., M.T." target="Miftahur Rohman, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Prof. Dr. Lilik Anifah, S.T., M.T." target="Reza Rahmadian, S.ST., M.EngSc.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Prof. Dr. Lilik Anifah, S.T., M.T." target="Dr. Ir. Nur Kholis, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Prof. Dr. Lilik Anifah, S.T., M.T." target="Pradini Puspitaningayu, S.T., M.T., Ph.D.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Prof. Dr. Lilik Anifah, S.T., M.T." target="Arif Widodo, S.T., M.Sc.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Ir. Lusia Rakhmawati, S.T., M.T." target="Prof. Dr. Nurhayati, S.T., M.T.">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Dr. Ir. Lusia Rakhmawati, S.T., M.T." target="Pradini Puspitaningayu, S.T., M.T., Ph.D.">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Dr. Ir. Lusia Rakhmawati, S.T., M.T." target="Asmunin, S.Kom., M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Ir. Lusia Rakhmawati, S.T., M.T." target="Dr. Nanang Hoesen. H. A., S.T., M.T.I.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Ir. Lusia Rakhmawati, S.T., M.T." target="Hasanuddin Al-Habib, M.Si.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Ir. Lusia Rakhmawati, S.T., M.T." target="Dr. Elly Matul Imah, M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Ir. Lusia Rakhmawati, S.T., M.T." target="Miftahur Rohman, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Prof. Dr. Nurhayati, S.T., M.T." target="Prof. Dr. Puput Wanarti Rusimamto, S.T., M.T.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Prof. Dr. Nurhayati, S.T., M.T." target="Pradini Puspitaningayu, S.T., M.T., Ph.D.">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Prof. Dr. Nurhayati, S.T., M.T." target="Miftahur Rohman, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Prof. Dr. Nurhayati, S.T., M.T." target="Parama Diptya Widayaka, S.ST., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Prof. Dr. Nurhayati, S.T., M.T." target="Sayyidul Aulia Alamsyah, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Prof. Dr. Nurhayati, S.T., M.T." target="Arif Widodo, S.T., M.Sc.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Prof. Dr. Nurhayati, S.T., M.T." target="Dr.  Endryansyah, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pradini Puspitaningayu, S.T., M.T., Ph.D." target="Parama Diptya Widayaka, S.ST., M.T.">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Pradini Puspitaningayu, S.T., M.T., Ph.D." target="Sayyidul Aulia Alamsyah, S.T., M.T.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Pradini Puspitaningayu, S.T., M.T., Ph.D." target="Dr. Subuh Isnur Haryudo, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pradini Puspitaningayu, S.T., M.T., Ph.D." target="Ibnu Febry Kurniawan, S.Kom., M.Sc., Ph.D.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pradini Puspitaningayu, S.T., M.T., Ph.D." target="Ulfa Siti Nuraini, S.Stat., M.Stat.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pradini Puspitaningayu, S.T., M.T., Ph.D." target="Arif Widodo, S.T., M.Sc.">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Pradini Puspitaningayu, S.T., M.T., Ph.D." target="Dr. Ir. Nur Kholis, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Prof. Dr. Puput Wanarti Rusimamto, S.T., M.T." target="Dr.  Endryansyah, S.T., M.T.">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Prof. Dr. Puput Wanarti Rusimamto, S.T., M.T." target="Parama Diptya Widayaka, S.ST., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Prof. Dr. Puput Wanarti Rusimamto, S.T., M.T." target="Dr. Subuh Isnur Haryudo, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Subuh Isnur Haryudo, S.T., M.T." target="Dr. Widi Aribowo, S.T., M.T.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Dr. Subuh Isnur Haryudo, S.T., M.T." target="Reza Rahmadian, S.ST., M.EngSc.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Subuh Isnur Haryudo, S.T., M.T." target="Dr. Farid Baskoro, S.T., M.T.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Dr. Subuh Isnur Haryudo, S.T., M.T." target="Miftahur Rohman, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Ir. Nur Kholis, S.T., M.T." target="Hesti Khuzaimah Nurul Yusufiyah, S.Si., M.Eng.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Ir. Nur Kholis, S.T., M.T." target="Reza Rahmadian, S.ST., M.EngSc.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Ibrohim, S.T., M.T." target="Arif Widodo, S.T., M.Sc.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Ibrohim, S.T., M.T." target="Dr. Farid Baskoro, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Farid Baskoro, S.T., M.T." target="Miftahur Rohman, S.T., M.T.">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="Dr. Farid Baskoro, S.T., M.T." target="Arif Widodo, S.T., M.Sc.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Dr. Farid Baskoro, S.T., M.T." target="Dr. Widi Aribowo, S.T., M.T.">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Arif Widodo, S.T., M.Sc." target="Parama Diptya Widayaka, S.ST., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arif Widodo, S.T., M.Sc." target="Sayyidul Aulia Alamsyah, S.T., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Arif Widodo, S.T., M.Sc." target="Dr. Elly Matul Imah, M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Miftahur Rohman, S.T., M.T." target="Dr. Widi Aribowo, S.T., M.T.">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Parama Diptya Widayaka, S.ST., M.T." target="Sayyidul Aulia Alamsyah, S.T., M.T.">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Dr. Widi Aribowo, S.T., M.T." target="Reza Rahmadian, S.ST., M.EngSc.">
+      <data key="d2">12</data>
+    </edge>
+    <edge source="Reza Rahmadian, S.ST., M.EngSc." target="Aditya Chandra Hermawan, S.ST., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Elly Matul Imah, M.Kom." target="Harmon Prayogi, M.Sc.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Elly Matul Imah, M.Kom." target="Ike Fitriyaningsih, M.Si">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Elly Matul Imah, M.Kom." target="Riskyana Dewi Intan P, M.Kom.">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Dr. Elly Matul Imah, M.Kom." target="Fadhilah Qalbi Annisa, S.T., M.Sc.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Dr. Elly Matul Imah, M.Kom." target="Hasanuddin Al-Habib, M.Si.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Elly Matul Imah, M.Kom." target="Dr. Atik Wintarti, M.Kom.">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Riskyana Dewi Intan P, M.Kom." target="Harmon Prayogi, M.Sc.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Riskyana Dewi Intan P, M.Kom." target="Ike Fitriyaningsih, M.Si">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Riskyana Dewi Intan P, M.Kom." target="Fadhilah Qalbi Annisa, S.T., M.Sc.">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Riskyana Dewi Intan P, M.Kom." target="Hasanuddin Al-Habib, M.Si.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Riskyana Dewi Intan P, M.Kom." target="Dr. Atik Wintarti, M.Kom.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Fadhilah Qalbi Annisa, S.T., M.Sc." target="Ibnu Febry Kurniawan, S.Kom., M.Sc., Ph.D.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Fadhilah Qalbi Annisa, S.T., M.Sc." target="Hasanuddin Al-Habib, M.Si.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Harmon Prayogi, M.Sc." target="Ike Fitriyaningsih, M.Si">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Atik Wintarti, M.Kom." target="Rosita, S.Pd., M.Pd.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Ibnu Febry Kurniawan, S.Kom., M.Sc., Ph.D." target="Ulfa Siti Nuraini, S.Stat., M.Stat.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Hasanuddin Al-Habib, M.Si." target="Asmunin, S.Kom., M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Hasanuddin Al-Habib, M.Si." target="Dr. Nanang Hoesen. H. A., S.T., M.T.I.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Hujjatullah Fazlurrahman, S.E., MBA." target="Anita Safitri, M. Kom.">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Hujjatullah Fazlurrahman, S.E., MBA." target="Dr. Nanang Hoesen. H. A., S.T., M.T.I.">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Hujjatullah Fazlurrahman, S.E., MBA." target="Riska Dhenabayu, S.Kom., M.M.">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Hujjatullah Fazlurrahman, S.E., MBA." target="Achmad Kautsar, S.E., M.M.">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Hujjatullah Fazlurrahman, S.E., MBA." target="Dr. Dhiyan Septa Wihara, S.P., M.M.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Hujjatullah Fazlurrahman, S.E., MBA." target="Achmad Fitro, S.Kom., M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Hujjatullah Fazlurrahman, S.E., MBA." target="Dr.  Ratih Amelia, S.E., M.M.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Hujjatullah Fazlurrahman, S.E., MBA." target="Hafid Kholidi Hadi, S.E., M.SM.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Hujjatullah Fazlurrahman, S.E., MBA." target="Muhammad Fajar Wahyudi Rahman, S.E., M.M.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Hujjatullah Fazlurrahman, S.E., MBA." target="Fresha Kharisma,  S.E., M.SM.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Hujjatullah Fazlurrahman, S.E., MBA." target="Ika Diyah Candra Arifah, S.E., M.Com.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Achmad Kautsar, S.E., M.M." target="Dr. Dhiyan Septa Wihara, S.P., M.M.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Achmad Kautsar, S.E., M.M." target="Dr. Nanang Hoesen. H. A., S.T., M.T.I.">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Achmad Kautsar, S.E., M.M." target="Hafid Kholidi Hadi, S.E., M.SM.">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Achmad Kautsar, S.E., M.M." target="Muhammad Fajar Wahyudi Rahman, S.E., M.M.">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Achmad Kautsar, S.E., M.M." target="Anita Safitri, M. Kom.">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Achmad Kautsar, S.E., M.M." target="Fresha Kharisma,  S.E., M.SM.">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Achmad Kautsar, S.E., M.M." target="Ika Diyah Candra Arifah, S.E., M.Com.">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Achmad Kautsar, S.E., M.M." target="Renny Sari Dewi, S. Kom., M. Kom.">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Achmad Kautsar, S.E., M.M." target="Dr.  Ratih Amelia, S.E., M.M.">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Achmad Kautsar, S.E., M.M." target="Nadia Nur Thahirrah, S.E., M.SM.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Achmad Kautsar, S.E., M.M." target="Riska Dhenabayu, S.Kom., M.M.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Hafid Kholidi Hadi, S.E., M.SM." target="Anita Safitri, M. Kom.">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Hafid Kholidi Hadi, S.E., M.SM." target="Ika Diyah Candra Arifah, S.E., M.Com.">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Hafid Kholidi Hadi, S.E., M.SM." target="Muhammad Fajar Wahyudi Rahman, S.E., M.M.">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Hafid Kholidi Hadi, S.E., M.SM." target="Dr.  Ratih Amelia, S.E., M.M.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Hafid Kholidi Hadi, S.E., M.SM." target="Fresha Kharisma,  S.E., M.SM.">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Hafid Kholidi Hadi, S.E., M.SM." target="Nadia Nur Thahirrah, S.E., M.SM.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Hafid Kholidi Hadi, S.E., M.SM." target="Renny Sari Dewi, S. Kom., M. Kom.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Hafid Kholidi Hadi, S.E., M.SM." target="Riska Dhenabayu, S.Kom., M.M.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Hafid Kholidi Hadi, S.E., M.SM." target="Dr. Nanang Hoesen. H. A., S.T., M.T.I.">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Hafid Kholidi Hadi, S.E., M.SM." target="Dr. Dhiyan Septa Wihara, S.P., M.M.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Ika Diyah Candra Arifah, S.E., M.Com." target="Anita Safitri, M. Kom.">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Ika Diyah Candra Arifah, S.E., M.Com." target="Muhammad Fajar Wahyudi Rahman, S.E., M.M.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Ika Diyah Candra Arifah, S.E., M.Com." target="Renny Sari Dewi, S. Kom., M. Kom.">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Ika Diyah Candra Arifah, S.E., M.Com." target="Riska Dhenabayu, S.Kom., M.M.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Ika Diyah Candra Arifah, S.E., M.Com." target="Dr. Nanang Hoesen. H. A., S.T., M.T.I.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Ika Diyah Candra Arifah, S.E., M.Com." target="Fresha Kharisma,  S.E., M.SM.">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Ika Diyah Candra Arifah, S.E., M.Com." target="Dr.  Ratih Amelia, S.E., M.M.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Ika Diyah Candra Arifah, S.E., M.Com." target="Nadia Nur Thahirrah, S.E., M.SM.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Riska Dhenabayu, S.Kom., M.M." target="Anita Safitri, M. Kom.">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Riska Dhenabayu, S.Kom., M.M." target="Dr. Nanang Hoesen. H. A., S.T., M.T.I.">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Riska Dhenabayu, S.Kom., M.M." target="Renny Sari Dewi, S. Kom., M. Kom.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Riska Dhenabayu, S.Kom., M.M." target="Achmad Fitro, S.Kom., M.Kom.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Fresha Kharisma,  S.E., M.SM." target="Dr.  Ratih Amelia, S.E., M.M.">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Fresha Kharisma,  S.E., M.SM." target="Nadia Nur Thahirrah, S.E., M.SM.">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Fresha Kharisma,  S.E., M.SM." target="Dr. Nanang Hoesen. H. A., S.T., M.T.I.">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Fresha Kharisma,  S.E., M.SM." target="Anita Safitri, M. Kom.">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Fresha Kharisma,  S.E., M.SM." target="Muhammad Fajar Wahyudi Rahman, S.E., M.M.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Fresha Kharisma,  S.E., M.SM." target="Renny Sari Dewi, S. Kom., M. Kom.">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Fresha Kharisma,  S.E., M.SM." target="Dr. Dhiyan Septa Wihara, S.P., M.M.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Renny Sari Dewi, S. Kom., M. Kom." target="Achmad Fitro, S.Kom., M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Renny Sari Dewi, S. Kom., M. Kom." target="Anita Safitri, M. Kom.">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Renny Sari Dewi, S. Kom., M. Kom." target="Dr. Nanang Hoesen. H. A., S.T., M.T.I.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Anita Safitri, M. Kom." target="Muhammad Fajar Wahyudi Rahman, S.E., M.M.">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Anita Safitri, M. Kom." target="Dr. Nanang Hoesen. H. A., S.T., M.T.I.">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Anita Safitri, M. Kom." target="Achmad Fitro, S.Kom., M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Anita Safitri, M. Kom." target="Dr.  Ratih Amelia, S.E., M.M.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Anita Safitri, M. Kom." target="Nadia Nur Thahirrah, S.E., M.SM.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Anita Safitri, M. Kom." target="Dr. Dhiyan Septa Wihara, S.P., M.M.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Nanang Hoesen. H. A., S.T., M.T.I." target="Achmad Fitro, S.Kom., M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Nanang Hoesen. H. A., S.T., M.T.I." target="Muhammad Fajar Wahyudi Rahman, S.E., M.M.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Dr. Nanang Hoesen. H. A., S.T., M.T.I." target="Asmunin, S.Kom., M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Muhammad Fajar Wahyudi Rahman, S.E., M.M." target="Dr.  Ratih Amelia, S.E., M.M.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Muhammad Fajar Wahyudi Rahman, S.E., M.M." target="Nadia Nur Thahirrah, S.E., M.SM.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr.  Ratih Amelia, S.E., M.M." target="Dr. Dhiyan Septa Wihara, S.P., M.M.">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Dr.  Ratih Amelia, S.E., M.M." target="Nadia Nur Thahirrah, S.E., M.SM.">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Nadia Nur Thahirrah, S.E., M.SM." target="Dr. Dhiyan Septa Wihara, S.P., M.M.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dodik Arwin Dermawan, S.ST., S.T., M.T." target="Asmunin, S.Kom., M.Kom.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Dodik Arwin Dermawan, S.ST., S.T., M.T." target="Dimas Novian Aditia Syahputra, S.Tr.T., M.Tr.T.">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Dodik Arwin Dermawan, S.ST., S.T., M.T." target="Faris Abdi El Hakim, S.Kom., M.Tr.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dodik Arwin Dermawan, S.ST., S.T., M.T." target="Salamun Rohman Nudin, S.Kom., M.Kom.">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Dodik Arwin Dermawan, S.ST., S.T., M.T." target="I Gde Agung Sri Sidhimantra, S.Kom., M.Kom.">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Asmunin, S.Kom., M.Kom." target="Dimas Novian Aditia Syahputra, S.Tr.T., M.Tr.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Asmunin, S.Kom., M.Kom." target="Faris Abdi El Hakim, S.Kom., M.Tr.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Asmunin, S.Kom., M.Kom." target="Salamun Rohman Nudin, S.Kom., M.Kom.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Asmunin, S.Kom., M.Kom." target="I Gde Agung Sri Sidhimantra, S.Kom., M.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Asmunin, S.Kom., M.Kom." target="Andi Iwan Nurhidayat, S.Kom., M.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Salamun Rohman Nudin, S.Kom., M.Kom." target="Dimas Novian Aditia Syahputra, S.Tr.T., M.Tr.T.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Salamun Rohman Nudin, S.Kom., M.Kom." target="Faris Abdi El Hakim, S.Kom., M.Tr.Kom.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Salamun Rohman Nudin, S.Kom., M.Kom." target="I Gde Agung Sri Sidhimantra, S.Kom., M.Kom.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="I Gde Agung Sri Sidhimantra, S.Kom., M.Kom." target="Dimas Novian Aditia Syahputra, S.Tr.T., M.Tr.T.">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Faris Abdi El Hakim, S.Kom., M.Tr.Kom." target="Dimas Novian Aditia Syahputra, S.Tr.T., M.Tr.T.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Prof. Dr. Mustaji, M.Pd." target="Dr. Bachtiar Syaiful Bachri, M.Pd">
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Prof. Dr. Mustaji, M.Pd." target="Dr. Fajar Arianto, S.Pd., M.Pd.">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Prof. Dr. Mustaji, M.Pd." target="Dr. H. Andi Mariono, M.Pd.">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Prof.Dr. Rusijono, M.Pd." target="Dr. Fajar Arianto, S.Pd., M.Pd.">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Prof. Dr. Siti Masitoh, M.Pd." target="Dr. Fajar Arianto, S.Pd., M.Pd.">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Prof. Dr. Siti Masitoh, M.Pd." target="Dr. Bachtiar Syaiful Bachri, M.Pd">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Prof.Dr.Yatim Riyanto,M.Pd." target="Dr. Bachtiar Syaiful Bachri, M.Pd">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dr. Bachtiar Syaiful Bachri, M.Pd" target="Dr. Fajar Arianto, S.Pd., M.Pd.">
+      <data key="d2">1</data>
+    </edge>
+  </graph>
+</graphml>

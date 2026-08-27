@@ -1,0 +1,130 @@
+dosen_id,nama_dosen,prodi,n_papers_total,thematic_cluster,thematic_cluster_name,structural_community,n_community_memberships,constraint,betweenness,broker_typology,composite_rank_score
+1117406.0,"Aditya Prapanca, S.T., M.Kom.",S1 Teknik Informatika,89,1,Computing & Artificial Intelligence,2,1,0.3331847652594062,0.02357199737718268,Structural Broker (Within-Topic),0.1247537784919526
+25016903.0,"Anita Qoiriah, S.Kom., M.Kom.",S1 Teknik Informatika,112,1,Computing & Artificial Intelligence,4,1,0.4055523312901013,0.01043485676736592,Thematic Bridge (Embedded),0.1202155261473297
+2067504.0,"Dr. Yuni Yamasari, S.Kom., M.Kom.",S2 Informatika,37,1,Computing & Artificial Intelligence,4,1,0.2824983738969705,0.09921029296411042,Semantic Broker,0.2129346729808777
+6087903.0,"Agus Prihanto, S.T., M.Kom.",S1 Teknik Informatika,87,1,Computing & Artificial Intelligence,4,1,0.3821295062645462,0.04301538739517485,Thematic Bridge (Embedded),0.14320747018017338
+716018704.0,"Dr. Ir. Ricky Eka Putra, S.Kom., M.Kom.",S2 Informatika,21,1,Computing & Artificial Intelligence,4,1,0.48446816951411914,0.0069462114794558594,Thematic Bridge (Embedded),0.05632836186638523
+24118405.0,"I Made Suartana, S.Kom., M.Kom.",S1 Teknik Informatika,75,3,Applied Information Technology & Systems,-1,0,,,Unclassified,
+3127502.0,"Naim Rochmawati, S.Kom., M.T.",S1 Teknik Informatika,70,1,Computing & Artificial Intelligence,4,1,0.3368434024868087,0.04411235060791924,Semantic Broker,0.14840402614965975
+729058902.0,"Paramitha Nerisafitra, S.ST., M.Kom.",S1 Teknik Informatika,56,1,Computing & Artificial Intelligence,4,2,0.3326374113206657,0.007826123220867292,Semantic Broker,0.5675634025503052
+708128403.0,"Ronggo Alit, M.M., M.T.",Pendidikan Profesi Guru,3,1,Computing & Artificial Intelligence,-1,0,,,Unclassified,
+1079106.0,"Ervin Yohannes, S.Kom., M.Kom., M.Sc., Ph.D.",S2 Informatika,8,1,Computing & Artificial Intelligence,2,1,0.46024410969622015,0.0,Thematic Bridge (Embedded),0.02822153418606638
+707039601.0,"Farhanna Mari, S.Kom., M.Kom.",S1 Teknik Informatika,32,1,Computing & Artificial Intelligence,1,1,0.3233740689562862,0.008754703883886036,Semantic Broker,0.0668915790207592
+1119901.0,"Rifqi Abdillah, M.Kom.",S1 Teknik Informatika,8,1,Computing & Artificial Intelligence,1,2,0.1775151316890041,0.07829212706974249,Semantic Broker,0.6558601897493692
+3027708.0,"Dr.  Wiyli Yustanti, S.Si., M.Kom.",S2 Informatika,23,1,Computing & Artificial Intelligence,4,1,0.23514531943708328,0.1731133594253613,Semantic Broker,0.29350616833723653
+14048107.0,"Dr. I Kadek Dwi Nuryana, S.T., M.Kom.",S1 Pendidikan Teknologi Informasi,0,-1,,-1,0,,,Unclassified,
+20127904.0,"Dwi Fatrianto Suyatno, S.Kom., M.Kom.",S1 Sistem Informasi,65,3,Applied Information Technology & Systems,-1,0,,,Unclassified,
+12048006.0,"Dr. Aries Dwi Indriyanti, S.Kom., M.Kom.",S1 Sistem Informasi,19,0,Educational Technology & Engineering,4,2,0.18271660869184614,0.0831627871101362,Semantic Broker,0.6553554340276686
+21028109.0,"Ardhini Warih Utami, S.Kom., M.Kom.",S1 Sistem Informasi,59,0,Educational Technology & Engineering,1,2,0.34273330122865475,0.013864262301202876,Semantic Broker,0.5754089553988917
+9028702.0,"Rahadian Bisma, S.Kom., M.Kom.",S1 Sistem Informasi,46,2,Digital Business & Information Systems,4,2,0.2194832596166425,0.019656931138991533,Semantic Broker,0.5934555042438884
+9039301.0,"Ghea Sekar Palupi, S.Kom., M.I.M.",S1 Sistem Informasi,34,2,Digital Business & Information Systems,4,2,0.30535043269008283,0.0018328170740975315,Semantic Broker,0.5530766178917829
+710038801.0,"Bonda Sisephaputra, M. Kom.",S1 Informatika (Kampus Kabupaten Magetan),36,2,Digital Business & Information Systems,1,1,0.45390624999999996,0.0009613574830966133,Thematic Bridge (Embedded),0.04735616529818593
+421089301.0,"Berlian Maulidya Izzati, S.Kom. M.Kom.",S1 Sistem Informasi,30,2,Digital Business & Information Systems,1,1,0.4308333333333334,0.0012701067048893134,Thematic Bridge (Embedded),0.04528208306149225
+8029505.0,"Anggraeni Widya Purwita, M.Kom.",S1 Sistem Informasi,12,2,Digital Business & Information Systems,1,1,0.21861712888601942,0.03527119440087575,Semantic Broker,0.09740569184801617
+9029803.0,"Monica Cinthya, M.Kom.",S1 Sistem Informasi,10,1,Computing & Artificial Intelligence,1,2,0.29990532461384134,0.021330223323957665,Semantic Broker,0.5674649306546617
+2029901.0,"Cendra Devayana Putra, S.Kom., M.IM.",S1 Sistem Informasi,26,1,Computing & Artificial Intelligence,1,2,0.5868388171595169,0.0,Local Specialist,0.5283919903030789
+424129401.0,"Erik Rahman, S.Kom., M.M.S.I.",S1 Sistem Informasi,23,3,Applied Information Technology & Systems,-1,0,,,Unclassified,
+4046012.0,"Prof. Dr. Ekohariadi, M.Pd.",S2 Pendidikan Teknologi Informasi,53,0,Educational Technology & Engineering,0,1,0.3000233738992747,0.0044512299212881344,Structural Broker (Within-Topic),0.0828875948845089
+19056503.0,"Drs. Bambang Sujatmiko, M.T.",S1 Pendidikan Teknologi Informasi,132,0,Educational Technology & Engineering,4,1,0.34653576979626133,0.14214046822742474,Semantic Broker,0.2565370393212846
+27126101.0,"Dr. Tri Rijanto, M.Pd., M.T.",S3 Penelitian dan Evaluasi Pendidikan,252,0,Educational Technology & Engineering,0,1,0.2492336899362439,0.008859164946934672,Structural Broker (Within-Topic),0.19883580271544476
+27108403.0,"Dr. Yeni Anistyasari, S.Pd., M.Kom.",S2 Pendidikan Teknologi Informasi,173,0,Educational Technology & Engineering,0,1,0.263572553827959,0.033634965168215625,Semantic Broker,0.19462939869636894
+25038013.0,"I Gusti Lanang Putra Eka Prismana, S.Kom., M.Kom.",S1 Pendidikan Teknologi Informasi,89,3,Applied Information Technology & Systems,-1,0,,,Unclassified,
+5099302.0,"Rindu Puspita Wibawa, S.Kom., M.Kom.",S1 Pendidikan Teknologi Informasi,40,0,Educational Technology & Engineering,4,2,0.20733443477924796,0.09517032661408355,Semantic Broker,0.6730818475927807
+16039305.0,"Martini Dwi Endah Susanti, S.Kom., M.Kom.",S1 Pendidikan Teknologi Informasi,51,0,Educational Technology & Engineering,-1,0,,,Unclassified,
+712039401.0,"Ramadhan Cakra Wibawa, S.Pd., M.Kom.",S1 Pendidikan Teknologi Informasi,4,0,Educational Technology & Engineering,0,1,0.4277253876714085,0.0,Local Specialist,0.03297172108125034
+12088406.0,"Harun Al Rosyid, S.T., M.T.",S1 Pendidikan Teknologi Informasi,15,0,Educational Technology & Engineering,0,1,0.4277253876714085,0.0,Local Specialist,0.0388583747913118
+712079203.0,"Ir. Rizky Basatha,  S.Pd.,  M.MT.",S1 Pendidikan Teknologi Informasi,2,0,Educational Technology & Engineering,1,1,1.0,0.0,Local Specialist,0.000536014409092646
+730049402.0,"Riza Akhsani Setyo Prayoga, S.Kom., M.MT.",S1 Pendidikan Teknologi Informasi,40,0,Educational Technology & Engineering,1,1,0.3770857445987654,0.021739130434782608,Thematic Bridge (Embedded),0.07483690711684596
+30049403.0,"Muhammad Sonhaji Akbar, S.Pd., M.Kom.",S1 Pendidikan Teknologi Informasi,10,3,Applied Information Technology & Systems,-1,0,,,Unclassified,
+29089602.0,"Ersha Aisyah Elfaiz, S.Si., M.T.I.",S1 Pendidikan Teknologi Informasi,8,2,Digital Business & Information Systems,1,1,0.3561569131253324,0.0063484263304684685,Semantic Broker,0.047403536343283294
+611099201.0,"Nisa Dwi Septiyanti, S.Kom., M.Pd., M.Sc.",S1 Pendidikan Teknologi Informasi,36,2,Digital Business & Information Systems,-1,0,,,Unclassified,
+,"Mohammad Wildan Habibi, S.Pd., M.Pd.",S1 Pendidikan Teknologi Informasi,5,0,Educational Technology & Engineering,0,1,0.3582972053233999,0.00026505585511796693,Semantic Broker,0.03908443693995251
+413029003.0,"Elvira Wardah, S.Pd., M.Ed.",S1 Pendidikan Teknologi Informasi,1,2,Digital Business & Information Systems,-1,0,,,Unclassified,
+25036102.0,"Prof. Dr. Bambang Suprianto, M.T.",S2 Teknik Elektro,29,0,Educational Technology & Engineering,2,1,0.29031514882368736,0.01121186468531228,Semantic Broker,0.09793137892836958
+6077107.0,"Prof. Dr. I Gusti Putu Asto Buditjahjanto, S.T., M.T.",S2 Informatika,1,0,Educational Technology & Engineering,-1,0,,,Unclassified,
+27016204.0,"Prof. Dr. Tri Wrahatnolo, M.Pd.  M.T.",S1 Pendidikan Teknologi Informasi,14,0,Educational Technology & Engineering,0,1,0.43304441208395617,0.0007445634647480239,Local Specialist,0.03895119065071981
+17026504.0,"Prof. Dr. Joko, M.Pd., M.T.",S3 Pendidikan Vokasi,43,0,Educational Technology & Engineering,1,1,0.2723531672661988,0.0006615509683816724,Semantic Broker,0.05995048633167211
+21027602.0,"Unit Three Kartini, S.T., M.T., Ph.D.",S2 Teknik Elektro,25,1,Computing & Artificial Intelligence,2,1,0.34021217170171947,0.004972158119700869,Semantic Broker,0.07572398059321922
+2097901.0,"Prof. Dr. Lilik Anifah, S.T., M.T.",S2 Teknik Elektro,180,0,Educational Technology & Engineering,0,1,0.16726241555045915,0.12710154540906643,Semantic Broker,0.33254198658546075
+12108004.0,"Dr. Ir. Lusia Rakhmawati, S.T., M.T.",Program Profesi Insinyur,28,1,Computing & Artificial Intelligence,4,2,0.19686813409226878,0.14732841150134268,Semantic Broker,0.7354757200602486
+4127803.0,"Prof. Dr. Nurhayati, S.T., M.T.",S2 Teknik Elektro,105,0,Educational Technology & Engineering,0,1,0.2475287042933084,0.011345470170246359,Semantic Broker,0.12582313300571152
+17087505.0,"Dr. Raden Roro Hapsari Peni  Agustin T, S.Si., M.T.",S1 Teknik Elektro,33,0,Educational Technology & Engineering,-1,0,,,Unclassified,
+29068803.0,"Pradini Puspitaningayu, S.T., M.T., Ph.D.",S1 Teknik Elektro,46,1,Computing & Artificial Intelligence,1,1,0.1846055276835546,0.08257620177748422,Semantic Broker,0.1828177504654216
+22067003.0,"Prof. Dr. Puput Wanarti Rusimamto, S.T., M.T.",S2 Pendidikan Teknik Elektro,18,0,Educational Technology & Engineering,0,1,0.2735438504834771,0.011222393651624708,Semantic Broker,0.08111062908943392
+20087506.0,"Dr. Subuh Isnur Haryudo, S.T., M.T.",S2 Pendidikan Teknologi Informasi,19,0,Educational Technology & Engineering,0,1,0.2661111287932716,0.0024368286893842734,Semantic Broker,0.06366955010429393
+21057204.0,"Dr. Ir. Nur Kholis, S.T., M.T.",S2 Pendidikan Teknik Elektro,110,0,Educational Technology & Engineering,1,1,0.2706814435642998,0.02209177985575501,Semantic Broker,0.11637093661681114
+31036406.0,"Dr.  Endryansyah, S.T., M.T.",S1 Teknik Elektro,10,0,Educational Technology & Engineering,0,1,0.48373338382589093,0.00021267906542416843,Local Specialist,0.03735464265067492
+7026904.0,"Ibrohim, S.T., M.T.",S1 Teknik Elektro,1,1,Computing & Artificial Intelligence,2,1,0.5979555562870038,0.0,Thematic Bridge (Embedded),0.016819955129982626
+23058603.0,"Dr. Farid Baskoro, S.T., M.T.",S2 Pendidikan Teknik Elektro,73,0,Educational Technology & Engineering,2,1,0.3061826839749079,0.01571283409716655,Semantic Broker,0.10566811258290468
+704038901.0,"Rifqi Firmansyah, S.T., M.T., Ph.D.",S1 Teknik Elektro,1,1,Computing & Artificial Intelligence,-1,0,,,Unclassified,
+14098702.0,"Arif Widodo, S.T., M.Sc.",S1 Teknik Elektro,40,1,Computing & Artificial Intelligence,1,1,0.26206820934957803,0.027481616830352978,Semantic Broker,0.10526374335216918
+7078705.0,"Miftahur Rohman, S.T., M.T.",S1 Teknik Elektro,17,1,Computing & Artificial Intelligence,2,1,0.38336385830510644,0.008315591785137777,Thematic Bridge (Embedded),0.06495069841668913
+714019401.0,"Parama Diptya Widayaka, S.ST., M.T.",S1 Teknik Elektro,12,1,Computing & Artificial Intelligence,1,1,0.22200557703952425,0.013425685950798395,Semantic Broker,0.0792093073818577
+20038306.0,"Mahendra Widyartono, S.T., M.T.",D4 Teknik Listrik,43,0,Educational Technology & Engineering,-1,0,,,Unclassified,
+23048005.0,"Dr. Widi Aribowo, S.T., M.T.",D4 Teknik Listrik,144,1,Computing & Artificial Intelligence,2,1,0.30959130805941104,0.01194472511320116,Semantic Broker,0.1394330701377898
+16038401.0,"Reza Rahmadian, S.ST., M.EngSc.",D4 Teknik Listrik,19,1,Computing & Artificial Intelligence,2,1,0.5188146031551603,0.024044445396519596,Thematic Bridge (Embedded),0.07272859235458885
+16058605.0,"Aditya Chandra Hermawan, S.ST., M.T.",D4 Teknik Listrik,2,1,Computing & Artificial Intelligence,2,1,1.0,0.0,Local Specialist,0.000536014409092646
+9079802.0,"Sayyidul Aulia Alamsyah, S.T., M.T.",S1 Teknik Elektro,13,1,Computing & Artificial Intelligence,1,1,0.28908417252715557,0.002569218776128247,Semantic Broker,0.05692500874917982
+716029703.0,"Yandhika Surya Akbar Gumilang, S.T., M.T.",S1 Teknik Elektro,25,1,Computing & Artificial Intelligence,-1,0,,,Unclassified,
+2024129001.0,"Hesti Khuzaimah Nurul Yusufiyah, S.Si., M.Eng.",S1 Teknik Elektro,4,1,Computing & Artificial Intelligence,1,1,1.0,0.0,Local Specialist,0.001606315083649275
+9990475057.0,"Ir. Wahyu Sasongko Putro, B.Eng., M.Sc., IPM., ASEAN Eng., APEC Eng.",Program Profesi Insinyur,20,1,Computing & Artificial Intelligence,-1,0,,,Unclassified,
+,"Namira Roudlotul Jannah, S.T., M.T.",S1 Teknik Elektro,5,0,Educational Technology & Engineering,-1,0,,,Unclassified,
+5048201.0,"Dr. Elly Matul Imah, M.Kom.",S1 Kecerdasan Artifisial,39,1,Computing & Artificial Intelligence,3,1,0.33727612731671974,0.058294835619717454,Structural Broker (Within-Topic),0.1328695456671292
+21059403.0,"Riskyana Dewi Intan P, M.Kom.",S1 Kecerdasan Artifisial,17,1,Computing & Artificial Intelligence,3,1,0.5589639671832989,0.006581325648735226,Local Specialist,0.04544355120626579
+23049602.0,"Fadhilah Qalbi Annisa, S.T., M.Sc.",S1 Kecerdasan Artifisial,9,1,Computing & Artificial Intelligence,3,1,0.5768545513443472,0.0024510704719242966,Local Specialist,0.030270857757646534
+26069206.0,"Harmon Prayogi, M.Sc.",S1 Kecerdasan Artifisial,15,1,Computing & Artificial Intelligence,3,1,0.7753212396069538,0.0,Local Specialist,0.021045095515380953
+109049001.0,"Ike Fitriyaningsih, M.Si",S1 Kecerdasan Artifisial,6,1,Computing & Artificial Intelligence,3,1,0.7753212396069538,0.0,Local Specialist,0.016228742479876122
+12106608.0,"Dr. Atik Wintarti, M.Kom.",S1 Sains Data,68,0,Educational Technology & Engineering,3,1,0.4295323022025784,0.028372008750528126,Local Specialist,0.10388742810290631
+18028801.0,"Ibnu Febry Kurniawan, S.Kom., M.Sc., Ph.D.",S1 Sains Data,19,1,Computing & Artificial Intelligence,1,1,0.21487730843791447,0.01119479642437495,Semantic Broker,0.0634771789990767
+31077804.0,"Yuliani Puji Astuti, S.Si., M.Si.",S1 Sains Data,83,0,Educational Technology & Engineering,-1,0,,,Unclassified,
+9089303.0,"Hasanuddin Al-Habib, M.Si.",S1 Sains Data,4,1,Computing & Artificial Intelligence,3,2,0.2756763307961527,0.028792462479095688,Semantic Broker,0.5732383172611673
+4109601.0,"Ulfa Siti Nuraini, S.Stat., M.Stat.",S1 Sains Data,18,1,Computing & Artificial Intelligence,1,1,0.6056588613406796,0.0,Local Specialist,0.025650331496397862
+11129602.0,"Dinda Galuh Guminta, M.Stat.",S1 Sains Data,1,0,Educational Technology & Engineering,-1,0,,,Unclassified,
+10129311.0,"Kartika Chandra Dewi, S.Si., M.Si.",S1 Sains Data,5,1,Computing & Artificial Intelligence,-1,0,,,Unclassified,
+728069501.0,"Yuni Rosita Dewi, M.Si.",S1 Sains Data,0,-1,,-1,0,,,Unclassified,
+706069301.0,"Dr. Heri Purnawan, S.Si., M.Si.",S1 Sains Data,24,1,Computing & Artificial Intelligence,-1,0,,,Unclassified,
+704058801.0,"Moh. Khoridatul Huda, S.Pd., M.Si., Ph.D.",S1 Sains Data,39,1,Computing & Artificial Intelligence,-1,0,,,Unclassified,
+,"Belgis Ainatul Iza, S.Si, M.Mat.",S1 Sains Data,4,1,Computing & Artificial Intelligence,-1,0,,,Unclassified,
+725129501.0,"Siska Puspitaningsih, S.Kom., M.Kom.",S1 Sains Data,14,3,Applied Information Technology & Systems,-1,0,,,Unclassified,
+,"Nurul Laili, S.Pd., M.Sc.",S1 Sains Data,3,1,Computing & Artificial Intelligence,-1,0,,,Unclassified,
+723108603.0,"Hujjatullah Fazlurrahman, S.E., MBA.",S1 Bisnis Digital,15,2,Digital Business & Information Systems,5,1,0.3518077259650465,0.00732373216845266,Structural Broker (Within-Topic),0.06677354531854364
+15128901.0,"Achmad Kautsar, S.E., M.M.",S1 Bisnis Digital,94,2,Digital Business & Information Systems,5,1,0.31752687796493556,0.010301913407503476,Structural Broker (Within-Topic),0.11637096801608483
+13038701.0,"Hafid Kholidi Hadi, S.E., M.SM.",S1 Bisnis Digital,53,2,Digital Business & Information Systems,5,1,0.34415523503679535,0.010301913407503476,Structural Broker (Within-Topic),0.09350670325874605
+6118505.0,"Ika Diyah Candra Arifah, S.E., M.Com.",S1 Bisnis Digital,55,2,Digital Business & Information Systems,5,1,0.3564850059932348,0.006291948217414059,Structural Broker (Within-Topic),0.08689131624500868
+715058602.0,"Riska Dhenabayu, S.Kom., M.M.",S1 Bisnis Digital,33,2,Digital Business & Information Systems,5,1,0.37362671277588405,0.00017319636884854277,Local Specialist,0.05920046738327451
+14059401.0,"Fresha Kharisma,  S.E., M.SM.",S1 Bisnis Digital,9,2,Digital Business & Information Systems,5,1,0.3328617047235749,0.010060746706709445,Structural Broker (Within-Topic),0.0672066334026153
+714108902.0,"Renny Sari Dewi, S. Kom., M. Kom.",S1 Bisnis Digital,26,2,Digital Business & Information Systems,5,1,0.3707286917840158,0.00023718517507337382,Local Specialist,0.05562471610706365
+3039004.0,"Anita Safitri, M. Kom.",S1 Bisnis Digital,16,2,Digital Business & Information Systems,5,1,0.31789260909749667,0.011062384820148803,Structural Broker (Within-Topic),0.0783282952363895
+,"Dr. Nanang Hoesen. H. A., S.T., M.T.I.",S1 Bisnis Digital,44,2,Digital Business & Information Systems,5,1,0.26774034121542617,0.24576792255363686,Semantic Broker,0.35409286076309604
+29109601.0,"Muhammad Fajar Wahyudi Rahman, S.E., M.M.",S1 Bisnis Digital,18,2,Digital Business & Information Systems,5,1,0.42426478321112254,0.005945271085022642,Local Specialist,0.0585992357602673
+207068405.0,"Dr.  Ratih Amelia, S.E., M.M.",S2 Bisnis Digital,10,2,Digital Business & Information Systems,5,1,0.3673196885607263,9.811616954474097e-05,Structural Broker (Within-Topic),0.04991045188156234
+27059208.0,"Nadia Nur Thahirrah, S.E., M.SM.",S1 Bisnis Digital,5,2,Digital Business & Information Systems,5,1,0.40535991937840304,6.82547266398198e-05,Local Specialist,0.043001657472262235
+730098401.0,"Dr. Dhiyan Septa Wihara, S.P., M.M.",S2 Bisnis Digital,54,2,Digital Business & Information Systems,5,1,0.4010782455423766,2.9861442904921164e-05,Local Specialist,0.06644880434402628
+925048902.0,"Dr Muhammad Fachmi, S.E., M.M.",S2 Bisnis Digital,0,-1,,-1,0,,,Unclassified,
+706058903.0,"Achmad Fitro, S.Kom., M.Kom.",S1 Bisnis Digital,42,1,Computing & Artificial Intelligence,5,1,0.4656965836964795,2.9861442904921164e-05,Local Specialist,0.05202344398385191
+,"Muhammad Febrilian Dwi Syahputra, S.Kom., M.Kom.",S1 Bisnis Digital,10,0,Educational Technology & Engineering,-1,0,,,Unclassified,
+,"Dana Azizah Rahmat, S.T., M.T., MBA.",S1 Bisnis Digital,7,2,Digital Business & Information Systems,-1,0,,,Unclassified,
+,"Danang Ary Dewangga, S.Kom., M.SM.",S1 Bisnis Digital,1,3,Applied Information Technology & Systems,-1,0,,,Unclassified,
+727069202.0,"Diki Putra Setianto, S.M., M.Sc.",S1 Bisnis Digital,0,-1,,-1,0,,,Unclassified,
+704049502.0,"Rakha Asyrofi, S.ST., M.Kom.",S1 Agribisnis Digital,7,3,Applied Information Technology & Systems,-1,0,,,Unclassified,
+8017807.0,"Dodik Arwin Dermawan, S.ST., S.T., M.T.",D4 Manajemen Informatika,140,0,Educational Technology & Engineering,6,1,0.5070195893912915,0.005159164979684724,Thematic Bridge (Embedded),0.11151559026524022
+10017709.0,"Asmunin, S.Kom., M.Kom.",D4 Manajemen Informatika,58,0,Educational Technology & Engineering,4,2,0.22791080531881405,0.14617583539222806,Semantic Broker,0.7578414060061628
+27107802.0,"Andi Iwan Nurhidayat, S.Kom., M.T.",D4 Manajemen Informatika,3,0,Educational Technology & Engineering,4,1,1.0,0.0,Local Specialist,0.0010711647463709606
+30037305.0,"Ari Kurniawan, S.Kom., M.T.",D4 Manajemen Informatika,10,0,Educational Technology & Engineering,0,1,0.46473331584305677,0.0008380609768991209,Thematic Bridge (Embedded),0.032932357458615634
+2118203.0,"Salamun Rohman Nudin, S.Kom., M.Kom.",D4 Manajemen Informatika,76,0,Educational Technology & Engineering,6,1,0.6365668093067327,5.972288580984233e-05,Local Specialist,0.0643277445189862
+26109501.0,"I Gde Agung Sri Sidhimantra, S.Kom., M.Kom.",D4 Manajemen Informatika,12,0,Educational Technology & Engineering,6,1,0.7381423197894803,0.0,Local Specialist,0.0236102378602402
+,"Rosita, S.Pd., M.Pd.",D4 Manajemen Informatika,7,0,Educational Technology & Engineering,3,1,1.0,0.0,Local Specialist,0.003211766095484219
+16089503.0,"Faris Abdi El Hakim, S.Kom., M.Tr.Kom.",D4 Manajemen Informatika,8,1,Computing & Artificial Intelligence,6,1,0.6015732531892998,0.0,Local Specialist,0.026203951583635265
+706089601.0,"Binti Kholifah, S.Kom., M.Tr.Kom.",D4 Manajemen Informatika,10,3,Applied Information Technology & Systems,-1,0,,,Unclassified,
+26119602.0,"Dimas Novian Aditia Syahputra, S.Tr.T., M.Tr.T.",D4 Manajemen Informatika,9,0,Educational Technology & Engineering,6,1,0.6964533905111632,5.972288580984233e-05,Local Specialist,0.026396638518642095
+10089901.0,"Moch Deny Pratama, S.Tr.Kom., M.Kom.",D4 Manajemen Informatika,9,1,Computing & Artificial Intelligence,1,1,0.45727188444822375,0.0,Thematic Bridge (Embedded),0.03174146564808541
+16019901.0,"M Adamu Islam Mashuri, S.Tr.T., M.Tr.Kom.",D4 Manajemen Informatika,6,3,Applied Information Technology & Systems,-1,0,,,Unclassified,
+,"Dr. Fitria, S.Pd., M.Pd.",S2 Industri Kreatif,19,0,Educational Technology & Engineering,-1,0,,,Unclassified,
+,"Moch. Badrus Sholeh, S.Kom., M.Kom.",D4 Manajemen Informatika,6,1,Computing & Artificial Intelligence,-1,0,,,Unclassified,
+5106404.0,"Prof. Dr. Mustaji, M.Pd.",S3 Teknologi Pendidikan,255,0,Educational Technology & Engineering,7,1,0.38708333333333333,0.021739130434782608,Local Specialist,0.18666590664880237
+,"Prof.Dr. Rusijono, M.Pd.",S2 Pendidikan Teknologi Informasi,128,0,Educational Technology & Engineering,7,1,1.0,0.0,Local Specialist,0.06796495690616029
+10035705.0,"Prof. Dr. Siti Masitoh, M.Pd.",S3 Pendidikan Inklusi,105,0,Educational Technology & Engineering,7,1,0.6617361111111111,0.0,Local Specialist,0.07026443204981539
+,"Prof.Dr.Yatim Riyanto,M.Pd.",S2 Pendidikan Teknologi Informasi,219,0,Educational Technology & Engineering,7,1,1.0,0.0,Local Specialist,0.11666363759848691
+,"Dr. Bachtiar Syaiful Bachri, M.Pd",S2 Pendidikan Teknologi Informasi,191,0,Educational Technology & Engineering,7,1,0.43423611111111127,0.12470138557095078,Local Specialist,0.2689192339058065
+16046402.0,"Dr. H. Andi Mariono, M.Pd.",S2 Teknologi Pendidikan,8,0,Educational Technology & Engineering,7,1,1.0,0.0,Local Specialist,0.0037469164327625336
+708027503.0,"Dr. Fajar Arianto, S.Pd., M.Pd.",S3 Teknologi Pendidikan,13,0,Educational Technology & Engineering,7,1,0.568142361111111,0.021978021978021976,Local Specialist,0.0540253914975812

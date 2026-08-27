@@ -1,0 +1,130 @@
+nama_dosen,prodi,n_papers_total,corpus_source,corpus_n_tokens
+"Aditya Prapanca, S.T., M.Kom.",S1 Teknik Informatika,89,scopus,1361
+"Anita Qoiriah, S.Kom., M.Kom.",S1 Teknik Informatika,112,scopus,2330
+"Dr. Yuni Yamasari, S.Kom., M.Kom.",S2 Informatika,37,scopus,3935
+"Agus Prihanto, S.T., M.Kom.",S1 Teknik Informatika,87,scopus,668
+"Dr. Ir. Ricky Eka Putra, S.Kom., M.Kom.",S2 Informatika,21,scopus,2317
+"I Made Suartana, S.Kom., M.Kom.",S1 Teknik Informatika,75,scholar_fallback,755
+"Naim Rochmawati, S.Kom., M.T.",S1 Teknik Informatika,70,scopus,2890
+"Paramitha Nerisafitra, S.ST., M.Kom.",S1 Teknik Informatika,56,scopus,682
+"Ronggo Alit, M.M., M.T.",Pendidikan Profesi Guru,3,scopus,324
+"Ervin Yohannes, S.Kom., M.Kom., M.Sc., Ph.D.",S2 Informatika,8,scopus,880
+"Farhanna Mari, S.Kom., M.Kom.",S1 Teknik Informatika,32,scopus,1272
+"Rifqi Abdillah, M.Kom.",S1 Teknik Informatika,8,scopus,930
+"Dr.  Wiyli Yustanti, S.Si., M.Kom.",S2 Informatika,23,scopus,2395
+"Dr. I Kadek Dwi Nuryana, S.T., M.Kom.",S1 Pendidikan Teknologi Informasi,0,no_data,0
+"Dwi Fatrianto Suyatno, S.Kom., M.Kom.",S1 Sistem Informasi,65,scholar_fallback,852
+"Dr. Aries Dwi Indriyanti, S.Kom., M.Kom.",S1 Sistem Informasi,19,scopus,2177
+"Ardhini Warih Utami, S.Kom., M.Kom.",S1 Sistem Informasi,59,scopus,337
+"Rahadian Bisma, S.Kom., M.Kom.",S1 Sistem Informasi,46,scopus,886
+"Ghea Sekar Palupi, S.Kom., M.I.M.",S1 Sistem Informasi,34,scopus,605
+"Bonda Sisephaputra, M. Kom.",S1 Informatika (Kampus Kabupaten Magetan),36,scopus,501
+"Berlian Maulidya Izzati, S.Kom. M.Kom.",S1 Sistem Informasi,30,scopus,1081
+"Anggraeni Widya Purwita, M.Kom.",S1 Sistem Informasi,12,scopus,730
+"Monica Cinthya, M.Kom.",S1 Sistem Informasi,10,scopus,462
+"Cendra Devayana Putra, S.Kom., M.IM.",S1 Sistem Informasi,26,scopus,1166
+"Erik Rahman, S.Kom., M.M.S.I.",S1 Sistem Informasi,23,scholar_fallback,229
+"Prof. Dr. Ekohariadi, M.Pd.",S2 Pendidikan Teknologi Informasi,53,scopus,3959
+"Drs. Bambang Sujatmiko, M.T.",S1 Pendidikan Teknologi Informasi,132,scopus,615
+"Dr. Tri Rijanto, M.Pd., M.T.",S3 Penelitian dan Evaluasi Pendidikan,252,scopus,2324
+"Dr. Yeni Anistyasari, S.Pd., M.Kom.",S2 Pendidikan Teknologi Informasi,173,scopus,4767
+"I Gusti Lanang Putra Eka Prismana, S.Kom., M.Kom.",S1 Pendidikan Teknologi Informasi,89,scholar_fallback,1059
+"Rindu Puspita Wibawa, S.Kom., M.Kom.",S1 Pendidikan Teknologi Informasi,40,scopus,507
+"Martini Dwi Endah Susanti, S.Kom., M.Kom.",S1 Pendidikan Teknologi Informasi,51,scopus,6597
+"Ramadhan Cakra Wibawa, S.Pd., M.Kom.",S1 Pendidikan Teknologi Informasi,4,scopus,359
+"Harun Al Rosyid, S.T., M.T.",S1 Pendidikan Teknologi Informasi,15,scopus,101
+"Ir. Rizky Basatha,  S.Pd.,  M.MT.",S1 Pendidikan Teknologi Informasi,2,scopus,215
+"Riza Akhsani Setyo Prayoga, S.Kom., M.MT.",S1 Pendidikan Teknologi Informasi,40,scopus,349
+"Muhammad Sonhaji Akbar, S.Pd., M.Kom.",S1 Pendidikan Teknologi Informasi,10,scholar_fallback,113
+"Ersha Aisyah Elfaiz, S.Si., M.T.I.",S1 Pendidikan Teknologi Informasi,8,scopus,482
+"Nisa Dwi Septiyanti, S.Kom., M.Pd., M.Sc.",S1 Pendidikan Teknologi Informasi,36,scopus,715
+"Mohammad Wildan Habibi, S.Pd., M.Pd.",S1 Pendidikan Teknologi Informasi,5,scopus,615
+"Elvira Wardah, S.Pd., M.Ed.",S1 Pendidikan Teknologi Informasi,1,scopus,154
+"Prof. Dr. Bambang Suprianto, M.T.",S2 Teknik Elektro,29,scopus,3241
+"Prof. Dr. I Gusti Putu Asto Buditjahjanto, S.T., M.T.",S2 Informatika,1,scopus,175
+"Prof. Dr. Tri Wrahatnolo, M.Pd.  M.T.",S1 Pendidikan Teknologi Informasi,14,scopus,1172
+"Prof. Dr. Joko, M.Pd., M.T.",S3 Pendidikan Vokasi,43,scopus,1067
+"Unit Three Kartini, S.T., M.T., Ph.D.",S2 Teknik Elektro,25,scopus,2631
+"Prof. Dr. Lilik Anifah, S.T., M.T.",S2 Teknik Elektro,180,scopus,6229
+"Dr. Ir. Lusia Rakhmawati, S.T., M.T.",Program Profesi Insinyur,28,scopus,2927
+"Prof. Dr. Nurhayati, S.T., M.T.",S2 Teknik Elektro,105,scopus,5634
+"Dr. Raden Roro Hapsari Peni  Agustin T, S.Si., M.T.",S1 Teknik Elektro,33,scopus,97
+"Pradini Puspitaningayu, S.T., M.T., Ph.D.",S1 Teknik Elektro,46,scopus,5289
+"Prof. Dr. Puput Wanarti Rusimamto, S.T., M.T.",S2 Pendidikan Teknik Elektro,18,scopus,2052
+"Dr. Subuh Isnur Haryudo, S.T., M.T.",S2 Pendidikan Teknologi Informasi,19,scopus,2207
+"Dr. Ir. Nur Kholis, S.T., M.T.",S2 Pendidikan Teknik Elektro,110,scopus,1134
+"Dr.  Endryansyah, S.T., M.T.",S1 Teknik Elektro,10,scopus,1255
+"Ibrohim, S.T., M.T.",S1 Teknik Elektro,1,scopus,83
+"Dr. Farid Baskoro, S.T., M.T.",S2 Pendidikan Teknik Elektro,73,scopus,2287
+"Rifqi Firmansyah, S.T., M.T., Ph.D.",S1 Teknik Elektro,1,scopus,102
+"Arif Widodo, S.T., M.Sc.",S1 Teknik Elektro,40,scopus,1416
+"Miftahur Rohman, S.T., M.T.",S1 Teknik Elektro,17,scopus,1671
+"Parama Diptya Widayaka, S.ST., M.T.",S1 Teknik Elektro,12,scopus,1454
+"Mahendra Widyartono, S.T., M.T.",D4 Teknik Listrik,43,scopus,223
+"Dr. Widi Aribowo, S.T., M.T.",D4 Teknik Listrik,144,scopus,8600
+"Reza Rahmadian, S.ST., M.EngSc.",D4 Teknik Listrik,19,scopus,2027
+"Aditya Chandra Hermawan, S.ST., M.T.",D4 Teknik Listrik,2,scopus,216
+"Sayyidul Aulia Alamsyah, S.T., M.T.",S1 Teknik Elektro,13,scopus,969
+"Yandhika Surya Akbar Gumilang, S.T., M.T.",S1 Teknik Elektro,25,scopus,133
+"Hesti Khuzaimah Nurul Yusufiyah, S.Si., M.Eng.",S1 Teknik Elektro,4,scopus,453
+"Ir. Wahyu Sasongko Putro, B.Eng., M.Sc., IPM., ASEAN Eng., APEC Eng.",Program Profesi Insinyur,20,scopus,2116
+"Namira Roudlotul Jannah, S.T., M.T.",S1 Teknik Elektro,5,scopus,284
+"Dr. Elly Matul Imah, M.Kom.",S1 Kecerdasan Artifisial,39,scopus,4232
+"Riskyana Dewi Intan P, M.Kom.",S1 Kecerdasan Artifisial,17,scopus,1468
+"Fadhilah Qalbi Annisa, S.T., M.Sc.",S1 Kecerdasan Artifisial,9,scopus,563
+"Harmon Prayogi, M.Sc.",S1 Kecerdasan Artifisial,15,scopus,1406
+"Ike Fitriyaningsih, M.Si",S1 Kecerdasan Artifisial,6,scopus,813
+"Dr. Atik Wintarti, M.Kom.",S1 Sains Data,68,scopus,2086
+"Ibnu Febry Kurniawan, S.Kom., M.Sc., Ph.D.",S1 Sains Data,19,scopus,2523
+"Yuliani Puji Astuti, S.Si., M.Si.",S1 Sains Data,83,scopus,2613
+"Hasanuddin Al-Habib, M.Si.",S1 Sains Data,4,scopus,518
+"Ulfa Siti Nuraini, S.Stat., M.Stat.",S1 Sains Data,18,scopus,641
+"Dinda Galuh Guminta, M.Stat.",S1 Sains Data,1,scopus,105
+"Kartika Chandra Dewi, S.Si., M.Si.",S1 Sains Data,5,scopus,207
+"Yuni Rosita Dewi, M.Si.",S1 Sains Data,0,no_data,0
+"Dr. Heri Purnawan, S.Si., M.Si.",S1 Sains Data,24,scopus,836
+"Moh. Khoridatul Huda, S.Pd., M.Si., Ph.D.",S1 Sains Data,39,scopus,75
+"Belgis Ainatul Iza, S.Si, M.Mat.",S1 Sains Data,4,scopus,343
+"Siska Puspitaningsih, S.Kom., M.Kom.",S1 Sains Data,14,scholar_fallback,147
+"Nurul Laili, S.Pd., M.Sc.",S1 Sains Data,3,scopus,122
+"Hujjatullah Fazlurrahman, S.E., MBA.",S1 Bisnis Digital,15,scopus,1713
+"Achmad Kautsar, S.E., M.M.",S1 Bisnis Digital,94,scopus,2957
+"Hafid Kholidi Hadi, S.E., M.SM.",S1 Bisnis Digital,53,scopus,1932
+"Ika Diyah Candra Arifah, S.E., M.Com.",S1 Bisnis Digital,55,scopus,2681
+"Riska Dhenabayu, S.Kom., M.M.",S1 Bisnis Digital,33,scopus,1092
+"Fresha Kharisma,  S.E., M.SM.",S1 Bisnis Digital,9,scopus,982
+"Renny Sari Dewi, S. Kom., M. Kom.",S1 Bisnis Digital,26,scopus,2930
+"Anita Safitri, M. Kom.",S1 Bisnis Digital,16,scopus,1881
+"Dr. Nanang Hoesen. H. A., S.T., M.T.I.",S1 Bisnis Digital,44,scopus,2341
+"Muhammad Fajar Wahyudi Rahman, S.E., M.M.",S1 Bisnis Digital,18,scopus,2247
+"Dr.  Ratih Amelia, S.E., M.M.",S2 Bisnis Digital,10,scopus,1198
+"Nadia Nur Thahirrah, S.E., M.SM.",S1 Bisnis Digital,5,scopus,502
+"Dr. Dhiyan Septa Wihara, S.P., M.M.",S2 Bisnis Digital,54,scopus,706
+"Dr Muhammad Fachmi, S.E., M.M.",S2 Bisnis Digital,0,no_data,0
+"Achmad Fitro, S.Kom., M.Kom.",S1 Bisnis Digital,42,scopus,571
+"Muhammad Febrilian Dwi Syahputra, S.Kom., M.Kom.",S1 Bisnis Digital,10,scopus,752
+"Dana Azizah Rahmat, S.T., M.T., MBA.",S1 Bisnis Digital,7,scopus,436
+"Danang Ary Dewangga, S.Kom., M.SM.",S1 Bisnis Digital,1,scholar_fallback,8
+"Diki Putra Setianto, S.M., M.Sc.",S1 Bisnis Digital,0,no_data,0
+"Rakha Asyrofi, S.ST., M.Kom.",S1 Agribisnis Digital,7,scholar_fallback,58
+"Dodik Arwin Dermawan, S.ST., S.T., M.T.",D4 Manajemen Informatika,140,scopus,1919
+"Asmunin, S.Kom., M.Kom.",D4 Manajemen Informatika,58,scopus,900
+"Andi Iwan Nurhidayat, S.Kom., M.T.",D4 Manajemen Informatika,3,scopus,100
+"Ari Kurniawan, S.Kom., M.T.",D4 Manajemen Informatika,10,scopus,367
+"Salamun Rohman Nudin, S.Kom., M.Kom.",D4 Manajemen Informatika,76,scopus,1167
+"I Gde Agung Sri Sidhimantra, S.Kom., M.Kom.",D4 Manajemen Informatika,12,scopus,647
+"Rosita, S.Pd., M.Pd.",D4 Manajemen Informatika,7,scopus,136
+"Faris Abdi El Hakim, S.Kom., M.Tr.Kom.",D4 Manajemen Informatika,8,scopus,213
+"Binti Kholifah, S.Kom., M.Tr.Kom.",D4 Manajemen Informatika,10,scholar_fallback,109
+"Dimas Novian Aditia Syahputra, S.Tr.T., M.Tr.T.",D4 Manajemen Informatika,9,scopus,744
+"Moch Deny Pratama, S.Tr.Kom., M.Kom.",D4 Manajemen Informatika,9,scopus,142
+"M Adamu Islam Mashuri, S.Tr.T., M.Tr.Kom.",D4 Manajemen Informatika,6,scholar_fallback,54
+"Dr. Fitria, S.Pd., M.Pd.",S2 Industri Kreatif,19,scopus,2145
+"Moch. Badrus Sholeh, S.Kom., M.Kom.",D4 Manajemen Informatika,6,scopus,75
+"Prof. Dr. Mustaji, M.Pd.",S3 Teknologi Pendidikan,255,scopus,3109
+"Prof.Dr. Rusijono, M.Pd.",S2 Pendidikan Teknologi Informasi,128,scopus,102
+"Prof. Dr. Siti Masitoh, M.Pd.",S3 Pendidikan Inklusi,105,scopus,1804
+"Prof.Dr.Yatim Riyanto,M.Pd.",S2 Pendidikan Teknologi Informasi,219,scopus,1860
+"Dr. Bachtiar Syaiful Bachri, M.Pd",S2 Pendidikan Teknologi Informasi,191,scopus,2913
+"Dr. H. Andi Mariono, M.Pd.",S2 Teknologi Pendidikan,8,scopus,894
+"Dr. Fajar Arianto, S.Pd., M.Pd.",S3 Teknologi Pendidikan,13,scopus,1780
