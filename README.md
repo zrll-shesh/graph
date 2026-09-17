@@ -627,24 +627,7 @@ imported manually via Neo4j Browser or `cypher-shell` at any time.
 
 ---
 
-## 16. Environment setup
-
-```
-python -m venv venv
-venv\Scripts\activate        (Windows)
-source venv/bin/activate     (Mac/Linux)
-
-pip install -r requirements-notebook.txt
-pip install jupyter ipykernel
-```
-
-Open `analisis_jaringan_dosen_infokom.ipynb` in VS Code, select the `venv`
-interpreter as the kernel, and run all cells top to bottom. This creates an
-`output/` folder next to the notebook with 15 subfolders: one per analysis
-stage (charts and CSVs) plus `output/15_saved_models/` holding every
-trained model and lookup table.
-
-## 17. Topic and cluster names
+## 16. Topic and cluster names
 
 The four NMF topics (section 6) and four thematic clusters (section 7)
 are labeled as follows. These names are set in the notebook via the
@@ -671,53 +654,3 @@ Clusters:
 
 To relabel either set, edit the corresponding dictionary in the notebook
 and re-run that cell and everything below it.
-
-## 18. Testing the pipeline on new data (FastAPI)
-
-When a new lecturer or new paper needs to be checked against the existing
-topics and clusters, without re-running the whole notebook:
-
-```
-pip install -r requirements-api.txt
-uvicorn app:app --reload --port 8000
-```
-
-The API loads everything from `output/15_saved_models/`, so run the
-notebook at least once first. Interactive docs are available at
-`http://127.0.0.1:8000/docs` once it is running.
-
-```
-curl http://127.0.0.1:8000/health
-curl http://127.0.0.1:8000/topics
-curl http://127.0.0.1:8000/clusters
-
-curl -X POST http://127.0.0.1:8000/predict \
-  -H "Content-Type: application/json" \
-  -d "{\"text\": \"paste the new paper's title, abstract, and keywords here\"}"
-```
-
-The response includes the predicted topic distribution, the dominant topic
-(with your custom name if set), and the predicted thematic cluster.
-
-This only covers the text-based side (topic and thematic cluster). It
-cannot predict network-based measures (structural holes, community
-membership, broker typology, ranking) for a brand-new lecturer, since those
-depend on real co-authorship edges. To update those, add the new lecturer
-and their collaboration data to the raw CSVs and re-run the notebook from
-the network construction section onward.
-
-## 19. Importing into Neo4j
-
-After running the notebook, `output/13_neo4j_export/` contains
-`nodes_dosen.csv`, `nodes_topic.csv`, `edges_collaboration.csv`,
-`edges_dosen_topic.csv`, and `import_script.cypher`. Copy the CSVs into
-your Neo4j import folder and run the Cypher script in Neo4j Browser or
-`cypher-shell`.
-
-## 20. Files in this delivery
-
-- `analisis_jaringan_dosen_infokom.ipynb`: the full analysis pipeline
-- `app.py`: FastAPI inference service for testing new data
-- `requirements-notebook.txt`: exact package versions for the notebook
-- `requirements-api.txt`: packages needed to run the API
-- `README.md`: this file
